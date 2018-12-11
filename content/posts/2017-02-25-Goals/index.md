@@ -38,7 +38,9 @@ Attend the local bootcamp at least twice a week.
 * Learn to deploy apps on Dokku
 
 ```js
+
 // TODO: code every day
+
 ```
 
 #### Learning Resources

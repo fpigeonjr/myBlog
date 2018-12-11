@@ -4,15 +4,9 @@ slug: 2017-year-in-review
 date: 2017-12-15
 cover: ./fireworks.jpeg
 generate-card: false
-<<<<<<< HEAD
-language: en
-tags:
-    - reviews
-=======
 tags:
     - review
     - reflection
->>>>>>> posts
 ---
 
 ## Looking Back

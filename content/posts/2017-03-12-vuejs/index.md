@@ -1,7 +1,7 @@
 ---
 title: World of Vue.js
 slug: vue
-date: 2017-03-01
+date: 2017-03-12
 cover: ./vue.jpg
 generate-card: false
 tags:
@@ -40,20 +40,24 @@ Next, you'll want to setup your template.
 #### html
 
 ```html
+
 <div id="app">
     {{ message }}
 </div>
+
 ```
 
 #### javascript
 
 ```javascript
+
 var app = new Vue({
     el: '#app',
     data: {
         message: 'Hello World'
     }
 })
+
 ```
 
 Congrats you have just setup your first Vue app. We are telling Vue to connect to the id `app` and then we are passing in the data `message` using the mustache syntax `{{ message }}`.

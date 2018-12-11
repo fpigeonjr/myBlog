@@ -1,7 +1,7 @@
 ---
 title: Goals for 2018
 slug: goals-for-2018
-date: 2018-02-18
+date: 2018-02-21
 cover: ./books.jpg
 generate-card: false
 tags:

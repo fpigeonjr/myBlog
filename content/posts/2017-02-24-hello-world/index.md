@@ -16,13 +16,9 @@ As a web developer when you are learning a new language the first thing we learn
 In 2017 one of my goals was to write more. I have found a tool will allow me to get my thoughts down quickly in [markdown] and publish live with one command from terminal.
 
 ```js
-<<<<<<< HEAD
-yarn run deploy
-=======
 
 yarn run deploy
 
->>>>>>> posts
 ```
 
 ## Gatsby
