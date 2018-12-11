@@ -1,5 +1,5 @@
 ---
-title: 2017\: Year in Review
+title: 2017 Year in Review
 slug: 2017-year-in-review
 date: 2017-12-15
 cover: ./fireworks.jpeg
