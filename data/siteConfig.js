@@ -4,7 +4,7 @@ module.exports = {
   authorName: 'Frank Pigeon Jr.',
   twitterUsername: 'fpigeonjr',
   authorAvatar: '/images/profile.jpg',
-  multilangPosts: true, // enable/disable flags in post lists
+  multilangPosts: false, // enable/disable flags in post lists
   authorDescription: `
   Frank is a 👨‍💻web developer, 🇺🇸US Army veteran, 🎸bass player, father, husband, artisan, owner.
   `,
