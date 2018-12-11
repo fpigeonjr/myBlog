@@ -1,14 +1,12 @@
 ---
 title: World of Vue.js
 slug: vue
-date: 2017-03-12
+date: 2017-03-01
 cover: ./vue.jpg
 generate-card: false
-language: en
 tags:
-    - javascript
+    - javaScript
     - vue
-    - frontend
 ---
 
 ## Learning Javascript in 2017

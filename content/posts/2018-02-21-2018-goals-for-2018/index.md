@@ -4,15 +4,9 @@ slug: goals-for-2018
 date: 2018-02-18
 cover: ./books.jpg
 generate-card: false
-language: en
 tags:
     - goals
 ---
-
-
-
-
-![books](./books.jpg)
 
 ## Intro
 

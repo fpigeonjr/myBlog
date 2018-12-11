@@ -4,14 +4,11 @@ slug: postcss
 date: 2017-03-01
 cover: ./postcss.jpg
 generate-card: false
-language: en
 tags:
     - css
     - frontend
     - tools
 ---
-
-![code](./postcss.jpg)
 
 ## Working with PostCSS
 

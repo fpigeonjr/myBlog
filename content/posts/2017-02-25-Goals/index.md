@@ -4,10 +4,10 @@ slug: goals-for-2017
 date: 2017-02-25
 cover: ./coast.jpg
 generate-card: false
-language: en
 tags:
     - goals
     - commitment
+    - resources
     - roadmaps
 ---
 
