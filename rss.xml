@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[frankpigeon.com]]></title><description><![CDATA[Frank Pigeon's Blog]]></description><link>https://frankpigeon.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 10 Dec 2018 23:08:23 GMT</lastBuildDate><item><title><![CDATA[About Me]]></title><description><![CDATA[My name is Frank Pigeon Jr. I am a father of three boys, husband to my  beautiful wife , and a front end web developer. I was born in San…]]></description><link>https://frankpigeon.com/about/about/</link><guid isPermaLink="false">https://frankpigeon.com/about/about/</guid><content:encoded>&lt;p&gt;My name is Frank Pigeon Jr. I am a father of three boys, husband to my &lt;a href=&quot;https://twitter.com/kay_pigeon&quot;&gt;beautiful wife&lt;/a&gt;, and a front end web developer.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[frankpigeon.com]]></title><description><![CDATA[Frank Pigeon's Blog]]></description><link>https://frankpigeon.com</link><generator>RSS for Node</generator><lastBuildDate>Tue, 11 Dec 2018 01:34:47 GMT</lastBuildDate><item><title><![CDATA[About Me]]></title><description><![CDATA[My name is Frank Pigeon Jr. I am a father of three boys, husband to my  beautiful wife , and a front end web developer. I was born in San…]]></description><link>https://frankpigeon.com/about/about/</link><guid isPermaLink="false">https://frankpigeon.com/about/about/</guid><content:encoded>&lt;p&gt;My name is Frank Pigeon Jr. I am a father of three boys, husband to my &lt;a href=&quot;https://twitter.com/kay_pigeon&quot;&gt;beautiful wife&lt;/a&gt;, and a front end web developer.&lt;/p&gt;
 &lt;p&gt;I was born in San Antonio, Texas and grew up in the tropical country of Panama.&lt;/p&gt;
 &lt;p&gt;I am a U.S. Army veteran and am still serving my country as a Department of Army Civilian.&lt;/p&gt;
 &lt;p&gt;I enjoy coding, photography, audio/video production, music, and all-things open-source.&lt;/p&gt;
@@ -551,7 +551,261 @@
 &lt;p&gt;I use &lt;a href=&quot;https://trello.com/&quot;&gt;Trello&lt;/a&gt; for project management tasks for any given project.&lt;/p&gt;
 &lt;p&gt;My team uses &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt; for office communications. The goal being that email is for external customers.&lt;/p&gt;
 &lt;p&gt;I use &lt;a href=&quot;https://www.opendns.com&quot;&gt;OpenDNS&lt;/a&gt; to filter content and improve network speeds.&lt;/p&gt;
-&lt;p&gt;I setup a &lt;a href=&quot;https://www.raspberrypi.org/&quot;&gt;Raspberry Pi&lt;/a&gt; using &lt;a href=&quot;https://pi-hole.net/&quot;&gt;pi-hole&lt;/a&gt; to filter ads and have also setup &lt;a href=&quot;https://openvpn.net/&quot;&gt;openvpn&lt;/a&gt; to secure traffic when I’m out in the wild.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What's new in gatsby-starter-morning-dew v1.1?]]></title><description><![CDATA[TLDR;  Metatags generation, CSS-in-JS ( styled-components ) and pagination are now in gatsby-starter-morning-dew 🎉 🏷 Social media card…]]></description><link>https://frankpigeon.com/2018-11-13-v1-1-is-out/</link><guid isPermaLink="false">https://frankpigeon.com/2018-11-13-v1-1-is-out/</guid><pubDate>Tue, 13 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;TLDR;&lt;/strong&gt; Metatags generation, CSS-in-JS (&lt;a href=&quot;https://www.styled-components.com&quot;&gt;styled-components&lt;/a&gt;) and pagination are now in gatsby-starter-morning-dew 🎉&lt;/p&gt;
+&lt;p&gt;I setup a &lt;a href=&quot;https://www.raspberrypi.org/&quot;&gt;Raspberry Pi&lt;/a&gt; using &lt;a href=&quot;https://pi-hole.net/&quot;&gt;pi-hole&lt;/a&gt; to filter ads and have also setup &lt;a href=&quot;https://openvpn.net/&quot;&gt;openvpn&lt;/a&gt; to secure traffic when I’m out in the wild.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Top 3 Gartner Application Conference Takeaways]]></title><description><![CDATA[2018 Gartner Application Strategies and Solutions Summit This Fall I got to go to the Gartner Application Summit held in Las Vegas. This was…]]></description><link>https://frankpigeon.com/2018-12-10-Gartner-takeaways/</link><guid isPermaLink="false">https://frankpigeon.com/2018-12-10-Gartner-takeaways/</guid><pubDate>Mon, 10 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;2018-gartner-application-strategies-and-solutions-summit&quot;&gt;&lt;a href=&quot;#2018-gartner-application-strategies-and-solutions-summit&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2018 Gartner Application Strategies and Solutions Summit&lt;/h2&gt;
+&lt;p&gt;This Fall I got to go to the Gartner Application Summit held in Las Vegas.&lt;/p&gt;
+&lt;p&gt;This was my first Gartner conference and my first time in Las Vegas.&lt;/p&gt;
+&lt;p&gt;While the experience of being on the strip was overwhelming and over-stimulating, I did learn a lot of exciting new concepts and methodoligies at the conference.&lt;/p&gt;
+&lt;h2 id=&quot;top-3-takeaways&quot;&gt;&lt;a href=&quot;#top-3-takeaways&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Top 3 Takeaways&lt;/h2&gt;
+&lt;h3 id=&quot;1--agile-is-king&quot;&gt;&lt;a href=&quot;#1--agile-is-king&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. 👑 Agile is King&lt;/h3&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.72727272727273%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAACR0lEQVQoz2WTO4gTURSGpxULmy0EQbHxgZ0gFoq1jZWwCLJgI2sh21sLWtlYiCwiiLuFLIgvFASVXQRZibsJeczOK5kkm2SSmUwmybwzk99zb5LV6IXDPec+vvPfOWcEq9vDnlJHvdFBuWpAUvfRNnsUmzzW9BaahoUkSZCMRkjZTDYif2ZxHB+YMHR91JtdNAybQA4HvfvyC5vbJYIZUPU2LHuIKBrB8wIMBi5cuhMEEXw/RBBG+HsILMNs1JoWri4/gnB8EesffgDjCPl8HqJYQn8wIEgAWZYJOsR4POZKXUrCBouZCVE0yTCkjbPX7nGYcPIGXrz5DiQxSqIERVHh+T5CUlOt1eA4fX4nSVKwF86AXKEfhNxZ3fgG4cQiFi7dhXBmCc9fb/H1ptGBbTsIoxhdmiVZRb5Qgrgn87g/8OaBnj+RvPJgjStbuEzAY9exxp6MBIVCEbu7O/Bclz56BE1ToSoKFHp6WdMI6P6jcAq8//QthNNLOHxhGcKpm3i28ZVOJeiYXVhdG71en1/udCwYbRMtoz3d688Dw2mV5EoLRy7ewaHztyGcu4XHLz/CaFSRzeVQLBYhSRJM0yS/gEwmg2w2C13X5xTyorDeSdMJ/dWnbRy9ssIL82T9M2zLgqJVqRANVPQ6TKuHcqUGVdWx3zBI9ZBUOv8D2UinktVaGw9X32Prp4iYeq/nuHD6HjebAI4z8dk6ey6DzvUh661ZtwdheLAxThNEVAS2niT0h1CcpunU/vh0EqJcxU5OokRD/AYkMROZqnVmRwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/d8395195ab1cda44651e60845682b056/f04b0/agile-definition.webp 148w,
+/static/d8395195ab1cda44651e60845682b056/30287/agile-definition.webp 295w,
+/static/d8395195ab1cda44651e60845682b056/cb54b/agile-definition.webp 590w,
+/static/d8395195ab1cda44651e60845682b056/d0733/agile-definition.webp 885w,
+/static/d8395195ab1cda44651e60845682b056/8ceb6/agile-definition.webp 1100w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/d8395195ab1cda44651e60845682b056/ce5e3/agile-definition.png 148w,
+/static/d8395195ab1cda44651e60845682b056/0df5d/agile-definition.png 295w,
+/static/d8395195ab1cda44651e60845682b056/03198/agile-definition.png 590w,
+/static/d8395195ab1cda44651e60845682b056/37596/agile-definition.png 885w,
+/static/d8395195ab1cda44651e60845682b056/38a6a/agile-definition.png 1100w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/d8395195ab1cda44651e60845682b056/03198/agile-definition.png&quot;
+          alt=&quot;agile definition&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Netflix is famous for the ability to roll out thousands of changes a day&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 68.45454545454545%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsTAAALEwEAmpwYAAADEElEQVQ4y52TS2hUZxTHB7qopegiqaUuDCgSq9YitFCpxMSFGxfSjbhwo+gmm1aFYqRiq/WtoCEhGsxEQxQiGHyANi2KBMFFtdRMJ/PMPO7cufPKJPO4M/fO++f33Ykv3PXAueece8/5n+e1pTM6M+EEijZLSE0Rjc8RT2WIxNIEI0nUBakl5tGS84SiKUtXtLTlK+Ni4n0ynbV0mwx+6Qoz7VP5dzqMyx/FG4zhF0mcXpUpj8J/QrpmolZCp/ALKEmCUvcuxIhvvlCcGSWBjf9JjXpDPBrv2HXLthWKJs+fv8Dj8TA15cDhcOB0OgmGQgQCATKZDLVqDaNoYJompmFQqVQpmRUqpQr5bAE9W6Sol8nM5bFVq1VcLheRSIRgMIjb7SYej4tkDWq1miUrpSpGzsTQTRFoogg/NaKIOLdIVCaXKxD0ByiY1WbLhUIBVVVRFEVkr3zQniG6SIvBz83nyeYNHg318dBuZ+TIL9h7+7h17hJD3XtIvnQ3AXO5HD6fD6/XSywWa85EVNZYmFFJZM5lRXVmg/CBM/y9soM/1m3m8RfrON7axomW5Qws/pyhZavfAobEzMLhsCU1TXsDJkkJuZn4c4SJm/1Mdu9jpH0tRz9dzK2PP2Ps+y30LWnl9vYdnFn9VRNQ13ULTM4wGo2+kZoWJZGYZXDwBF+v/4gv135Cf99J7g1f59DOnUye6uXFxF9MXh3jn6cOnt273wTM5/MWiKzM7/eTTCYpl8sUi0WrQru9n7YVi2hf38KV3mM8uX+bwz3dXO39nYtHDnL2/HGunT3IyLHdb5cityznJ4HebVfStFssYLSN8Qffced8F8M/buTCr2s4faidXRuWsv+HZZz7aRVjJ7/FJoNlhfJc5FJSqZTFsmVdz1uAHt8odx98w+PJbYz2dHGtp5Oxga2MD2/j8t5N3Pi5A/tvnYwPdjUrlKDW0Qo2xOGapZLVbl1ev0V1qjWTWt0Qf4TghimkKQINwU29Lm3K2OT9RQTL+cmqXrO0Iwu3KX1UVSOmxcVYEu+x9p4d5xUQLcT+AImWCwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/82292fb951e0a1a4280b66b9e6ccf3fa/f04b0/agile-team.webp 148w,
+/static/82292fb951e0a1a4280b66b9e6ccf3fa/30287/agile-team.webp 295w,
+/static/82292fb951e0a1a4280b66b9e6ccf3fa/cb54b/agile-team.webp 590w,
+/static/82292fb951e0a1a4280b66b9e6ccf3fa/d0733/agile-team.webp 885w,
+/static/82292fb951e0a1a4280b66b9e6ccf3fa/8ceb6/agile-team.webp 1100w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/82292fb951e0a1a4280b66b9e6ccf3fa/ce5e3/agile-team.png 148w,
+/static/82292fb951e0a1a4280b66b9e6ccf3fa/0df5d/agile-team.png 295w,
+/static/82292fb951e0a1a4280b66b9e6ccf3fa/03198/agile-team.png 590w,
+/static/82292fb951e0a1a4280b66b9e6ccf3fa/37596/agile-team.png 885w,
+/static/82292fb951e0a1a4280b66b9e6ccf3fa/38a6a/agile-team.png 1100w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/82292fb951e0a1a4280b66b9e6ccf3fa/03198/agile-team.png&quot;
+          alt=&quot;agile teams&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Everything depends on Agile. Waterfall is out and without Agile, everything else is impossible or very difficult. Agile is the key to open up the paths for these new ideas.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Agile helps you deal with &lt;em&gt;chaos by embracing it&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;always delivering value&lt;/li&gt;
+&lt;li&gt;allows for continous integration &amp;#x26; devops&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2-productology&quot;&gt;&lt;a href=&quot;#2-productology&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. Productology&lt;/h3&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.81818181818182%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAACe0lEQVQoz22T30/TUBTH91f44osv+GTioyYa4EnAYDD4YowhhgdjYmJiNFFf0ATQyCTByPglJjwao4K4CGzAFn7IAzMoY90GbKxru65d2YasBba2X087fqjhNN+be3vO/dyec08doVUO0TUOGUlBMpkmiYhEE+A5CWJKpjkLlhXBki+xIWB1LQmBl8BxacRiPOJxHjBKsMwwTThKxSK+LSbg/LKMockI3nkj6B8P2fMu9wqGpsJ4P7eOWSaFXg+D7rEVvPWGMUD+flpb6vZEIOY1G+qwhtbPQZy48xEXn06gpn0SjU4/Kp9N4NS9YdxwzeNm73f0TK6iqs2L6nYv6jqmUftyGvWvfLjs9OH0w1EE4soRsH14GSfvfiLgOGppQw1trCJgxf0RNPXM41bfPAboSy+98OB8ixtXnFOoI+DVTh+q2zw4+8SNn4nsEbDjawgVD0bRQKc1dvptXSOdeeRG88ACmvoWMDiroOH1D1x4voj6zjlcfzODBoqpbPXgXMsYfrH7wJJugJW3sUwnRPg8oqQQOWPib3ByHqlNFbwkQFh6DG6lC+GZ20jxASgFQMqrEHOarb2SUQbqhondog4LvFfSbVlrndbQiyhbEevhESQ3/EiEP4ATYzjOTOuWj3lN12/QaKKgaQTW7UCGVymtLYQFDUsbyj6gDLGeA3PYL/6SmCtgKS4hls4hsMZDI6hJfRalPmRY6sOkAIZ61cpAplbJbu9C2dpBJr9jZ3YItEzdKUGmekhZlQI0bFKgVQoiUl1lBDkVDEf15gp2vG4YMAzzn/wcB2ma5lHK/9fFsrRCfwvjghAdRCzoIod6GCmIGQSZOORMDn8A9Zz9WJUZr1oAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/36813231936b776f8d7dafd80e3323a0/f04b0/product-shift.webp 148w,
+/static/36813231936b776f8d7dafd80e3323a0/30287/product-shift.webp 295w,
+/static/36813231936b776f8d7dafd80e3323a0/cb54b/product-shift.webp 590w,
+/static/36813231936b776f8d7dafd80e3323a0/d0733/product-shift.webp 885w,
+/static/36813231936b776f8d7dafd80e3323a0/8ceb6/product-shift.webp 1100w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/36813231936b776f8d7dafd80e3323a0/ce5e3/product-shift.png 148w,
+/static/36813231936b776f8d7dafd80e3323a0/0df5d/product-shift.png 295w,
+/static/36813231936b776f8d7dafd80e3323a0/03198/product-shift.png 590w,
+/static/36813231936b776f8d7dafd80e3323a0/37596/product-shift.png 885w,
+/static/36813231936b776f8d7dafd80e3323a0/38a6a/product-shift.png 1100w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/36813231936b776f8d7dafd80e3323a0/03198/product-shift.png&quot;
+          alt=&quot;productology shift&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Productology&lt;/strong&gt; is the art and science of delivering products in the digital age.&lt;/p&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 51.0909090909091%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAACIklEQVQozzVRyW4TQRScb+QEhOUANySkQBQhJVwicWM5ZJPggrgAF/7AtizZwvZ49pmefV88Tog9XBg4hKJfo4xUet2q915X1Uhe3EC1UyyNGHMtgsFycZ+pATRek+ICipVCtRLYfomJ7MF0c45CzFD/r/4P6Lu+/gvp8N1X3HryFo8OPuDw9Wc8PfqI+/vnuPPsWODhi3Pc2zvF7d1j7L76hJdvvuDxwXvs7J1g5/kJ7vIeuj/YP8PR6TdIcVZANW3kVQNNN6BoBqYzGd8XS7hhDC9K4AYx4ryE64dQNR2yqsPhZ59zxDPOG46HcrWGFEUhkjhCUWSQ5QWWSxmWZcK2LXgug+cxMGbz6sJxbMicV1WF9xhwXQdhGKBdNajrEm27ooURb3SQZbRQhqZpvCnkza4A4/A8D1meQdd1TCYTTKdTLBYLMefyh4IgQBzHWK34wqZpkKYpup+daBBgDsqqRFVXorZti/53z10UsLlKxpVH3FVZlqibGkVZ4PLHJfq+h2SapniZMYbhcIjBYCAqKSC1iqJgPp8LlbPZTPDj8ZhHsxS8qqriTEiSBBKpI1WkwrIsMWjbNvzAF1bSLMVms0HXdaB4aIlhGEIAKY2TGHme42pzhW23/W854MGuL9bCgrBR18iLXORGtaoqkQ8tp0fJNsHhS4lv162wvN3yhRQ8WSFlNxZIAZ1v7gSKhmyNRiPxUygm6iOOZn3fFz/2H0D5rbTQyzaCAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/429747ef9c74821e35d9c16661b16378/f04b0/product-changes.webp 148w,
+/static/429747ef9c74821e35d9c16661b16378/30287/product-changes.webp 295w,
+/static/429747ef9c74821e35d9c16661b16378/cb54b/product-changes.webp 590w,
+/static/429747ef9c74821e35d9c16661b16378/d0733/product-changes.webp 885w,
+/static/429747ef9c74821e35d9c16661b16378/8ceb6/product-changes.webp 1100w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/429747ef9c74821e35d9c16661b16378/ce5e3/product-changes.png 148w,
+/static/429747ef9c74821e35d9c16661b16378/0df5d/product-changes.png 295w,
+/static/429747ef9c74821e35d9c16661b16378/03198/product-changes.png 590w,
+/static/429747ef9c74821e35d9c16661b16378/37596/product-changes.png 885w,
+/static/429747ef9c74821e35d9c16661b16378/38a6a/product-changes.png 1100w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/429747ef9c74821e35d9c16661b16378/03198/product-changes.png&quot;
+          alt=&quot;product changes&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Some of the benefits of product-cetric design are&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;outcome-based&lt;/li&gt;
+&lt;li&gt;deliver capabilities over time&lt;/li&gt;
+&lt;li&gt;ownership &amp;#x26; accountability&lt;/li&gt;
+&lt;li&gt;teams stay together&lt;/li&gt;
+&lt;li&gt;empathy with customers &amp;#x26; colleagues&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;-3-power-of-culture&quot;&gt;&lt;a href=&quot;#-3-power-of-culture&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🔥 3. Power of Culture&lt;/h3&gt;
+&lt;p&gt;The final keynote was titled &lt;strong&gt;“Architect Your Digital Ecosystem”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 52%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAABi0lEQVQoz12SWc/BUBiE/TD7viuKqraWIBJiiQvChZ8+n+f9ckRcHK2255l550wqm82qUCioUqmo0Wio3W6r1+tpMBjI932NRiONx2O7sobDofr9vjrdrprNpmq1msrlsvL5vNLptFLc8KBer6vVan1gbJ5MJppOp58VBIHBETJop2PQarWqYrEozBnQueMDPmQDsDAMFUWR4iRWHMeazWYGBopTxDGBy1KppFwupxTugKHUfY+BOzYYLI60WCy0XC7tmiSJwlloYqO3qPcWJyL2YgpzBgSw3W612+10Pp91vV51u910v9/1fD7t/vV66fF46HK5fNZ+vzex+XxuU5lDqFjHwXq91maz0eFw0PF41Ol0MiggwAjxDhBXYmAidzjmkDAJ9TfDYBpYfgitVitzwsjk6DL0PM9GZq876RSVAfibIeEDTOaJQVk4Ilsy9L8ypCEfoKuN6yCqqAOlJgBwZScc/leHSiHc/eoik1qG/PCHh7xkbJSBui665ToIzFUGd5wwk2YyGf0BckqMBMKZOh8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/2bb24452a7faeb7795f565676d27773a/f04b0/culture-responsibility.webp 148w,
+/static/2bb24452a7faeb7795f565676d27773a/30287/culture-responsibility.webp 295w,
+/static/2bb24452a7faeb7795f565676d27773a/cb54b/culture-responsibility.webp 590w,
+/static/2bb24452a7faeb7795f565676d27773a/d0733/culture-responsibility.webp 885w,
+/static/2bb24452a7faeb7795f565676d27773a/8ceb6/culture-responsibility.webp 1100w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/2bb24452a7faeb7795f565676d27773a/ce5e3/culture-responsibility.png 148w,
+/static/2bb24452a7faeb7795f565676d27773a/0df5d/culture-responsibility.png 295w,
+/static/2bb24452a7faeb7795f565676d27773a/03198/culture-responsibility.png 590w,
+/static/2bb24452a7faeb7795f565676d27773a/37596/culture-responsibility.png 885w,
+/static/2bb24452a7faeb7795f565676d27773a/38a6a/culture-responsibility.png 1100w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/2bb24452a7faeb7795f565676d27773a/03198/culture-responsibility.png&quot;
+          alt=&quot;culture responsibility&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;It was on the culture of &lt;a href=&quot;https://data.mx.com/&quot;&gt;MX&lt;/a&gt;. They empowered their team to just do the work. They had cool metrics on big screens. Team members loved working there and were filled with passion about the work. They felt they could make changes and get them in production on the same day. They rallied around their cause. The founder was in the trenches with the workers and they loved that he was doing the same work that they did.&lt;/p&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.27272727272727%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAABn0lEQVQoz3WTV4/CMBCE878QvZOQQk+hCUQRhBxCIAQ8wQ+f86zOUU6ne1hFduxvZ3bXRqFQQLlcRr1eR7vdhmVZcBwHXq+Hfr+P4XCYxmAwQE/tu64Lq9tFp9NBs9lEtVpFsVhELpeDUSqVUKvV0Gq1YJombAXjJQLG4zEmkwl835cv19xnIoGq5BRBMRSVz+dhZNV1VVYNIyAIAkRRhOl0KhGGocBHo5FA6YQisiqNSqUiG4QxmJnWqIZAgmazmQThTKSta9t0R5d0a5BMIFUdDgfsdjvEcYzkK8HtdsPz+ZR4vV643++4XC5IkgSn0wmxCibUtn8Bqe58Psul6/WKx+OBz+eD9/stMA3c7/eSUCemfSr8A2SBaWuz2WC1WmG73SoFMY7HI9brNZbLJebzudRR15ANNH8ak1rWNWQt9MjoGvqBL5YIWywWkpB15T+ecT1P7ugaSlP+67JuShiF0gx+uWZT+J/nbNtOZ5HCONMyh7SdzqE6xMNUQGsE6MjOofPfHGZfShbqKTu8SLAOrvmCWBYNazQaok6/lG8jQbH3gYKJTAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/eb36269d49360a445b6ed40c4dbe0e01/f04b0/culture-the-why.webp 148w,
+/static/eb36269d49360a445b6ed40c4dbe0e01/30287/culture-the-why.webp 295w,
+/static/eb36269d49360a445b6ed40c4dbe0e01/cb54b/culture-the-why.webp 590w,
+/static/eb36269d49360a445b6ed40c4dbe0e01/d0733/culture-the-why.webp 885w,
+/static/eb36269d49360a445b6ed40c4dbe0e01/8ceb6/culture-the-why.webp 1100w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/eb36269d49360a445b6ed40c4dbe0e01/ce5e3/culture-the-why.png 148w,
+/static/eb36269d49360a445b6ed40c4dbe0e01/0df5d/culture-the-why.png 295w,
+/static/eb36269d49360a445b6ed40c4dbe0e01/03198/culture-the-why.png 590w,
+/static/eb36269d49360a445b6ed40c4dbe0e01/37596/culture-the-why.png 885w,
+/static/eb36269d49360a445b6ed40c4dbe0e01/38a6a/culture-the-why.png 1100w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/eb36269d49360a445b6ed40c4dbe0e01/03198/culture-the-why.png&quot;
+          alt=&quot;culture the why&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;One of the leaders was diagnosed with a late stage cancer and had only weeks or months to live, and the team worked on the weekend to found our more about the cause, courses of actions, list the best doctors, to help save their leader.&lt;/p&gt;
+&lt;h2 id=&quot;honorable-mentions&quot;&gt;&lt;a href=&quot;#honorable-mentions&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Honorable Mentions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;API-Centric Design&lt;/li&gt;
+&lt;li&gt;CI Pipeline&lt;/li&gt;
+&lt;li&gt;PWAs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;&lt;a href=&quot;#conclusion&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;After attending this conference, your heart is set on fire and you want to implement all these new trends.&lt;/p&gt;
+&lt;p&gt;While I am not in a leadership position, I feel that I can implement change at my level.&lt;/p&gt;
+&lt;p&gt;I am so glad that I was able to attend the conference. My heart is fire to disrupt our current rhythm and implement change.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What's new in gatsby-starter-morning-dew v1.1?]]></title><description><![CDATA[TLDR;  Metatags generation, CSS-in-JS ( styled-components ) and pagination are now in gatsby-starter-morning-dew 🎉 🏷 Social media card…]]></description><link>https://frankpigeon.com/2018-11-13-v1-1-is-out/</link><guid isPermaLink="false">https://frankpigeon.com/2018-11-13-v1-1-is-out/</guid><pubDate>Tue, 13 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;TLDR;&lt;/strong&gt; Metatags generation, CSS-in-JS (&lt;a href=&quot;https://www.styled-components.com&quot;&gt;styled-components&lt;/a&gt;) and pagination are now in gatsby-starter-morning-dew 🎉&lt;/p&gt;
 &lt;h2 id=&quot;-social-media-card-generator&quot;&gt;&lt;a href=&quot;#-social-media-card-generator&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🏷 Social media card generator&lt;/h2&gt;
 &lt;p&gt;It’s now posible to generate preview images for social networks (&lt;a href=&quot;https://cards-dev.twitter.com/validator&quot;&gt;Twitter&lt;/a&gt; and Facebook).&lt;/p&gt;
 &lt;p&gt;&lt;span
@@ -703,530 +957,385 @@
 &lt;code style=&quot;background: #2d2d2d; border-radius: .3em; padding: .1em; color: #ccc;&quot;&gt;previous code tag&lt;/code&gt; … &lt;code class=&quot;language-text&quot;&gt;new code tag&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Generate WebP images (withWebp option in &lt;a href=&quot;https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-remark-images#options&quot;&gt;gatsby-remark-images&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Disqus support on pages (previously only supported on blog posts)&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[A post with images]]></title><description><![CDATA[How it works? copy/paste the image in the post folder]]></description><link>https://frankpigeon.com/2018-09-29-a-post-with-images/</link><guid isPermaLink="false">https://frankpigeon.com/2018-09-29-a-post-with-images/</guid><pubDate>Sat, 29 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;how-it-works&quot;&gt;&lt;a href=&quot;#how-it-works&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;How it works?&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;copy/paste the image in the post folder&lt;/li&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;![put image description here](./git-push-force.gif)&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img src=&quot;/git-push-force-e5522c9891521336ecf81251c9b35cfc.gif&quot; alt=&quot;a funny gif&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Big Test]]></title><description><![CDATA[NOTE: This “post” is based on  Markdown Cheatsheet  and is meant to test styling of Markdown generated documents. This is intended as a…]]></description><link>https://frankpigeon.com/2018-01-03-Big-Sample-Post/</link><guid isPermaLink="false">https://frankpigeon.com/2018-01-03-Big-Sample-Post/</guid><pubDate>Wed, 03 Jan 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;NOTE: This “post” is based on &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;Markdown Cheatsheet&lt;/a&gt; and is meant to test styling of Markdown generated documents.&lt;/p&gt;
-&lt;p&gt;This is intended as a quick reference and showcase. For more complete info, see &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;John Gruber’s original spec&lt;/a&gt; and the &lt;a href=&quot;http://github.github.com/github-flavored-markdown/&quot;&gt;Github-flavored Markdown info page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This cheatsheet is specifically &lt;em&gt;Markdown Here’s&lt;/em&gt; version of Github-flavored Markdown. This differs slightly in styling and syntax from what Github uses, so what you see below might vary a little from what you get in a &lt;em&gt;Markdown Here&lt;/em&gt; email, but it should be pretty close.&lt;/p&gt;
-&lt;p&gt;You can play around with Markdown on our &lt;a href=&quot;http://www.markdown-here.com/livedemo.html&quot;&gt;live demo page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;(If you’re not a Markdown Here user, check out the &lt;a href=&quot;./Markdown-Cheatsheet&quot;&gt;Markdown Cheatsheet&lt;/a&gt; that is not specific to MDH. But, really, you should also use Markdown Here, because it’s awesome. &lt;a href=&quot;http://markdown-here.com&quot;&gt;http://markdown-here.com&lt;/a&gt;)&lt;/p&gt;
-&lt;h5 id=&quot;table-of-contents&quot;&gt;&lt;a href=&quot;#table-of-contents&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Table of Contents&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;#h1&quot;&gt;H1&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#h2&quot;&gt;H2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;#h3&quot;&gt;H3&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#h4&quot;&gt;H4&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;#h5&quot;&gt;H5&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#h6&quot;&gt;H6&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#emphasis&quot;&gt;Emphasis&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#lists&quot;&gt;Lists&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#links&quot;&gt;Links&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#images&quot;&gt;Images&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#code-and-syntax-highlighting&quot;&gt;Code and Syntax Highlighting&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;headers&quot;&gt;&lt;a href=&quot;#headers&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Headers&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
-Alternatively, for H1 and H2, an underline-ish style:
-
-Alt-H1
-======
-
-Alt-H2
-------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h1 id=&quot;h1&quot;&gt;&lt;a href=&quot;#h1&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;H1&lt;/h1&gt;
-&lt;h2 id=&quot;h2&quot;&gt;&lt;a href=&quot;#h2&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;H2&lt;/h2&gt;
-&lt;h3 id=&quot;h3&quot;&gt;&lt;a href=&quot;#h3&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;H3&lt;/h3&gt;
-&lt;h4 id=&quot;h4&quot;&gt;&lt;a href=&quot;#h4&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;H4&lt;/h4&gt;
-&lt;h5 id=&quot;h5&quot;&gt;&lt;a href=&quot;#h5&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;H5&lt;/h5&gt;
-&lt;h6 id=&quot;h6&quot;&gt;&lt;a href=&quot;#h6&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;H6&lt;/h6&gt;
-&lt;p&gt;Alternatively, for H1 and H2, an underline-ish style:&lt;/p&gt;
-&lt;h1 id=&quot;alt-h1&quot;&gt;&lt;a href=&quot;#alt-h1&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Alt-H1&lt;/h1&gt;
-&lt;h2 id=&quot;alt-h2&quot;&gt;&lt;a href=&quot;#alt-h2&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Alt-H2&lt;/h2&gt;
-&lt;a name=&quot;emphasis&quot;/&gt;
-&lt;h2 id=&quot;emphasis&quot;&gt;&lt;a href=&quot;#emphasis&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Emphasis&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Strong emphasis, aka bold, with &lt;strong&gt;asterisks&lt;/strong&gt; or &lt;strong&gt;underscores&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Combined emphasis with &lt;strong&gt;asterisks and &lt;em&gt;underscores&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Strikethrough uses two tildes. &lt;del&gt;Scratch this.&lt;/del&gt;&lt;/p&gt;
-&lt;a name=&quot;lists&quot;/&gt;
-&lt;h2 id=&quot;lists&quot;&gt;&lt;a href=&quot;#lists&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Lists&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;1. First ordered list item
-2. Another item
-  * Unordered sub-list.
-1. Actual numbers don&amp;#39;t matter, just that it&amp;#39;s a number
-  1. Ordered sub-list
-4. And another item.
-
-   Some text that should be aligned with the above item.
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;First ordered list item&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Another item&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Unordered sub-list.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Actual numbers don’t matter, just that it’s a number&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Ordered sub-list&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;And another item.&lt;/p&gt;
-&lt;p&gt;Some text that should be aligned with the above item.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Unordered list can use asterisks&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Or minuses&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Or pluses&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;a name=&quot;links&quot;/&gt;
-&lt;h2 id=&quot;links&quot;&gt;&lt;a href=&quot;#links&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Links&lt;/h2&gt;
-&lt;p&gt;There are two ways to create links.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;[I&amp;#39;m an inline-style link](https://www.google.com)
-
-[I&amp;#39;m a reference-style link][Arbitrary case-insensitive reference text]
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself]
-
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or &amp;lt;http://www.example.com&amp;gt; and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.google.com&quot;&gt;I’m an inline-style link&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.mozilla.org&quot;&gt;I’m a reference-style link&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://slashdot.org&quot;&gt;You can use numbers for reference-style link definitions&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Or leave it empty and use the &lt;a href=&quot;http://www.reddit.com&quot;&gt;link text itself&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;URLs and URLs in angle brackets will automatically get turned into links.
-&lt;a href=&quot;http://www.example.com&quot;&gt;http://www.example.com&lt;/a&gt; or &lt;a href=&quot;http://www.example.com&quot;&gt;http://www.example.com&lt;/a&gt; and sometimes
-example.com (but not on Github, for example).&lt;/p&gt;
-&lt;p&gt;Some text to show that the reference links can follow later.&lt;/p&gt;
-&lt;a name=&quot;images&quot;/&gt;
-&lt;h2 id=&quot;images&quot;&gt;&lt;a href=&quot;#images&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Images&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Here&amp;#39;s our logo (hover to see the title text):
-
-Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png &amp;quot;Logo Title Text 1&amp;quot;)
-
-Reference-style:
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png &amp;quot;Logo Title Text 2&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Here’s our logo (hover to see the title text):&lt;/p&gt;
-&lt;p&gt;Inline-style:
-&lt;img src=&quot;https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png&quot; alt=&quot;alt text&quot; title=&quot;Logo Title Text 1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Reference-style:
-&lt;img src=&quot;https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png&quot; alt=&quot;alt text&quot; title=&quot;Logo Title Text 2&quot;&gt;&lt;/p&gt;
-&lt;a name=&quot;code&quot;/&gt;
-&lt;h2 id=&quot;code-and-syntax-highlighting&quot;&gt;&lt;a href=&quot;#code-and-syntax-highlighting&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Code and Syntax Highlighting&lt;/h2&gt;
-&lt;p&gt;Code blocks are part of the Markdown spec, but syntax highlighting isn’t. However, many renderers — like Github’s and &lt;em&gt;Markdown Here&lt;/em&gt; — support syntax highlighting. &lt;em&gt;Markdown Here&lt;/em&gt; supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the &lt;a href=&quot;http://softwaremaniacs.org/media/soft/highlight/test.html&quot;&gt;highlight.js demo page&lt;/a&gt;.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Inline `code` has `back-ticks around` it.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Inline &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt; has &lt;code class=&quot;language-text&quot;&gt;back-ticks around&lt;/code&gt; it.&lt;/p&gt;
-&lt;p&gt;Blocks of code are either fenced by lines with three back-ticks &lt;code&gt;`&lt;code class=&quot;language-text&quot;&gt;&lt;/code&gt;&lt;/code&gt;, or are indented with four spaces. I recommend only using the fenced code blocks — they’re easier and only they support syntax highlighting.&lt;/p&gt;
-&lt;pre lang=&quot;no-highlight&quot;&gt;&lt;code&gt;```javascript
-var s = &quot;JavaScript syntax highlighting&quot;;
-alert(s);
-```
-
-```python
-s = &quot;Python syntax highlighting&quot;
-print s
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let&apos;s throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; s &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;JavaScript syntax highlighting&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token function&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;s&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;s &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Python syntax highlighting&quot;&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;print&lt;/span&gt; s&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;No language indicated, so no syntax highlighting in Markdown Here (varies on Github).
-But let&amp;#39;s throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Again, to see what languages are available for highlighting, and how to write those language names, see the &lt;a href=&quot;http://softwaremaniacs.org/media/soft/highlight/test.html&quot;&gt;highlight.js demo page&lt;/a&gt;.&lt;/p&gt;
-&lt;a name=&quot;tables&quot;/&gt;
-&lt;h2 id=&quot;tables&quot;&gt;&lt;a href=&quot;#tables&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tables&lt;/h2&gt;
-&lt;p&gt;Tables aren’t part of the core Markdown spec, but they are part of GFM and &lt;em&gt;Markdown Here&lt;/em&gt; supports them. They are an easy way of adding tables to your email — a task that would otherwise require copy-pasting from another application.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-The outer pipes (|) are optional, and you don&amp;#39;t need to make the raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Colons can be used to align columns.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Tables&lt;/th&gt;
-&lt;th align=&quot;center&quot;&gt;Are&lt;/th&gt;
-&lt;th align=&quot;right&quot;&gt;Cool&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;col 3 is&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;right-aligned&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;$1600&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;col 2 is&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;centered&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;$12&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;zebra stripes&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;are neat&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;$1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;The outer pipes (|) are optional, and you don’t need to make the raw Markdown line up prettily. You can also use inline Markdown.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Markdown&lt;/th&gt;
-&lt;th&gt;Less&lt;/th&gt;
-&lt;th&gt;Pretty&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;em&gt;Still&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;&lt;code class=&quot;language-text&quot;&gt;renders&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;nicely&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;a name=&quot;blockquotes&quot;/&gt;
-&lt;h2 id=&quot;blockquotes&quot;&gt;&lt;a href=&quot;#blockquotes&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Blockquotes&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;&amp;gt; Blockquotes are very handy in email to emulate reply text.
-&amp;gt; This line is part of the same quote.
-
-Quote break.
-
-&amp;gt; This is a very long line that will still be quoted properly when it wraps. Oh boy let&amp;#39;s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Goals for 2018]]></title><description><![CDATA[Intro I have started reading books in 2018 and found a lost love I once had from high school. I saw a video from Dain Miller entitled  “How…]]></description><link>https://frankpigeon.com/2018-02-21-2018-goals-for-2018/</link><guid isPermaLink="false">https://frankpigeon.com/2018-02-21-2018-goals-for-2018/</guid><pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;intro&quot;&gt;&lt;a href=&quot;#intro&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Intro&lt;/h2&gt;
+&lt;p&gt;I have started reading books in 2018 and found a lost love I once had from high school. I saw a video from Dain Miller entitled &lt;strong&gt;“How to Improve as a Programmer - DON’T WRITE MORE CODE, READ MORE”&lt;/strong&gt;.&lt;/p&gt;
+&lt;div&gt;
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
+          &gt;
+            &lt;section&gt;
+  &lt;iframe class=&quot;lost-center&quot; src=&quot;https://www.youtube-nocookie.com/embed/moTlZBY66Ng?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen style=&quot;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot;&gt;&lt;/iframe&gt;
+&lt;/section&gt;
+          &lt;/div&gt;
+          &lt;/div&gt;
+&lt;p&gt;After watching this inspirational video I was motivated to start the path to reading more, sleeping more, unplugging more, and being more focused and productive.&lt;/p&gt;
+&lt;p&gt;I am currently reading &lt;strong&gt;“The One Thing: The Suprisingly Simple Truth Behind Extraordinary Results”&lt;/strong&gt; by Gary Keller.&lt;/p&gt;
+&lt;p&gt;This book is full of wisdom, productivity hacks, and lays out a plan to get extraordinary results written by the chairman of the board and cofounder of Keller Williams Realty, Inc. So this is one of the sources of inspiration for this post.&lt;/p&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAQBAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQP/2gAMAwEAAhADEAAAAbJ7I89NDKunEROK/8QAGBAAAwEBAAAAAAAAAAAAAAAAAAECEDL/2gAIAQEAAQUCfLxlDGVn/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFBABAAAAAAAAAAAAAAAAAAAAMP/aAAgBAQAGPwIf/8QAGRABAQEBAQEAAAAAAAAAAAAAAQAhERAx/9oACAEBAAE/IRzEZxhkeMOt8eV2/9oADAMBAAIAAwAAABAUB0D/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAVEQEBAAAAAAAAAAAAAAAAAAAQAf/aAAgBAgEBPxAh/8QAGxABAQADAAMAAAAAAAAAAAAAAQARITFBYXH/2gAIAQEAAT8QcAbxA+45TMb83AbfD4u81Zyf/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/272d10680863cdf39d77f7602e00f411/e87b9/dominos.webp 148w,
+/static/272d10680863cdf39d77f7602e00f411/404d7/dominos.webp 295w,
+/static/272d10680863cdf39d77f7602e00f411/6c5da/dominos.webp 590w,
+/static/272d10680863cdf39d77f7602e00f411/8fbeb/dominos.webp 885w,
+/static/272d10680863cdf39d77f7602e00f411/ef0b4/dominos.webp 1180w,
+/static/272d10680863cdf39d77f7602e00f411/34ea1/dominos.webp 1400w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/272d10680863cdf39d77f7602e00f411/fc706/dominos.jpg 148w,
+/static/272d10680863cdf39d77f7602e00f411/754cc/dominos.jpg 295w,
+/static/272d10680863cdf39d77f7602e00f411/8e0ad/dominos.jpg 590w,
+/static/272d10680863cdf39d77f7602e00f411/66519/dominos.jpg 885w,
+/static/272d10680863cdf39d77f7602e00f411/c57d2/dominos.jpg 1180w,
+/static/272d10680863cdf39d77f7602e00f411/04170/dominos.jpg 1400w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/272d10680863cdf39d77f7602e00f411/8e0ad/dominos.jpg&quot;
+          alt=&quot;dominos&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;figure&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Blockquotes are very handy in email to emulate reply text.
-This line is part of the same quote.&lt;/p&gt;
+  &lt;p&gt;What is the &lt;em&gt;One Thing&lt;/em&gt; I can do such that by doing it everything else will be easier or unneccesary?&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Quote break.&lt;/p&gt;
+&lt;/figure&gt;
+&lt;h2 id=&quot;read-more&quot;&gt;&lt;a href=&quot;#read-more&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Read More&lt;/h2&gt;
+&lt;p&gt;I want to read 12 books in 2018. This comes out to one book a month.&lt;/p&gt;
+&lt;p&gt;I recently bought a used Kindle that I am hoping will help me with this goal. The reason I didn’t go with a tablet is that the Kindle is a dedicated reader. No social media, apps, etc to distract me.&lt;/p&gt;
+&lt;h3 id=&quot;book-list-for-2018&quot;&gt;&lt;a href=&quot;#book-list-for-2018&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Book List for 2018&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The Obstacle is the Way&lt;/strong&gt; by Ryan Holiday&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The One Thing&lt;/strong&gt; by Gary Keller&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deep Work&lt;/strong&gt; by Cal Newport&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Anything You Want&lt;/strong&gt; by Derek Silvers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;12 Rules for Life: An Antidote for Choas&lt;/strong&gt; by Jordan Peterson&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Pragmatic Programmer: From Journeyman to Master&lt;/strong&gt; by Andy Hunt&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clean Code: A Handbook of Agile Software Craftsmanship&lt;/strong&gt; by Robert C. Martin&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Selfish Gene&lt;/strong&gt; by Richards Dawkins&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Influence: The Psychology of Persuasion&lt;/strong&gt; by Robert B. Cialdini&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bold: How to Go Big, Create Wealth and Impact the World&lt;/strong&gt; by Peter H. Diamandis&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom&lt;/strong&gt; by Jonathan Haidt&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Introvert Advantage: How to Thrive in an Extrovert World&lt;/strong&gt; by Marti Olsen Laney&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;spiritual-life&quot;&gt;&lt;a href=&quot;#spiritual-life&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Spiritual Life&lt;/h2&gt;
+&lt;p&gt;Attend church weekly and attend a bible study. This is a great way to start off the week by putting God first and setting a good example for my boys. Read my bible every day before bed.&lt;/p&gt;
+&lt;h2 id=&quot;physical-health&quot;&gt;&lt;a href=&quot;#physical-health&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Physical Health&lt;/h2&gt;
+&lt;p&gt;Hit the gym three times a week and sleep 8 hours a day. I pack my gym bag the night before so I have no excuses to not go. I am following Carl Yung’s habit of going to bed by 10pm and waking up by 7am and starting out the day in &lt;em&gt;Deep Work&lt;/em&gt;. Afternoons are for &lt;em&gt;Shallow Work&lt;/em&gt; (everything else). Evenings are for family time. Internet goes down by 10pm and phone is on &lt;em&gt;Do Not Disturb&lt;/em&gt; mode.&lt;/p&gt;
+&lt;h2 id=&quot;personal-life&quot;&gt;&lt;a href=&quot;#personal-life&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Personal Life&lt;/h2&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 71.42857142857143%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAY+mJx6VBv/EABsQAAICAwEAAAAAAAAAAAAAAAECABEDBBIh/9oACAEBAAEFAuWhQ3wTNjxMFF6M/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFhEBAQEAAAAAAAAAAAAAAAAAABFB/9oACAECAQE/AcV//8QAGhAAAgIDAAAAAAAAAAAAAAAAAAECIRExQf/aAAgBAQAGPwIqSZZEeemz/8QAGxABAAICAwAAAAAAAAAAAAAAAQARIUExUZH/2gAIAQEAAT8hLraruAZoMRdwgsaGPJLxIvp5P//aAAwDAQACAAMAAAAQMx//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxCI/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQBR/9oACAECAQE/EFU9v//EABwQAQACAgMBAAAAAAAAAAAAAAEAESExQVFhof/aAAgBAQABPxDMWTZiBvKU2djL4k61xDJap0cvfyGWQsC6VvPkUaI1H//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/e5bdd8aa4d7226685e8d90c951543679/e87b9/trails.webp 148w,
+/static/e5bdd8aa4d7226685e8d90c951543679/404d7/trails.webp 295w,
+/static/e5bdd8aa4d7226685e8d90c951543679/6c5da/trails.webp 590w,
+/static/e5bdd8aa4d7226685e8d90c951543679/8fbeb/trails.webp 885w,
+/static/e5bdd8aa4d7226685e8d90c951543679/ef0b4/trails.webp 1180w,
+/static/e5bdd8aa4d7226685e8d90c951543679/34ea1/trails.webp 1400w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/e5bdd8aa4d7226685e8d90c951543679/fc706/trails.jpg 148w,
+/static/e5bdd8aa4d7226685e8d90c951543679/754cc/trails.jpg 295w,
+/static/e5bdd8aa4d7226685e8d90c951543679/8e0ad/trails.jpg 590w,
+/static/e5bdd8aa4d7226685e8d90c951543679/66519/trails.jpg 885w,
+/static/e5bdd8aa4d7226685e8d90c951543679/c57d2/trails.jpg 1180w,
+/static/e5bdd8aa4d7226685e8d90c951543679/04170/trails.jpg 1400w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/e5bdd8aa4d7226685e8d90c951543679/8e0ad/trails.jpg&quot;
+          alt=&quot;trails&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Plan a family outing and date night once a month.&lt;/p&gt;
+&lt;figure&gt;
 &lt;blockquote&gt;
-&lt;p&gt;This is a very long line that will still be quoted properly when it wraps. Oh boy let’s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can &lt;em&gt;put&lt;/em&gt; &lt;strong&gt;Markdown&lt;/strong&gt; into a blockquote.&lt;/p&gt;
+  &lt;p&gt; Families who sweat together stay together&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;a name=&quot;html&quot;/&gt;
-&lt;h2 id=&quot;inline-html&quot;&gt;&lt;a href=&quot;#inline-html&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Inline HTML&lt;/h2&gt;
-&lt;p&gt;You can also use raw HTML in your Markdown, and it’ll mostly work pretty well.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;&amp;lt;dl&amp;gt;
-  &amp;lt;dt&amp;gt;Definition list&amp;lt;/dt&amp;gt;
-  &amp;lt;dd&amp;gt;Is something people use sometimes.&amp;lt;/dd&amp;gt;
-
-  &amp;lt;dt&amp;gt;Markdown in HTML&amp;lt;/dt&amp;gt;
-  &amp;lt;dd&amp;gt;Does *not* work **very** well. Use HTML &amp;lt;em&amp;gt;tags&amp;lt;/em&amp;gt;.&amp;lt;/dd&amp;gt;
-&amp;lt;/dl&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;dl&gt;
-  &lt;dt&gt;Definition list&lt;/dt&gt;
-  &lt;dd&gt;Is something people use sometimes.&lt;/dd&gt;
-  &lt;dt&gt;Markdown in HTML&lt;/dt&gt;
-  &lt;dd&gt;Does *not* work **very** well. Use HTML &lt;em&gt;tags&lt;/em&gt;.&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;a name=&quot;hr&quot;/&gt;
-&lt;h2 id=&quot;horizontal-rule&quot;&gt;&lt;a href=&quot;#horizontal-rule&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Horizontal Rule&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Three or more...
-
----
-
-Hyphens
-
-***
-
-Asterisks
-
-___
-
-Underscores&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Three or more…&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Hyphens&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Asterisks&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Underscores&lt;/p&gt;
-&lt;a name=&quot;lines&quot;/&gt;
-&lt;h2 id=&quot;line-breaks&quot;&gt;&lt;a href=&quot;#line-breaks&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Line Breaks&lt;/h2&gt;
-&lt;p&gt;My basic recommendation for learning how line breaks work is to experiment and discover — hit &amp;#x3C;Enter&gt; once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You’ll soon learn to get what you want. “Markdown Toggle” is your friend.&lt;/p&gt;
-&lt;p&gt;Here are some things to try out:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Here&amp;#39;s a line for us to start with.
-
-This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
-
-This line is also a separate paragraph, but...
-This line is only separated by a single newline, so it&amp;#39;s a separate line in the *same paragraph*.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Here’s a line for us to start with.&lt;/p&gt;
-&lt;p&gt;This line is separated from the one above by two newlines, so it will be a &lt;em&gt;separate paragraph&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;This line is also begins a separate paragraph, but…
-This line is only separated by a single newline, so it’s a separate line in the &lt;em&gt;same paragraph&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;(Technical note: &lt;em&gt;Markdown Here&lt;/em&gt; uses GFM line breaks, so there’s no need to use MD’s two-space line breaks.)&lt;/p&gt;
-&lt;a name=&quot;videos&quot;/&gt;
-&lt;h2 id=&quot;youtube-videos&quot;&gt;&lt;a href=&quot;#youtube-videos&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;YouTube Videos&lt;/h2&gt;
-&lt;p&gt;They can’t be added directly but you can add an image with a link to the video like this:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;&amp;lt;a href=&amp;quot;http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=8AkLfYOgIrE
-&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://img.youtube.com/vi/8AkLfYOgIrE/0.jpg&amp;quot;
-alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height=&amp;quot;180&amp;quot; border=&amp;quot;10&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Or, in pure Markdown, but losing the image sizing and border:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Le Corbeau et le Renard (fake French post)]]></title><description><![CDATA[Maître Corbeau, sur un arbre perché, Tenait en son bec un fromage. Maître Renard, par l’odeur alléché, Lui tint à peu près ce langage : « Hé…]]></description><link>https://frankpigeon.com/2018-01-02-post-en-francais/</link><guid isPermaLink="false">https://frankpigeon.com/2018-01-02-post-en-francais/</guid><pubDate>Tue, 02 Jan 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Maître Corbeau, sur un arbre perché,&lt;br&gt;
-Tenait en son bec un fromage.&lt;br&gt;
-Maître Renard, par l’odeur alléché,&lt;br&gt;
-Lui tint à peu près ce langage :&lt;br&gt;
-« Hé ! bonjour, Monsieur du Corbeau.&lt;br&gt;
-Que vous êtes joli ! Que vous me semblez beau !&lt;br&gt;
-Sans mentir, si votre ramage&lt;br&gt;
-Se rapporte à votre plumage,&lt;br&gt;
-Vous êtes le Phénix des hôtes de ces bois. »&lt;br&gt;
-A ces mots le Corbeau ne se sent pas de joie ;&lt;br&gt;
-Et pour montrer sa belle voix,&lt;br&gt;
-Il ouvre un large bec, laisse tomber sa proie.&lt;br&gt;
-Le Renard s’en saisit, et dit : « Mon bon Monsieur,&lt;br&gt;
-Apprenez que tout flatteur&lt;br&gt;
-Vit aux dépens de celui qui l’écoute :&lt;br&gt;
-Cette leçon vaut bien un fromage, sans doute. »&lt;br&gt;
-Le Corbeau, honteux et confus,&lt;br&gt;
-Jura, mais un peu tard, qu’on ne l’y prendrait plus.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Syntax Highlighting Post]]></title><description><![CDATA[Vue.js Vue (pronounced /vjuː/, like  view ) is a  progressive framework  for building user interfaces. Unlike other monolithic frameworks…]]></description><link>https://frankpigeon.com/2017-01-03-code-highlighting-post/</link><guid isPermaLink="false">https://frankpigeon.com/2017-01-03-code-highlighting-post/</guid><pubDate>Tue, 03 Jan 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;vuejs&quot;&gt;&lt;a href=&quot;#vuejs&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Vue.js&lt;/h2&gt;
-&lt;p&gt;Vue (pronounced /vjuː/, like &lt;strong&gt;view&lt;/strong&gt;) is a &lt;strong&gt;progressive framework&lt;/strong&gt; for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects. On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with &lt;a href=&quot;single-file-components.html&quot;&gt;modern tooling&lt;/a&gt; and &lt;a href=&quot;https://github.com/vuejs/awesome-vue#components--libraries&quot;&gt;supporting libraries&lt;/a&gt;.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;template&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;app&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;router-view&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;router-view&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-  &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;template&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;script&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token script language-javascript&quot;&gt;
-&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token function&quot;&gt;created&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;$store&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;dispatch&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;loadLoggedInUser&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;script&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;style&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;scoped&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token style language-css&quot;&gt;
-&lt;span class=&quot;token selector&quot;&gt;#app&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;text-align&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; center&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 100%&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;style&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&quot;javascript-jsx-and-highlighted-lines&quot;&gt;&lt;a href=&quot;#javascript-jsx-and-highlighted-lines&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;JavaScript, JSX and highlighted lines&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;ShoppingList&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;extends&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;React&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Component&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token function&quot;&gt;render&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; user &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;props
-
-    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
-      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div className&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;shopping-list&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
-&lt;span class=&quot;gatsby-highlight-code-line&quot;&gt;        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;h1&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Shopping List &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;user&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;h1&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;ul&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
-          &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;li&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;Gatsby&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;li&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
-          &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;li&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;React&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;li&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
-          &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;li&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;GraphQL&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;li&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
-        &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;ul&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
-      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
-    &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;To highlight a line: &lt;code class=&quot;language-text&quot;&gt;```js{lineNumber}&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;typescript&quot;&gt;&lt;a href=&quot;#typescript&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;TypeScript&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;typescript&quot;&gt;&lt;pre class=&quot;language-typescript&quot;&gt;&lt;code class=&quot;language-typescript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Greeter&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  greeting&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token builtin&quot;&gt;string&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;constructor&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;message&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token builtin&quot;&gt;string&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;greeting &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; message&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-  &lt;span class=&quot;token function&quot;&gt;greet&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Hello, &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;greeting&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; greeter &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Greeter&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;world&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&quot;scss&quot;&gt;&lt;a href=&quot;#scss&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;SCSS&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;scss&quot;&gt;&lt;pre class=&quot;language-scss&quot;&gt;&lt;code class=&quot;language-scss&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;@import&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;reset&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token selector&quot;&gt;body &lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;font&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 100% Helvetica, sans-serif&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; #efefef&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;token selector&quot;&gt;&lt;span class=&quot;token placeholder&quot;&gt;%message-shared&lt;/span&gt; &lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;border&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 1px solid #ccc&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 10px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; #333&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;token selector&quot;&gt;.message &lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;@extend&lt;/span&gt; &lt;span class=&quot;token placeholder selector&quot;&gt;%message-shared&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[The Fallen Time (fake post)]]></title><description><![CDATA[Hoc domum solitos veteremque nostrum Lorem markdownum huc suo ara, dubites celeri mihi bicolor. Secuti non? Suo opus
-quales dant, puppim…]]></description><link>https://frankpigeon.com/2017-01-02-the-fallen-time/</link><guid isPermaLink="false">https://frankpigeon.com/2017-01-02-the-fallen-time/</guid><pubDate>Mon, 02 Jan 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;hoc-domum-solitos-veteremque-nostrum&quot;&gt;&lt;a href=&quot;#hoc-domum-solitos-veteremque-nostrum&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Hoc domum solitos veteremque nostrum&lt;/h2&gt;
-&lt;p&gt;Lorem markdownum huc suo ara, dubites celeri mihi bicolor. Secuti non? Suo opus
-quales dant, puppim hanc!&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; ThemeContext &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; React&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;createContext&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;light&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;ThemeProvider&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;extends&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;React&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Component&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  state &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;theme&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;light&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-  &lt;span class=&quot;token function&quot;&gt;render&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
-      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;ThemeContext&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Provider value&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;state&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;theme&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
-        &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;props&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;children&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;ThemeContext&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Provider&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
-    &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;ThemedButton&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;extends&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;React&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Component&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token function&quot;&gt;render&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
-      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;ThemeContext&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Consumer&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
-        &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;theme &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;Button theme&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;theme&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;ThemeContext&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Consumer&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
-    &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&quot;in-nunc&quot;&gt;&lt;a href=&quot;#in-nunc&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;In nunc&lt;/h2&gt;
-&lt;p&gt;Superinposita dira me Iove, lanigeris tendunt! Illis gladii, in pignusque dixit
-trisulcis latices. Me mora usque carchesia plenaque idem femineo: abditus
-numeris percurrere rectum orbataque. Lucibus nocuisse et nova attactu et secura,
-enim poterentur.&lt;/p&gt;
-&lt;p&gt;Infelix ait eadem. Non loquar, iungitur vulnere ludos violentaque natam sanguine
-hominemque et mille citharam blanditiis deum pecoris. Vibrabant et crimina
-iterum: et nisi victa quietis litore? Cera sistere publica &lt;strong&gt;infelix
-harundinibus&lt;/strong&gt; quam ad et, deos iacent, &lt;strong&gt;hunc tulit&lt;/strong&gt;, spicula, natantes!
-Melioribus imperat fugit &lt;em&gt;me natum&lt;/em&gt; quem sequitur nocturnae moras tantummodo et
-secus aethera umentes vidisse terrae sororum laboris, fraterno.&lt;/p&gt;
-&lt;h2 id=&quot;perpetiar-lacrimas-non-dare&quot;&gt;&lt;a href=&quot;#perpetiar-lacrimas-non-dare&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Perpetiar lacrimas Non dare&lt;/h2&gt;
-&lt;p&gt;Tibi ducit incursu nomina terrae, feratur satis Telethusa corpore Eurynome in
-semina adiecit! Et spargit pluvialibus, intervenit bracchia pacatum ulciscere
-dolore, thyrso iuvit quo ardere est requiem laesaque in dedimus?&lt;/p&gt;
-&lt;h2 id=&quot;est-in-sit-suos-fessa&quot;&gt;&lt;a href=&quot;#est-in-sit-suos-fessa&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Est in sit suos fessa&lt;/h2&gt;
-&lt;p&gt;Est illo Osiris aevo, et &lt;strong&gt;dextrae&lt;/strong&gt; quoque et, illa. Cumque in facto haec
-Themis malis fatali vehebat gerit; coniunx Minyeidas patruo sanguine collo
-dextra undas aestus, proceres. Falso ut relictas me ara illa &lt;em&gt;expulit&lt;/em&gt;
-praebentem tanto dubiis anguiferumque. Fata vidit &lt;a href=&quot;http://nare.io/amplexu&quot;&gt;suam caede
-mirere&lt;/a&gt; serpentibus tibi propositumque vestes capillis
-natalibus, fitque! Verba Siphnon, arcanaque vicina, Cycnum mox suos coniunx
-ebrius.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// code in java&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;hsf&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; artMetalMeme&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;yottabytePrimary&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;circuit&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    saas&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;backbone &lt;span class=&quot;token operator&quot;&gt;+=&lt;/span&gt; netmaskUtf&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    engineNybble&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;crtSdram &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; link_icq&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;token function&quot;&gt;whitelist_youtube_search&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;botnet_w_dma&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;raidBurn&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wavelengthBalancing&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    dithering_printer_so&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;file&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;toggle_right&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-modifierDaemonOpen &lt;span class=&quot;token operator&quot;&gt;*=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;video&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;touchscreen_speed&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;692730&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; sound_lion_finder&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-        nanometer_variable &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;of&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;ldap&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; recursion_pop_zebibyte&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; c&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;popCrossplatformVdsl&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    thunderboltMnemonic &lt;span class=&quot;token operator&quot;&gt;-=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;lte&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;648733&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    ddr_spoofing &lt;span class=&quot;token operator&quot;&gt;*=&lt;/span&gt; metal_commercial &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; http&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    leafPowerBar &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; spoolPower&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    file_itunes &lt;span class=&quot;token operator&quot;&gt;+=&lt;/span&gt; dataLifo&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-binary &lt;span class=&quot;token operator&quot;&gt;*=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Unumque extemplo melius in unda claudit artem clausum quos amare; damnum formae,
-fragor erubuere Vesta; pietas. Guttura nova modo obstantis nitar et &lt;strong&gt;boves&lt;/strong&gt;;
-dixit paratibus tenera contiguas occupat &lt;strong&gt;seque casu&lt;/strong&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Bold Mage (fake post)]]></title><description><![CDATA[Sedisti civiliter Lorem  markdownum  Ixione palus  semper peritura barbaque  in aureus
-obliquum erigitur gemmae utque cur natus, aera…]]></description><link>https://frankpigeon.com/2017-01-01-bold-mage/</link><guid isPermaLink="false">https://frankpigeon.com/2017-01-01-bold-mage/</guid><pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;sedisti-civiliter&quot;&gt;&lt;a href=&quot;#sedisti-civiliter&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Sedisti civiliter&lt;/h2&gt;
-&lt;p&gt;Lorem &lt;strong&gt;markdownum&lt;/strong&gt; Ixione palus &lt;strong&gt;semper peritura barbaque&lt;/strong&gt; in aureus
-obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
-ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
-animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
-&lt;em&gt;Talibus ausis&lt;/em&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;vultusque-subsequitur-pallas-regis-datis-inde-animaque&quot;&gt;&lt;a href=&quot;#vultusque-subsequitur-pallas-regis-datis-inde-animaque&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Vultusque subsequitur Pallas regis datis inde animaque&lt;/h2&gt;
-&lt;p&gt;At securim cautum capitis, creatos sanguinis turbant iam concita videor, edere.
-Alis genas rudis felix quas &lt;strong&gt;longum&lt;/strong&gt; suorum manu ante prima &lt;strong&gt;usque&lt;/strong&gt;. Nec pro
-mea pariter, ictus iam consequitur capillos elegit ego; quoniam &lt;strong&gt;fuit&lt;/strong&gt;. Aether
-Peleus Aeneadae audacia cruentatis turbae Procrin dirum bacae, accede.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;php&quot;&gt;&lt;pre class=&quot;language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;    urlLinkedin&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;midi_manet &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;namespace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;backsideKilobitBezel&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; ddr &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; storage_wordart_sdram&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    python&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;raw_backlink &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; rfid_load &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    kibibyte &lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; cdnThumbnailUri&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&quot;fortis-dextrae-humo-limina-tempus-singultibus-illa&quot;&gt;&lt;a href=&quot;#fortis-dextrae-humo-limina-tempus-singultibus-illa&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Fortis dextrae humo limina Tempus singultibus illa&lt;/h2&gt;
-&lt;p&gt;Nate muros orbe &lt;a href=&quot;http://debebuntilla.org/res-ego&quot;&gt;patris&lt;/a&gt; rigent, nec tumida,
-pigra iuste At spretarumque latus et nostrum. Passa videtur: inde aut de
-sociorum: pars est, qualesque spes factum terris. Custodia sum animumque; iubet
-in pulvere carus, relinquunt incitat. Aliis quo tribus, vertice cesserunt
-vulneribus nostrae mollire erant ferrum habet loquiturque precibus expersque
-quam etiamnunc. Puraque &lt;a href=&quot;http://mihi-aiax.io/suaferunt.aspx&quot;&gt;repetitque&lt;/a&gt;,
-funestaque crebros mihi conubia matres insopitumque residunt rogat ponto canos
-ergo firmat albentia verba casuque.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;perl&quot;&gt;&lt;pre class=&quot;language-perl&quot;&gt;&lt;code class=&quot;language-perl&quot;&gt;    &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;lion_vdu &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; vrml_upnp &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt; redundancyAccessPharming&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-        driveProcessor &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; floatingWord&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;commerceDockRestore&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;database&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-        partition_source_thunderbolt &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; tokenStateArchive &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;
-                teraflops_gigahertz&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;/figure&gt;
+&lt;h2 id=&quot;professional&quot;&gt;&lt;a href=&quot;#professional&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Professional&lt;/h2&gt;
+&lt;p&gt;In 2017 I started my journey learning Javascript and in 2018 I will continue this journey.&lt;/p&gt;
+&lt;p&gt;Currently enrolled in Udacity’s React Nano Degree. This covers React, Redux, and React Native.&lt;/p&gt;
+&lt;p&gt;After completing the Nano Degree in by this Spring, I will be focusing on the following &lt;strong&gt;Frontend Masters&lt;/strong&gt; courses for Summer and Fall.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Complete Intro to React, v3 (feat. Redux, Router &amp;#x26; Flow)&lt;/li&gt;
+&lt;li&gt;Advanced State Management in React (feat. Redux and MobX)&lt;/li&gt;
+&lt;li&gt;Firebase + React: Real-time, Serverless Web Apps&lt;/li&gt;
+&lt;li&gt;React Native (feat. Redux)&lt;/li&gt;
+&lt;li&gt;Testing JavaScript Applications (feat. React and Redux)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also have queued up Kyle Simpons’ &lt;strong&gt;You Don’t Know JS&lt;/strong&gt; series on my Kindle.&lt;/p&gt;
+&lt;h2 id=&quot;financial&quot;&gt;&lt;a href=&quot;#financial&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Financial&lt;/h2&gt;
+&lt;p&gt;As a Dave Ramsey follower, we are on Baby Step 2 of &lt;strong&gt;The Total Money Makeover&lt;/strong&gt;. We had a lot of life thrown at us in 2017 and we are working on paying down debt, sticking to a monthly zero-based budget, and a cash envelope system to help us stay on track. Old school but effective.&lt;/p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;&lt;a href=&quot;#conclusion&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Blogging and writing more is also important to me so my goal will be one blog post a month.&lt;/p&gt;
+&lt;p&gt;🤔 Writting down your goals are key to keeping them so maybe blogging them will be just as effective.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2017 Year in Review]]></title><description><![CDATA[Looking Back It’s hard to believe that Christmas is just a week away and we are almost done with 2017. This time of year, at least for me…]]></description><link>https://frankpigeon.com/2017-12-15-year-in-review/</link><guid isPermaLink="false">https://frankpigeon.com/2017-12-15-year-in-review/</guid><pubDate>Fri, 15 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;looking-back&quot;&gt;&lt;a href=&quot;#looking-back&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Looking Back&lt;/h2&gt;
+&lt;p&gt;It’s hard to believe that Christmas is just a week away and we are almost done with 2017. This time of year, at least for me, is a time of reflection on the year gone by.&lt;/p&gt;
+&lt;h2 id=&quot;challenges-and-opportunities&quot;&gt;&lt;a href=&quot;#challenges-and-opportunities&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Challenges and Opportunities&lt;/h2&gt;
+&lt;h3 id=&quot;selecting-a-js-framework&quot;&gt;&lt;a href=&quot;#selecting-a-js-framework&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Selecting a JS Framework&lt;/h3&gt;
+&lt;p&gt;For me, I knew that learning JavaScript was definately where my heart was leading me. But which framework to start with? I was overwhelmed and did what I thought was best and that was to spend a little time with each one.&lt;/p&gt;
+&lt;p&gt;I started with Angular since it was hyped from VS Studio Live Conference I had attended in Austin, TX. It paired nicely with Typescript and seemed like many speakers at the conference where talking about it. I listened to &lt;a href=&quot;https://twitter.com/deborahkurata&quot;&gt;Deborah Kurata&lt;/a&gt; speak and how the Angular team all used vscode and how the Google team was working with the MS team. Seemed like a good place to start but I had found that it was not a rabbit hole that I wanted to go down.&lt;/p&gt;
+&lt;p&gt;Next I moved onto Vue since Jeffrey Way had realeased a course on &lt;a href=&quot;https://laracasts.com/series/learn-vue-2-step-by-step&quot;&gt;Learning Vue 2 Step by Step&lt;/a&gt;. I really love Jeffrey’s teaching style and respect him as a teacher and a person.  I really liked how simple it was to get started. No complicated setup needed.&lt;/p&gt;
+&lt;p&gt;Next I was introduced to Wes Bos and his online courses, some free and some paid. I found that he had great quality training after taking some of the 30 Day JS Challenge. I soon started his &lt;a href=&quot;https://reactforbeginners.com/&quot;&gt;React for Beginner’s&lt;/a&gt; course and really liked that React is just JS and felt that by learning React it was making me a better JS developer too.&lt;/p&gt;
+&lt;p&gt;Then my coworker used React on one of our projects at work and I remember thinking this &lt;strong&gt;feels like magic&lt;/strong&gt;. I was hooked ever since. I want to continue learning React in 2018 and this is where my heart is after trying the big three JS frameworks in 2017.&lt;/p&gt;
+&lt;p&gt;I feel like it was good for me to at least try all 3. Not at the same time, but complete one project in one framework and see how it felt. Then you can make a decision on which one you like working with, wich one you feel comfortable with, and which one you are most productive with.&lt;/p&gt;
+&lt;h3 id=&quot;dokku&quot;&gt;&lt;a href=&quot;#dokku&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Dokku&lt;/h3&gt;
+&lt;p&gt;I probably need to do a seperate blog post on &lt;a href=&quot;http://dokku.viewdocs.io/dokku/&quot;&gt;Dokku&lt;/a&gt; to give it justice.&lt;/p&gt;
+&lt;p&gt;From the docs:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Docker powered mini-Heroku. The smallest PaaS implementation you’ve ever seen.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I had not worked with Heroku but have read that it makes deploying apps in whatever language dead simple.&lt;/p&gt;
+&lt;p&gt;I was using &lt;a href=&quot;https://forge.laravel.com/&quot;&gt;Forge&lt;/a&gt; but I was limited to PHP based projects. Now that I am using Dokku, I can deploy apps in any language to my Digital Ocean droplet.&lt;/p&gt;
+&lt;h3 id=&quot;interviews&quot;&gt;&lt;a href=&quot;#interviews&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Interviews&lt;/h3&gt;
+&lt;p&gt;My dev shop was hiring two developer positions and I was selected to be on the interview panel. It was the first time I had been on the other side of the table and was honored to be there. We were asked to come up with five questions and the panel, which consisted of four members would take turns asking questions.&lt;/p&gt;
+&lt;p&gt;This experience helped me remember that this field is hard, and being put on the spot to answer technical questions can be daunting task to say the least. I have been in those shoes and know that it can be tough.&lt;/p&gt;
+&lt;p&gt;I remember from being on a Army promotion board that even if you dont’ know the answer, say you know where to find the answer. Also enthusiasm goes along way. People skills are important since you will have to work with this person.&lt;/p&gt;
+&lt;h2 id=&quot;best-upgrades&quot;&gt;&lt;a href=&quot;#best-upgrades&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Best Upgrades&lt;/h2&gt;
+&lt;p&gt;2017 had a many upgrades but these are top favs!&lt;/p&gt;
+&lt;h3 id=&quot;standing-desk&quot;&gt;&lt;a href=&quot;#standing-desk&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Standing Desk&lt;/h3&gt;
+&lt;p&gt;I had the opportunity to get a standing desk for work. At first, I wasn’t sure if I even wanted it but I decided that I would give it a try.&lt;/p&gt;
+&lt;p&gt;I had read of the benefits of standing and was trying to improve my health so this was a win for me.&lt;/p&gt;
+&lt;p&gt;At first my legs would get weak and I could only stand for like maybe an hour or so. But after a few weeks, I was standing more and sitting less.&lt;/p&gt;
+&lt;p&gt;Now I find that I am standing all morning, and then sit down for lunch and the afternoon.&lt;/p&gt;
+&lt;p&gt;I also gave up my chair for a medicine ball and feel that I am working my core more now than just sitting in a chair.&lt;/p&gt;
+&lt;h3 id=&quot;exercise-as-part-of-my-routine&quot;&gt;&lt;a href=&quot;#exercise-as-part-of-my-routine&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Exercise as part of my routine&lt;/h3&gt;
+&lt;p&gt;I wasn’t in the habit of working out and had found that I even when I went to the gym I wasn’t very seriuos about it.&lt;/p&gt;
+&lt;p&gt;Now I am commited to working out as part of my day. There is no question of what my plans are for lunch. I know and plan on working out.&lt;/p&gt;
+&lt;p&gt;I feel that this commmitment has help me focus more on my dev work and stay more healthy and balanced.&lt;/p&gt;
+&lt;h3 id=&quot;qhd-monitor&quot;&gt;&lt;a href=&quot;#qhd-monitor&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;QHD monitor&lt;/h3&gt;
+&lt;p&gt;I have had a dual-monitor setup for years but then I read the &lt;a href=&quot;https://hackernoon.com/why-i-stopped-using-multiple-monitors-bfd87efa2e5b?gi=772d843779f6&quot;&gt;One Monitor Manifesto&lt;/a&gt; and was ready to try something new. This is a great read if you haven’t checked it out and changed the way I thought about the multiple monitor productivity myth.&lt;/p&gt;
+&lt;p&gt;I ended up selling the dual monitors for a single 25” Quad HD Monitor. I really like the extra crisp display which is great for design work and easier on the eyes.&lt;/p&gt;
+&lt;p&gt;I am finding that I am more focused keeping my apps opened at full-screen and either tabbing between them or keeping them organized on seperate virtual desktops.&lt;/p&gt;
+&lt;h2 id=&quot;whats-in-store-for-2018&quot;&gt;&lt;a href=&quot;#whats-in-store-for-2018&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What’s in Store for 2018&lt;/h2&gt;
+&lt;p&gt;2018 is going to be a great year. Here are some things I am looking forward to in the new year.&lt;/p&gt;
+&lt;h3 id=&quot;react-nano-degree&quot;&gt;&lt;a href=&quot;#react-nano-degree&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;React Nano Degree&lt;/h3&gt;
+&lt;p&gt;I am excited to be taking Udacity’s React Nano Degree program. Like I had mentioned, I want to learn React deeper in 2018 so this will be a great way to start the year.&lt;/p&gt;
+&lt;p&gt;The curriculum includes 3 modules and projects including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;React Fundamentals(😃 duh)&lt;/li&gt;
+&lt;li&gt;React and Redux&lt;/li&gt;
+&lt;li&gt;React Native&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;css-grid&quot;&gt;&lt;a href=&quot;#css-grid&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;CSS Grid&lt;/h2&gt;
+&lt;p&gt;CSS Grid is the hot new layout spec and making its way to a browser near you. I am starting Wes Bos’s CSS Grid course which looks great. Also in the course we are using &lt;strong&gt;Firefox Developer Addition&lt;/strong&gt; browser so I am looking forward to playing with something besides Chrome.&lt;/p&gt;
+&lt;h3 id=&quot;c-and-net-core&quot;&gt;&lt;a href=&quot;#c-and-net-core&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;C# and .NET core&lt;/h3&gt;
+&lt;p&gt;Since at work we are a .NET shop, it would be good for me to learn more C# and .NET. I am excited to see Microsoft is doing with .NET core which is cross-platform and open-source.&lt;/p&gt;
+&lt;p&gt;I am in love with Visual Studio code as my editor and use Visual Studio at work.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[World of Vue.js]]></title><description><![CDATA[Learning Javascript in 2017 Getting started on my goal to learn more Javascript in 2017, I decided to start my adventure with React. Having…]]></description><link>https://frankpigeon.com/2017-03-12-vuejs/</link><guid isPermaLink="false">https://frankpigeon.com/2017-03-12-vuejs/</guid><pubDate>Sun, 12 Mar 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;learning-javascript-in-2017&quot;&gt;&lt;a href=&quot;#learning-javascript-in-2017&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Learning Javascript in 2017&lt;/h2&gt;
+&lt;p&gt;Getting started on my goal to learn more Javascript in 2017, I decided to start my adventure with React.&lt;/p&gt;
+&lt;p&gt;Having completed a couple tutorials, I was feeling pretty excited about React, its ecosystem, and its popularity in the Javascript world.&lt;/p&gt;
+&lt;p&gt;One of my concerns was am I investing in the right Javascript framework? How do you know you are picking the right one when you haven’t experienced them all.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;My mentors told me that you just need to pick one and go with it.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I was feeling a little fuzzy on my React training so launching this blog using React help solidy some of that knowledge.&lt;/p&gt;
+&lt;h2 id=&quot;and-then-there-was-vue&quot;&gt;&lt;a href=&quot;#and-then-there-was-vue&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;And then there was Vue&lt;/h2&gt;
+&lt;p&gt;Jeffrey Way had released a free series on &lt;a href=&quot;https://vuejs.org/&quot;&gt;Vue.js&lt;/a&gt; that had perked my interest. I feel that he is a great teacher and I have been a subscriber to &lt;a href=&quot;https://laracasts.com/&quot;&gt;Laracasts&lt;/a&gt; for a long time.&lt;/p&gt;
+&lt;p&gt;I wanted a break from React and was curious on how it would be to build something using Vue.&lt;/p&gt;
+&lt;p&gt;Right away I fell in love.&lt;/p&gt;
+&lt;p&gt;There is no complicated setup. All you do is drop in one javascript tag and you are ready to go. No fancy setup required.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;script src&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;https://unpkg.com/vue&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;script&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Next, you’ll want to setup your template.&lt;/p&gt;
+&lt;h4 id=&quot;html&quot;&gt;&lt;a href=&quot;#html&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;html&lt;/h4&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;app&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    {{ message }}
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4 id=&quot;javascript&quot;&gt;&lt;a href=&quot;#javascript&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;javascript&lt;/h4&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; app &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Vue&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    el&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;#app&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    data&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        message&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Hello World&apos;&lt;/span&gt;
     &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-    exabytePhpMacintosh &lt;span class=&quot;token operator&quot;&gt;-=&lt;/span&gt; graphic_cycle&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;expression&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; memory&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;ideFatMatrix&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-            controlInboxMode&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    buffer_apple_hdmi &lt;span class=&quot;token operator&quot;&gt;+=&lt;/span&gt; viralSync &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; internetDigital &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt; tweak_perl_expansion&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
-            masterNullFloating &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; vdu&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; software_play&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&quot;nati-expugnacior-nympha-milia-nascuntur-amico&quot;&gt;&lt;a href=&quot;#nati-expugnacior-nympha-milia-nascuntur-amico&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Nati expugnacior nympha milia nascuntur amico&lt;/h2&gt;
-&lt;p&gt;Multis timidus hic si auctor hausit. Suos taedasque, malis est nitente sceleri
-sunt florem.&lt;/p&gt;
-&lt;p&gt;Sub quid deprenderat mores postquam tectoque maiestatemque debebat quibus;
-subitam amittere illius esse dona. Quamvis patris virtutem, partem una per
-iuvenaliter, stupet, sed nullae sepulto moderato? Nec phaedimus aequoris dixit.
-Hic bis parenti: e petunt satis.&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Congrats you have just setup your first Vue app. We are telling Vue to connect to the id &lt;code class=&quot;language-text&quot;&gt;app&lt;/code&gt; and then we are passing in the data &lt;code class=&quot;language-text&quot;&gt;message&lt;/code&gt; using the mustache syntax &lt;code class=&quot;language-text&quot;&gt;{{ message }}&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Vue.js is simple to work with and just makes sense. There is a clear separation from your markup, your logic, and styling. Contrasting React’s JSX, everything was jumbled up in there.&lt;/p&gt;
+&lt;p&gt;Bonus: It doesn’t hurt that you have one of the best teacher’s with Jeffrey Way. I really recommend his free Vue.js 2 course entitled &lt;a href=&quot;https://laracasts.com/series/learn-vue-2-step-by-step&quot;&gt;Learn Vue 2: Step By Step&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;After completing the course I was so excited to learn more about Vue that I started reading a book named &lt;a href=&quot;https://www.packtpub.com/web-development/learning-vuejs-2&quot;&gt;Learning Vue.js 2&lt;/a&gt; by Olga Filipova.&lt;/p&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 63.25925925925926%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAACnElEQVQ4y42Ty08TURSHx72Ja03cuHKhLjQmPhCNmPgnmBihvGQhGghKIARjookmLl0bfOALTcQHJmqqUtpCpy8oUDotlhZwoEXoYyqdthQ+Z0YhqIH4S77c3HNzf/fec84VGhubuHHzFpcuX6G8ugbT+ToqKqupMFViqq7FVFvH2coazphqOGfS41X/UP57rKyqQSD6DVwjMBKCUASiMixmMaSkQI6iyjLJ8TAsFdhMi0oawWb3Y+n6TO+LXnq7rXx5bWfAFcIRjvPWMozVMYpzOIzDIyEGphHHZ3EEZcTQjEF/QKZfkrGNTfPGNoxwtPUpZde7OX3tOaeuPqO09TEn2h5zsrWTYy2PON72hLL2pxxu7qS0pZMTGiVXHlDS/NCYH2zo+EVjB4ea7iNkEjHi8ldGE0nC6QyTikJWzZP6oaJopDJZkulFLQs5Lf4vai6/RmZRRbjtsnGg6x47zH3s63VwTvQyJcfxSRHGwtOMjk8hRWZYULIkMhugrSUzKjMLCkJDMMr2Pg97bS52a4ZVTh9Bvx+Px01gbIypySipVJL/ldAWDLPfKnJkwMMei4MLLh9up5P+/gEkKcjExATR6CRpLRW6VlZWNkW46PGx7WUPu3o+sPXVR46YbQy53ZjNZkTRSSAQwDfkIxQKkcvn10w3MhfqRyS29Hxi53sL7XfqeXe3AbfHi91ux9pnxev1MhEOMxubQ9FuWVxa+sN0vQzDca2JLYkUlu8LZCMerbHdmskgosNhPHl2NsZ0PGEURhz0E4vPbfp04e9T9PODkoRfK4xuNj8/z/ekgqIWULIF1l8sk80TiaWYmksb7WUURe+fbC5noKoq+ZxKsVhkeXmZfKFAXstbUftyq+hzPZfGqO9ZRetJPfYTAeh+mJExUJMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/8bdb4a621a66c6c646b803058c70d26f/f04b0/book.webp 148w,
+/static/8bdb4a621a66c6c646b803058c70d26f/30287/book.webp 295w,
+/static/8bdb4a621a66c6c646b803058c70d26f/cb54b/book.webp 590w,
+/static/8bdb4a621a66c6c646b803058c70d26f/d0733/book.webp 885w,
+/static/8bdb4a621a66c6c646b803058c70d26f/3bc83/book.webp 1180w,
+/static/8bdb4a621a66c6c646b803058c70d26f/331bd/book.webp 1350w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/8bdb4a621a66c6c646b803058c70d26f/ce5e3/book.png 148w,
+/static/8bdb4a621a66c6c646b803058c70d26f/0df5d/book.png 295w,
+/static/8bdb4a621a66c6c646b803058c70d26f/03198/book.png 590w,
+/static/8bdb4a621a66c6c646b803058c70d26f/37596/book.png 885w,
+/static/8bdb4a621a66c6c646b803058c70d26f/e107c/book.png 1180w,
+/static/8bdb4a621a66c6c646b803058c70d26f/41ea2/book.png 1350w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/8bdb4a621a66c6c646b803058c70d26f/03198/book.png&quot;
+          alt=&quot;book&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This book was listed as one the resources from the &lt;a href=&quot;https://github.com/vuejs/awesome-vue&quot;&gt;Awesome Vue&lt;/a&gt; Github repo that has tons of Vue related resources.&lt;/p&gt;
+&lt;h2 id=&quot;changing-teams&quot;&gt;&lt;a href=&quot;#changing-teams&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Changing Teams&lt;/h2&gt;
+&lt;p&gt;So now I have changed teams from React to Vue.&lt;/p&gt;
+&lt;p&gt;My mentor says that either one you chose it will help you further your Javascript learning so these are in line with my professional goals.&lt;/p&gt;
+&lt;h2 id=&quot;wrapping-up&quot;&gt;&lt;a href=&quot;#wrapping-up&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Wrapping Up&lt;/h2&gt;
+&lt;p&gt;I am enjoying the book so far and am excited to learn Vue deeper. I am typically a visual learner but it is refreshing going &lt;strong&gt;old school&lt;/strong&gt; and reading an ebook. So far I have completed Chapter 2 and have learned a bunch so far. Some of the exercises are creating a Shopping List and a Pomodoro timer. I think you will enjoy learning and using Vue.js in your projects too.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[PostCSS]]></title><description><![CDATA[Working with PostCSS I’ve been using   for quite some time now as my go to CSS pre-processor. It felt very familiar coming from vanilla CSS…]]></description><link>https://frankpigeon.com/2017-03-01-postCSS/</link><guid isPermaLink="false">https://frankpigeon.com/2017-03-01-postCSS/</guid><pubDate>Wed, 01 Mar 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;working-with-postcss&quot;&gt;&lt;a href=&quot;#working-with-postcss&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Working with PostCSS&lt;/h2&gt;
+&lt;p&gt;I’ve been using &lt;code class=&quot;language-text&quot;&gt;SASS&lt;/code&gt; for quite some time now as my go to CSS pre-processor. It felt very familiar coming from vanilla CSS, or &lt;strong&gt;Cascading Style Sheets&lt;/strong&gt; but gives you conveniances like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;variables for colors, fonts, etc&lt;/li&gt;
+&lt;li&gt;nesting!&lt;/li&gt;
+&lt;li&gt;mixins&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I remember on my first project that I was introduced to SASS, I was impressed on how quickly I adopted it and became a fan.&lt;/p&gt;
+&lt;p&gt;The only negative I could think of is that it requires a task runner to convert the SASS code into regular CSS that the browser could understand. At the time I was introduced to SASS we were using &lt;code class=&quot;language-text&quot;&gt;grunt&lt;/code&gt; as our task runner which later we replaced with &lt;code class=&quot;language-text&quot;&gt;gulp&lt;/code&gt; and now &lt;code class=&quot;language-text&quot;&gt;webpack&lt;/code&gt; is all the rage.&lt;/p&gt;
+&lt;p&gt;This step was at first a manual process having to run things like &lt;code class=&quot;language-text&quot;&gt;gulp sass&lt;/code&gt; to run the sass transpilation but you could also set watchers to run anytime gulp detected changes in any .sass files.&lt;/p&gt;
+&lt;h2 id=&quot;what-problem-does-postcss-solve&quot;&gt;&lt;a href=&quot;#what-problem-does-postcss-solve&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What problem does PostCSS solve?&lt;/h2&gt;
+&lt;p&gt;PostCSS has come along and become very popular. PostCSS is an engine for transforming CSS with Javascript. Since it using NodeJS, it claims to be &lt;strong&gt;3-30 times faster&lt;/strong&gt; than the competition. SASS for example is built in Ruby and once you start adding gems can run a little bit slower. PostCSS is modular so at its core it is much smaller and you only add what you need.&lt;/p&gt;
+&lt;p&gt;Another big difference is that it can also do post processing like add prefixes to a finished stylesheet. PostCSS has a large plug-in base so you can choose plug-ins like future CSS support, prefixing to support older browsers, and SASS-like features like nesting and variables.&lt;/p&gt;
+&lt;h2 id=&quot;getting-started&quot;&gt;&lt;a href=&quot;#getting-started&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Getting Started&lt;/h2&gt;
+&lt;p&gt;PostCSS requires Node so you can install it on a mac with this brew command from terminal.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;terminal&quot;&gt;&lt;pre class=&quot;language-terminal&quot;&gt;&lt;code class=&quot;language-terminal&quot;&gt;brew update
+brew install node&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;If you’re unfamiliar with brew, it is a package manager for macOS and you can learn more here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://brew.sh/&quot;&gt;Homebrew -the missing package manager for macOS&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;installing-postcss&quot;&gt;&lt;a href=&quot;#installing-postcss&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Installing PostCSS&lt;/h2&gt;
+&lt;p&gt;Looking at the &lt;a href=&quot;https://github.com/postcss/postcss&quot;&gt;github repo&lt;/a&gt;, there are variuos instructions based on your build tool. Since I am using &lt;a href=&quot;https://github.com/postcss/postcss-loader&quot;&gt;webpack&lt;/a&gt;, we’ll start off by installing PostCSS with this command from terminal.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;terminal&quot;&gt;&lt;pre class=&quot;language-terminal&quot;&gt;&lt;code class=&quot;language-terminal&quot;&gt;yarn add postcss-loader -D&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;We’ll configure our &lt;code class=&quot;language-text&quot;&gt;webpack.config.js&lt;/code&gt; like so:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;exports &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    module&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        loaders&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;
+            &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+                test&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token regex&quot;&gt;/\.css$/&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+                loaders&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;
+                    &lt;span class=&quot;token string&quot;&gt;&apos;style-loader&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+                    &lt;span class=&quot;token string&quot;&gt;&apos;css-loader?importLoaders=1&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+                    &lt;span class=&quot;token string&quot;&gt;&apos;postcss-loader&apos;&lt;/span&gt;
+                &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+            &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Then create a &lt;code class=&quot;language-text&quot;&gt;postcss.config.js&lt;/code&gt; file which contains your plugins. In the code block below, we have added the &lt;strong&gt;precss&lt;/strong&gt; and &lt;strong&gt;autoprefixir&lt;/strong&gt; plugins.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;exports &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    plugins&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;
+        &lt;span class=&quot;token function&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;precss&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token function&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;autoprefixer&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&quot;postcss-plugins&quot;&gt;&lt;a href=&quot;#postcss-plugins&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;PostCSS Plugins&lt;/h2&gt;
+&lt;p&gt;If you’re curiuos to which plugins exists, you can checkout &lt;a href=&quot;http://postcss.parts/&quot;&gt;PostCSS.parts&lt;/a&gt; which is a searchable catalog of PostCSS plugins. Currently PostCSS has more than 200 plugins.&lt;/p&gt;
+&lt;p&gt;Some popular PostCSS plugins are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://cssnano.co/&quot;&gt;cssnano&lt;/a&gt;: compresses your css&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/postcss/autoprefixer&quot;&gt;autoprefixer&lt;/a&gt;: parse css and add vendor prefixes&lt;/li&gt;
+&lt;li&gt;[cssnext][cssnext]: use tomorrow’s css syntax, today&lt;/li&gt;
+&lt;li&gt;[preCSS][precss]: Sass-like markup in your CSS files&lt;/li&gt;
+&lt;li&gt;[lostGrid][lostgrid]: powerful grid system&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;closing&quot;&gt;&lt;a href=&quot;#closing&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Closing&lt;/h2&gt;
+&lt;p&gt;I am excited to continue learning PostCSS as it feels like I am in the future. It is fast, modular, and lean. It requires some setup, but once you do, I hope you will be enjoy the experience as much as I do.&lt;/p&gt;
+&lt;h3 id=&quot;further-learning&quot;&gt;&lt;a href=&quot;#further-learning&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Further Learning&lt;/h3&gt;
+&lt;p&gt;Ray Villalobos at Lynda has a great course on getting started with PostCSS named [PostCSS: First Look][lynda].&lt;/p&gt;
+&lt;p&gt;[cssnext]: &lt;a href=&quot;http://cssnext.io/&quot;&gt;http://cssnext.io/&lt;/a&gt; 
+[preCSS]: &lt;a href=&quot;https://github.com/jonathantneal/precss&quot;&gt;https://github.com/jonathantneal/precss&lt;/a&gt;
+[lostgrid]: &lt;a href=&quot;https://github.com/peterramsing/lost&quot;&gt;https://github.com/peterramsing/lost&lt;/a&gt;
+[lynda]: &lt;a href=&quot;https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html&quot;&gt;https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Goals for 2017]]></title><description><![CDATA[Everyone has goals As we started  a new year, it seems like everyone was talking about setting new years’ resolutions. A few months into the…]]></description><link>https://frankpigeon.com/2017-02-25-Goals/</link><guid isPermaLink="false">https://frankpigeon.com/2017-02-25-Goals/</guid><pubDate>Sat, 25 Feb 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;everyone-has-goals&quot;&gt;&lt;a href=&quot;#everyone-has-goals&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Everyone has goals&lt;/h2&gt;
+&lt;p&gt;As we started  a new year, it seems like everyone was talking about setting new years’ resolutions. A few months into the year many lose focus on what they wanted to achieve.&lt;/p&gt;
+&lt;p&gt;So I am going to write them down here on my blog so I can stay commited to them and look back &lt;strong&gt;in case I get lost along the way&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;spiritual&quot;&gt;&lt;a href=&quot;#spiritual&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Spiritual&lt;/h3&gt;
+&lt;p&gt;Start with putting God first. I want to attend church weekly and attend a bible study.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Seek the Kingdom of God above all else, and live righteously, and he will give you everything you need. &lt;br&gt;
+&lt;strong&gt;Matthew 6:33&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;family&quot;&gt;&lt;a href=&quot;#family&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Family&lt;/h3&gt;
+&lt;p&gt;A family outing and one date night a month. Good thing we have &lt;strong&gt;grandparents&lt;/strong&gt; nearby!&lt;/p&gt;
+&lt;h3 id=&quot;physical&quot;&gt;&lt;a href=&quot;#physical&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Physical&lt;/h3&gt;
+&lt;p&gt;Attend the local bootcamp at least twice a week.&lt;/p&gt;
+&lt;h3 id=&quot;professional&quot;&gt;&lt;a href=&quot;#professional&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Professional&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn &lt;del&gt;React&lt;/del&gt; Vue and full stack Javascript&lt;/li&gt;
+&lt;li&gt;Learn to deploy apps on Dokku&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// TODO: code every day&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4 id=&quot;learning-resources&quot;&gt;&lt;a href=&quot;#learning-resources&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Learning Resources&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://facebook.github.io/react/tutorial/tutorial.html&quot;&gt;Official Facebook Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://laracasts.com/series/do-you-react&quot;&gt;Laracast React Course&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html&quot;&gt;Lynda React Essentails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.lynda.com/React-js-tutorials/Learning-Redux/540345-2.html&quot;&gt;Lynda Learning Redux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://online.reacttraining.com/p/reactjsfundamentals&quot;&gt;React Fundamentals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://reactforbeginners.com/&quot;&gt;React for Beginners by Wes Bos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://learnredux.com/&quot;&gt;Learn Redux by Wes Bos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://frontendmasters.com/courses/react-intro/&quot;&gt;React Intro from Front End Masters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://egghead.io/courses/build-a-react-native-todomvc-application&quot;&gt;React Native Todo MVC on egghead&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://egghead.io/courses/getting-started-with-redux&quot;&gt;Getting Started with Redux on egghead&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.robinwieruch.de/the-road-to-learn-react/&quot;&gt;Road to learn React ebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/enaqx/awesome-react&quot;&gt;Github Repo Full of Resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.gsuwqiv2c&quot;&gt;Javascript Frameworks To Learn on medium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.qi2xbx1gn&quot;&gt;Study plan to cure Javascript Fatigue on medium&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[My First Post As a web developer when you are learning a new language the first thing we learn to do is output the string  . In 2017 one of…]]></description><link>https://frankpigeon.com/2017-02-24-hello-world/</link><guid isPermaLink="false">https://frankpigeon.com/2017-02-24-hello-world/</guid><pubDate>Fri, 24 Feb 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;my-first-post&quot;&gt;&lt;a href=&quot;#my-first-post&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;My First Post&lt;/h2&gt;
+&lt;p&gt;As a web developer when you are learning a new language the first thing we learn to do is output the string &lt;code class=&quot;language-text&quot;&gt;hello world&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;In 2017 one of my goals was to write more. I have found a tool will allow me to get my thoughts down quickly in &lt;a href=&quot;https://masteringmarkdown.com/&quot;&gt;markdown&lt;/a&gt; and publish live with one command from terminal.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;yarn run deploy&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&quot;gatsby&quot;&gt;&lt;a href=&quot;#gatsby&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Gatsby&lt;/h2&gt;
+&lt;p&gt;This tool is called &lt;a href=&quot;https://github.com/gatsbyjs/gatsby&quot;&gt;Gatsby&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Gatsby allows you to transform plain text into dynamic blogs and websites using the latest web technologies. A &lt;a href=&quot;https://facebook.github.io/react/&quot;&gt;React.js&lt;/a&gt; static site generator.&lt;/p&gt;
+&lt;p&gt;So the exciting thing for me is that I’ve also been wanting to learn Javascript deeper so I’ve settled with learning React as a way to reach my goal.&lt;/p&gt;
+&lt;h2 id=&quot;blog-redesign&quot;&gt;&lt;a href=&quot;#blog-redesign&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Blog Redesign&lt;/h2&gt;
+&lt;p&gt;So after going through the &lt;a href=&quot;https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html&quot;&gt;React Essentials&lt;/a&gt; Lynda course (which is excellent by the way) I decided to continue to explore using React by redesigning my blog using Gatsby.&lt;/p&gt;
+&lt;p&gt;So here we are. Hope you like it.&lt;/p&gt;
+&lt;h2 id=&quot;future-content&quot;&gt;&lt;a href=&quot;#future-content&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Future Content&lt;/h2&gt;
+&lt;p&gt;I love learning and will continue to share what I learn along the way and continue contributing to open source.&lt;/p&gt;
+&lt;p&gt;I hope you find it helpful to read as it is for me to write my thoughts down.&lt;/p&gt;</content:encoded></item></channel></rss>
