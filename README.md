@@ -62,6 +62,10 @@ yarn lint
 
 # Generate generate post preview images (yarn dev need to run before)
 yarn generatePostPreviewImages
+
+# deploy to gh-pages
+yarn deploy
+
 ```
 
 **:warning: Add `--prefix-paths` if you are using path prefix!**
