@@ -74,7 +74,7 @@ module.exports = {
       {
         label: 'Uses',
         url: '/uses',
-      }
+      },
     ],
     [
       'Follow the author',
