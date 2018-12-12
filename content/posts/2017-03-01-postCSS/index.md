@@ -89,7 +89,7 @@ Some popular PostCSS plugins are:
 
 * [cssnano][cssnano]: compresses your css
 * [autoprefixer][autoprefixer]: parse css and add vendor prefixes
-* [cssnext][cssnext]: use tomorrow's css syntax, today
+* [cssnext](http://cssnext.io/ ): use tomorrow's css syntax, today
 * [preCSS][preCSS]: Sass-like markup in your CSS files
 * [lostGrid][lostgrid]: powerful grid system
 
@@ -108,7 +108,6 @@ Ray Villalobos at Lynda has a great course on getting started with PostCSS named
 [webpack-postcss]: https://github.com/postcss/postcss-loader
 [cssnano]: http://cssnano.co/
 [autoprefixer]: https://github.com/postcss/autoprefixer
-[cssnext]: http://cssnext.io/ 
 [preCSS]: https://github.com/jonathantneal/precss
 [lostgrid]: https://github.com/peterramsing/lost
 [lynda]: https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html
