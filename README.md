@@ -1,13 +1,11 @@
 [![Build Status](https://travis-ci.org/maxpou/gatsby-starter-morning-dew.svg?branch=master)](https://travis-ci.org/maxpou/gatsby-starter-morning-dew) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) [![Maintainability](https://api.codeclimate.com/v1/badges/e09f1ac1a5cdb2987a6f/maintainability)](https://codeclimate.com/github/maxpou/gatsby-starter-morning-dew/maintainability) [![Greenkeeper badge](https://badges.greenkeeper.io/maxpou/gatsby-starter-morning-dew.svg)](https://greenkeeper.io/)
 
 
-# gatsby-starter-morning-dew
+# Frank Pigeon's Blog
 
-Gatsby starter for creating a new blog!
+[My blog site](frankpigeon.com) redesigned with Gatsby starter kit [gatsby-starter-morning-dew](https://github.com/maxpou/gatsby-starter-morning-dew)!
 
-[Demo website.](https://maxpou.github.io/gatsby-starter-morning-dew/)
-
-![screenshot](https://i.imgur.com/aRTBbKs.jpg)
+![Imgur](https://i.imgur.com/99TL9Yq.jpg)
 
 ## Features
 
@@ -19,7 +17,7 @@ Gatsby starter for creating a new blog!
 - :iphone: Responsive design
 - :sparkles: PWA ready
   - :airplane: Offline support
-  - :page_with_curl: Manifest support 
+  - :page_with_curl: Manifest support
 - [:wrench: Fully configurable (see data/siteConfig.js)](./data/siteConfig.js)
 - :speech_balloon: Disqus support
 - :nail_care: css-in-js (with [styled-components v4](https://www.styled-components.com))
