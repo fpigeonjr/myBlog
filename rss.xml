@@ -1,184 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[frankpigeon.com]]></title><description><![CDATA[Frank Pigeon's Blog]]></description><link>https://frankpigeon.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Dec 2018 01:21:39 GMT</lastBuildDate><item><title><![CDATA[About Me]]></title><description><![CDATA[My name is Frank Pigeon Jr. I am a father of three boys, husband to my  beautiful wife , and a front end web developer. I was born in San…]]></description><link>https://frankpigeon.com/about/about/</link><guid isPermaLink="false">https://frankpigeon.com/about/about/</guid><content:encoded>&lt;p&gt;My name is Frank Pigeon Jr. I am a father of three boys, husband to my &lt;a href=&quot;https://twitter.com/kay_pigeon&quot;&gt;beautiful wife&lt;/a&gt;, and a front end web developer.&lt;/p&gt;
-&lt;p&gt;I was born in San Antonio, Texas and grew up in the tropical country of Panama.&lt;/p&gt;
-&lt;p&gt;I am a U.S. Army veteran and am still serving my country as a Department of Army Civilian.&lt;/p&gt;
-&lt;p&gt;I enjoy coding, photography, audio/video production, music, and all-things open-source.&lt;/p&gt;
-&lt;p&gt;I am the owner of &lt;a href=&quot;http://pigeontec.com&quot;&gt;pigeontec&lt;/a&gt; which is a single person Digital Agency and also am co-founder of &lt;a href=&quot;https://sacodersunited.com&quot;&gt;sacodersunited&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Resume]]></title><description><![CDATA[AUG 2015 - Present Frontend web design and development for public facing websites and applications Led adoption of version control, design…]]></description><link>https://frankpigeon.com/resume/</link><guid isPermaLink="false">https://frankpigeon.com/resume/</guid><content:encoded>&lt;div class=&quot;summary-box&quot;&gt;
-    &lt;h3 class=&quot;summary-h3 text-center&quot;&gt;Summary&lt;/h3&gt;
-    &lt;p class=&quot;summary-p&quot;&gt;
-        With over 15 years of IT experience, I&apos;m broadening my horizons into web and mobile development. I&apos;m a U.S. Army veteran, hold a SECRET clearance, and have a Bachelor&apos;s Degree in Management, Computer Information Systems. I am fluent in English and Spanish, a focused team player, a lifetime learner, and am excited to take on new challenges that combine my creativity and business sense.
-    &lt;/p&gt;
-&lt;/div&gt;
-&lt;h2 class=&quot;section-h2&quot;&gt;&lt;i class=&quot;fa fa-briefcase&quot;&gt;&lt;/i&gt; Work Experience&lt;/h2&gt;
-&lt;h4 id=&quot;aug-2015---present&quot;&gt;&lt;a href=&quot;#aug-2015---present&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;AUG 2015 - Present&lt;/h4&gt;
-&lt;p class=&quot;position&quot;&gt;Web Developer, Dept. of Army - San Antonio, TX&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[frankpigeon.com]]></title><description><![CDATA[Frank Pigeon's Blog]]></description><link>https://frankpigeon.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Dec 2018 02:00:42 GMT</lastBuildDate><item><title><![CDATA[Resume]]></title><description><![CDATA[Summary With over 15 years of IT experience, I’m broadening my horizons into web and mobile development. I’m a U.S. Army veteran, hold a…]]></description><link>https://frankpigeon.com/resume/</link><guid isPermaLink="false">https://frankpigeon.com/resume/</guid><pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;summary&quot;&gt;&lt;a href=&quot;#summary&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Summary&lt;/h2&gt;
+&lt;p&gt;With over 15 years of IT experience, I’m broadening my horizons into web and mobile development. I’m a U.S. Army veteran, hold a SECRET clearance, and have a Bachelor’s Degree in Management, Computer Information Systems. I am fluent in English and Spanish, a focused team player, a lifetime learner, and am excited to take on new challenges that combine my creativity and business sense.&lt;/p&gt;
+&lt;h2 id=&quot;work-experience&quot;&gt;&lt;a href=&quot;#work-experience&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Work Experience&lt;/h2&gt;
+&lt;h3 id=&quot;aug-2015---present&quot;&gt;&lt;a href=&quot;#aug-2015---present&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;AUG 2015 - Present&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Frontend Web Developer and Designer, Dept. of Army - San Antonio, TX&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Frontend web design and development for public facing websites and applications&lt;/li&gt;
 &lt;li&gt;Led adoption of version control, design guidelines, and modern web practices&lt;/li&gt;
 &lt;li&gt;Frontend design and development using HTML, CSS, JavaScript, React, and the Adobe CC Suite&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&quot;nov-2014---aug-2015&quot;&gt;&lt;a href=&quot;#nov-2014---aug-2015&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;NOV 2014 - AUG 2015&lt;/h4&gt;
-&lt;p class=&quot;position&quot;&gt;Web Developer, AM Digital - Ft. Worth, TX&lt;/p&gt;
+&lt;h3 id=&quot;nov-2014---aug-2015&quot;&gt;&lt;a href=&quot;#nov-2014---aug-2015&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;NOV 2014 - AUG 2015&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Web Developer, AM Digital - Ft. Worth, TX&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Full stack web development using Linux, Apache, MySQL, and PHP&lt;/li&gt;
 &lt;li&gt;Part of the web development team for the &lt;a href=&quot;http://am.digital/&quot;&gt;AM Digital Agency&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&quot;may-2014---present&quot;&gt;&lt;a href=&quot;#may-2014---present&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;MAY 2014 - Present&lt;/h4&gt;
-&lt;p class=&quot;position&quot;&gt;Freelance Web Developer, Self - San Antonio, TX&lt;/p&gt;
+&lt;h3 id=&quot;may-2014---present&quot;&gt;&lt;a href=&quot;#may-2014---present&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;MAY 2014 - Present&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Freelance Web Developer, Self - San Antonio, TX&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Owner of &lt;a href=&quot;http://pigeontec.com&quot;&gt;Pigeontec&lt;/a&gt;, a single person Digital Agency&lt;/li&gt;
 &lt;li&gt;Full stack web design and development&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&quot;previous-experience&quot;&gt;&lt;a href=&quot;#previous-experience&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Previous Experience&lt;/h4&gt;
+&lt;h3 id=&quot;previous-experience&quot;&gt;&lt;a href=&quot;#previous-experience&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Previous Experience&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;IT Project Manager and IT Customer Support for Dept.of Army&lt;/li&gt;
 &lt;li&gt;Served as a 74B Computer Operator/Analyst in the U.S. Army&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 class=&quot;section-h2&quot;&gt;&lt;i class=&quot;fa fa-graduation-cap&quot;&gt;&lt;/i&gt; Education&lt;/h2&gt;
-&lt;h4 id=&quot;codeup&quot;&gt;&lt;a href=&quot;#codeup&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Codeup&lt;/h4&gt;
-&lt;p class=&quot;project-p&quot;&gt;
-    Full stack web development bootcamp using the LAMP stack
-&lt;/p&gt;
-&lt;h4 id=&quot;regis-university&quot;&gt;&lt;a href=&quot;#regis-university&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Regis University&lt;/h4&gt;
-&lt;p class=&quot;project-p&quot;&gt;
-    4 Computer Science Leveling Courses
-&lt;/p&gt;
-&lt;h4 id=&quot;park-university&quot;&gt;&lt;a href=&quot;#park-university&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Park University&lt;/h4&gt;
-&lt;p class=&quot;project-p&quot;&gt;
-    B.S., Management, Computer Information Systems
-&lt;/p&gt;
-&lt;h4 id=&quot;kansas-city-kansas-community-college&quot;&gt;&lt;a href=&quot;#kansas-city-kansas-community-college&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Kansas City Kansas Community College&lt;/h4&gt;
-&lt;p class=&quot;project-p&quot;&gt;
-    A.A.S., Computer Information Systems
-&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Some of the things I use]]></title><description><![CDATA[Editor + Terminal I have been using  Visual Studio Code  as my code editor for over a year now and have been very happy with it. Probably my…]]></description><link>https://frankpigeon.com/uses/</link><guid isPermaLink="false">https://frankpigeon.com/uses/</guid><content:encoded>&lt;h2 id=&quot;editor--terminal&quot;&gt;&lt;a href=&quot;#editor--terminal&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Editor + Terminal&lt;/h2&gt;
-&lt;p&gt;&lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 53.206521739130444%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABbklEQVQoz5VS2XKDMBDjW9pwY2IIYI5whSQ0meSpM/3/P1F3TUlLhk6nDwJjvFpJa0MkHZxtDakGJOUZ22yAv6vhJzUcWcEKiieUsAXti3LlXwHDJbIXJ0NWvSFq7kjrK/L+BlkdYcsCpp9j4ypsPHp7aoKrfuwtYbA6kxZO1MIqzgjSAe6up26VPmD6xb9gWOFeF1pE7FUXBMkALyZCssXKX0nJb1hVaAsiJFsWsaf5iKi6IWrvyLo7YlIcpgedq1RHDV4zwqSHR678uCUBhKjR+Rr82LBcClTEHfyoh80E5QiZn7Ryd9dBUAxMHtCac+e6Z2jL3znl1O0AocapgPa4kW5IZ/6y+rA8E2rbwR7p8QPF+I5kf9EKI7adHEh5gyCeLM5NVofyIORJb1uI9DTdMxqWrVFRHKVe843gYc3n/yBUcMIW2/yKkMIPSZksRnicI6nShLJZqJttrhI6rIYmbs737wvLYrX4XlP4CfNXWO3Qmqw/AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/ed095be1d95fcd05c5c3476152d8e7b6/f04b0/vscode.webp 148w,
-/static/ed095be1d95fcd05c5c3476152d8e7b6/30287/vscode.webp 295w,
-/static/ed095be1d95fcd05c5c3476152d8e7b6/cb54b/vscode.webp 590w,
-/static/ed095be1d95fcd05c5c3476152d8e7b6/d0733/vscode.webp 885w,
-/static/ed095be1d95fcd05c5c3476152d8e7b6/3bc83/vscode.webp 1180w,
-/static/ed095be1d95fcd05c5c3476152d8e7b6/77897/vscode.webp 1770w,
-/static/ed095be1d95fcd05c5c3476152d8e7b6/11767/vscode.webp 1840w&quot;
-          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/ed095be1d95fcd05c5c3476152d8e7b6/ce5e3/vscode.png 148w,
-/static/ed095be1d95fcd05c5c3476152d8e7b6/0df5d/vscode.png 295w,
-/static/ed095be1d95fcd05c5c3476152d8e7b6/03198/vscode.png 590w,
-/static/ed095be1d95fcd05c5c3476152d8e7b6/37596/vscode.png 885w,
-/static/ed095be1d95fcd05c5c3476152d8e7b6/e107c/vscode.png 1180w,
-/static/ed095be1d95fcd05c5c3476152d8e7b6/ecc95/vscode.png 1770w,
-/static/ed095be1d95fcd05c5c3476152d8e7b6/f22b1/vscode.png 1840w&quot;
-          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-          type=&quot;image/png&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/ed095be1d95fcd05c5c3476152d8e7b6/03198/vscode.png&quot;
-          alt=&quot;vscode&quot;
-          title=&quot;&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;I have been using &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt; as my code editor for over a year now and have been very happy with it. Probably my favorite electron app by far. My favorite color themes are &lt;a href=&quot;https://www.monokai.pro/vscode/&quot;&gt;Monokia Pro&lt;/a&gt;, &lt;a href=&quot;https://draculatheme.com/visual-studio-code/&quot;&gt;Dracula&lt;/a&gt;, &lt;a href=&quot;https://github.com/rmarganti/vsc-material-facebook-theme&quot;&gt;Material Facebook&lt;/a&gt;, and &lt;a href=&quot;https://github.com/wesbos/cobalt2-vscode&quot;&gt;Cobalt2&lt;/a&gt;. My favorite font is &lt;a href=&quot;https://www.typography.com/fonts/operator/webfonts/operatormono-medium/&quot;&gt;Operator Mono&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAABjElEQVQoz32SaW+CQBiE+UGtVkWkHtWk3sqhIhU8kaMeeNTGNP31091FKZLaD5N3l8CTmXnhhtYGPdOBaiyhvllQhnP0DBuKvmCiz2TdQmVg47llIPOiIFNWwRPl6jpSz2085ZqhOGO5g2Y4ULTZjeRBMKX+FG11jJo8Q6E6hFhWIFZU5F8H5K4hW+iCj4jz/E/YqyPmto+Fuwvk+Jgttxgv1hjPV+gRp5W2CaEkgy92kS5IEIhTkTolkEy+E07O9HwYro/R1INOog9NO6LgTt3yBJYUmnjk60hkG+zjq6JQbr07w/IOmFhrqKQ/eTC9RJ6GZ6k/YS+nSV9RyFXRO7c/fcPbnFhMGo0CKDgq6lAoSf+CQqB//IJDOqSdRYHX5dCzRJxmixJzmBJbTPGoIXB7uA9UtWB2SeRsoYNUrkE6rJEO6zfAm6XQyO76AzP7L4fBbCsGgyX4Kh4yVQaNOwyXstmfYb8HS7kXudMbs5hJocHc0XnXoUF+F6rRxP2NGgPKlw7pB+kYIA78AavkoYFbENT0AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/653513a24361793af81959a9b613a765/f04b0/iterm.webp 148w,
-/static/653513a24361793af81959a9b613a765/30287/iterm.webp 295w,
-/static/653513a24361793af81959a9b613a765/cb54b/iterm.webp 590w,
-/static/653513a24361793af81959a9b613a765/d0733/iterm.webp 885w,
-/static/653513a24361793af81959a9b613a765/3bc83/iterm.webp 1180w,
-/static/653513a24361793af81959a9b613a765/91b72/iterm.webp 1440w&quot;
-          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/653513a24361793af81959a9b613a765/ce5e3/iterm.png 148w,
-/static/653513a24361793af81959a9b613a765/0df5d/iterm.png 295w,
-/static/653513a24361793af81959a9b613a765/03198/iterm.png 590w,
-/static/653513a24361793af81959a9b613a765/37596/iterm.png 885w,
-/static/653513a24361793af81959a9b613a765/e107c/iterm.png 1180w,
-/static/653513a24361793af81959a9b613a765/b79e3/iterm.png 1440w&quot;
-          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-          type=&quot;image/png&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/653513a24361793af81959a9b613a765/03198/iterm.png&quot;
-          alt=&quot;iterm&quot;
-          title=&quot;&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;For my terminal, I have stuck with &lt;a href=&quot;https://www.iterm2.com/&quot;&gt;iTerm2&lt;/a&gt;. It is reliable, customizable, and just works. I go fullscreen with a slight transparency. I also use &lt;a href=&quot;https://github.com/robbyrussell/oh-my-zsh&quot;&gt;oh-my-zshell&lt;/a&gt;, &lt;a href=&quot;https://github.com/sindresorhus/pure&quot;&gt;pure-prompt&lt;/a&gt;, with the &lt;a href=&quot;https://github.com/slwen/facebook-iterm-theme&quot;&gt;facebook theme&lt;/a&gt;. I played around with Hyper but had some issues so I switched back.&lt;/p&gt;
-&lt;h2 id=&quot;hardware&quot;&gt;&lt;a href=&quot;#hardware&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Hardware&lt;/h2&gt;
-&lt;p&gt;&lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.92857142857143%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAaoGJGY0T//EABoQAAMAAwEAAAAAAAAAAAAAAAABAgMRExL/2gAIAQEAAQUC7R5z3DNlwqLxJrlo/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAQQDAAAAAAAAAAAAAAAAAQACEYESIDH/2gAIAQEABj8CEhtoRjWnV//EABoQAAIDAQEAAAAAAAAAAAAAAAABESExcUH/2gAIAQEAAT8hpMNh4kXEEH6OrrgjK1Akw5//2gAMAwEAAgADAAAAEPDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAwEBPxAwOFt//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAgEBPxDW7SH/xAAbEAEBAQEBAAMAAAAAAAAAAAABEQAhMUFhof/aAAgBAQABPxAmZAIX8m4oi16sdgE+nVAVJeLqS+AmoHpvhv/Z&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/93833e9272a7653d7e57ce30703762e3/e87b9/setup.webp 148w,
-/static/93833e9272a7653d7e57ce30703762e3/404d7/setup.webp 295w,
-/static/93833e9272a7653d7e57ce30703762e3/6c5da/setup.webp 590w,
-/static/93833e9272a7653d7e57ce30703762e3/8fbeb/setup.webp 885w,
-/static/93833e9272a7653d7e57ce30703762e3/ef0b4/setup.webp 1180w,
-/static/93833e9272a7653d7e57ce30703762e3/34ea1/setup.webp 1400w&quot;
-          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/93833e9272a7653d7e57ce30703762e3/fc706/setup.jpg 148w,
-/static/93833e9272a7653d7e57ce30703762e3/754cc/setup.jpg 295w,
-/static/93833e9272a7653d7e57ce30703762e3/8e0ad/setup.jpg 590w,
-/static/93833e9272a7653d7e57ce30703762e3/66519/setup.jpg 885w,
-/static/93833e9272a7653d7e57ce30703762e3/c57d2/setup.jpg 1180w,
-/static/93833e9272a7653d7e57ce30703762e3/04170/setup.jpg 1400w&quot;
-          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/93833e9272a7653d7e57ce30703762e3/8e0ad/setup.jpg&quot;
-          alt=&quot;setup&quot;
-          title=&quot;&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Bought my first macintosh due to it being a requirement for my &lt;a href=&quot;http://codeup.com&quot;&gt;coding bootcamp&lt;/a&gt;. It is a &lt;a href=&quot;https://support.apple.com/kb/sp653?locale=en_US&quot;&gt;2012 15” retina macbook pro&lt;/a&gt; sitting ontop of a &lt;a href=&quot;http://a.co/e4cHHEA&quot;&gt;Rain Laptop Stand&lt;/a&gt;. This has been my workhorse ever since I started coding and really enjoy working on mac. It is the closest we can get to linux but still having access to apps like Adobe’s Creative Cloud.&lt;/p&gt;
-&lt;p&gt;I recently sold my dual monitor setup and replaced it with a single &lt;a href=&quot;https://www.amazon.com/dp/B00SPWPF1O/_encoding=UTF8?coliid=I2CTU0GMXJ7G9U&amp;#x26;colid=1SW4HY14FLX9F&amp;#x26;psc=0&quot;&gt;Dell UltraSharp U2515H 25-Inch Monitor&lt;/a&gt; after reading &lt;a href=&quot;https://hackernoon.com/why-i-stopped-using-multiple-monitors-bfd87efa2e5b&quot;&gt;A Single Monitor Manifesto&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/housecor&quot;&gt;Cory House&lt;/a&gt;. It made a lot sense to me and am happy with the new setup. This new setup helps me stay focused on the task at hand and avoid distractions.&lt;/p&gt;
-&lt;p&gt;I own a &lt;a href=&quot;http://a.co/1F7pfgq&quot;&gt;Logitech HD Laptop Webcam C615&lt;/a&gt; for webchats and music recordings.&lt;/p&gt;
-&lt;p&gt;We also recently bought &lt;a href=&quot;http://a.co/cbymmBu&quot;&gt;Disney’s Circle&lt;/a&gt; which is an amazing device that helps keep time limits on our children’s internet time.&lt;/p&gt;
-&lt;h2 id=&quot;other&quot;&gt;&lt;a href=&quot;#other&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Other&lt;/h2&gt;
-&lt;p&gt;I use &lt;a href=&quot;https://keep.google.com/&quot;&gt;Google Keep&lt;/a&gt; for my daily todos.&lt;/p&gt;
-&lt;p&gt;I use &lt;a href=&quot;https://trello.com/&quot;&gt;Trello&lt;/a&gt; for project management tasks for any given project.&lt;/p&gt;
-&lt;p&gt;My team uses &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt; for office communications. The goal being that email is for external customers.&lt;/p&gt;
-&lt;p&gt;I use &lt;a href=&quot;https://www.opendns.com&quot;&gt;OpenDNS&lt;/a&gt; to filter content and improve network speeds.&lt;/p&gt;
-&lt;p&gt;I setup a &lt;a href=&quot;https://www.raspberrypi.org/&quot;&gt;Raspberry Pi&lt;/a&gt; using &lt;a href=&quot;https://pi-hole.net/&quot;&gt;pi-hole&lt;/a&gt; to filter ads and have also setup &lt;a href=&quot;https://openvpn.net/&quot;&gt;openvpn&lt;/a&gt; to secure traffic when I’m out in the wild.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Portfolio]]></title><description><![CDATA[Catch of the Day Real-time web application for a fictional trendy seafood market where price and quantity available can change at a moment’s…]]></description><link>https://frankpigeon.com/portfolio/</link><guid isPermaLink="false">https://frankpigeon.com/portfolio/</guid><content:encoded>&lt;h2 id=&quot;catch-of-the-day&quot;&gt;&lt;a href=&quot;#catch-of-the-day&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Catch of the Day&lt;/h2&gt;
+&lt;h2 id=&quot;education&quot;&gt;&lt;a href=&quot;#education&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Education&lt;/h2&gt;
+&lt;h3 id=&quot;codeup&quot;&gt;&lt;a href=&quot;#codeup&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Codeup&lt;/h3&gt;
+&lt;p&gt;Full stack web development bootcamp using the LAMP stack&lt;/p&gt;
+&lt;h3 id=&quot;regis-university&quot;&gt;&lt;a href=&quot;#regis-university&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Regis University&lt;/h3&gt;
+&lt;p&gt;4 Computer Science Leveling Courses&lt;/p&gt;
+&lt;h3 id=&quot;park-university&quot;&gt;&lt;a href=&quot;#park-university&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Park University&lt;/h3&gt;
+&lt;p&gt;B.S., Management, Computer Information Systems&lt;/p&gt;
+&lt;h3 id=&quot;kansas-city-kansas-community-college&quot;&gt;&lt;a href=&quot;#kansas-city-kansas-community-college&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Kansas City Kansas Community College&lt;/h3&gt;
+&lt;p&gt;A.A.S., Computer Information Systems&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Portfolio]]></title><description><![CDATA[Catch of the Day Real-time web application for a fictional trendy seafood market where price and quantity available can change at a moment’s…]]></description><link>https://frankpigeon.com/portfolio/</link><guid isPermaLink="false">https://frankpigeon.com/portfolio/</guid><pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;catch-of-the-day&quot;&gt;&lt;a href=&quot;#catch-of-the-day&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Catch of the Day&lt;/h2&gt;
 &lt;p&gt;&lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
     style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
@@ -214,8 +69,7 @@
       &lt;/picture&gt;
   &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Real-time web application for a fictional trendy seafood market where price and quantity available can change at a moment’s notice. Includes a build a menu, an order form, and an inventory management area where authorized users can immediately update product details. Built with React, ES6, React Router 4, and Firebase.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://catch-of-the-day.pigeontec.com&quot;&gt;View Live&lt;/a&gt; &lt;br&gt;
-&lt;a href=&quot;https://github.com/fpigeonjr/reactForBeginners&quot;&gt;View Github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/fpigeonjr/reactForBeginners&quot;&gt;View Github&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;david-portillo-tenor&quot;&gt;&lt;a href=&quot;#david-portillo-tenor&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;David Portillo Tenor&lt;/h2&gt;
 &lt;p&gt;&lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
@@ -328,8 +182,7 @@
       &lt;/picture&gt;
   &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Web application that connects seniors that need work done around their home and the youth that want to earn some extra money. Built using Laravel, PHP, MySQL, JavaScript, jQuery, and Twitter Bootstrap. Development done in a Vagrant environment. Version control using Git and GitHub. Features a helper/giver dashboard, a job listing for helpers to apply to, and giving the power to the giver to select a helper based on their jobs completed and reviews.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/fpigeon/blog.dev&quot;&gt;View Github&lt;/a&gt; &lt;br&gt;
-&lt;a href=&quot;http://community-helpers.com/&quot;&gt;View Live&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/fpigeon/blog.dev&quot;&gt;View Github&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
 &lt;h2 id=&quot;todo-list&quot;&gt;&lt;a href=&quot;#todo-list&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Todo List&lt;/h2&gt;
 &lt;p&gt;&lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
@@ -551,7 +404,141 @@
       &lt;/picture&gt;
   &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Check out my project exercises for the Computer Science courses I completed at Regis University. Written in C++.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/fpigeon/Regis-University-CS-classwork&quot;&gt;View Github&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Top 3 Gartner Application Conference Takeaways]]></title><description><![CDATA[2018 Gartner Application Strategies and Solutions Summit This Fall I got to go to the Gartner Application Summit held in Las Vegas. This was…]]></description><link>https://frankpigeon.com/2018-12-10-Gartner-takeaways/</link><guid isPermaLink="false">https://frankpigeon.com/2018-12-10-Gartner-takeaways/</guid><pubDate>Mon, 10 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;2018-gartner-application-strategies-and-solutions-summit&quot;&gt;&lt;a href=&quot;#2018-gartner-application-strategies-and-solutions-summit&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2018 Gartner Application Strategies and Solutions Summit&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/fpigeon/Regis-University-CS-classwork&quot;&gt;View Github&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About Me]]></title><description><![CDATA[❤️❤️❤️ Thank you for visiting my blog! My name is Frank Pigeon Jr. I am a father of three boys, husband to my beautiful wife, and a frontend…]]></description><link>https://frankpigeon.com/about/about/</link><guid isPermaLink="false">https://frankpigeon.com/about/about/</guid><pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;❤️❤️❤️ Thank you for visiting my blog!&lt;/p&gt;
+&lt;p&gt;My name is Frank Pigeon Jr. I am a father of three boys, husband to my beautiful wife, and a frontend web developer.&lt;/p&gt;
+&lt;p&gt;I was born in San Antonio, Texas and grew up in the 🌴 beautiful tropical country of Panama.&lt;/p&gt;
+&lt;p&gt;I am a U.S. Army veteran and am still serving my country as a Department of Army Civilian.&lt;/p&gt;
+&lt;p&gt;My passions including 👨‍💻coding, 🎵music, and all-things 🐧open-source.&lt;/p&gt;
+&lt;p&gt;I am the owner of &lt;a href=&quot;http://pigeontec.com&quot;&gt;pigeontec&lt;/a&gt;, a single person Digital Agency,  and also am co-founder of &lt;a href=&quot;https://sacodersunited.com&quot;&gt;sacodersunited&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Some of the things I use]]></title><description><![CDATA[Editor + Terminal I have been using  Visual Studio Code  as my code editor for over a two years now and have been very happy with it…]]></description><link>https://frankpigeon.com/uses/</link><guid isPermaLink="false">https://frankpigeon.com/uses/</guid><pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;editor--terminal&quot;&gt;&lt;a href=&quot;#editor--terminal&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Editor + Terminal&lt;/h2&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 53.206521739130444%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABbklEQVQoz5VS2XKDMBDjW9pwY2IIYI5whSQ0meSpM/3/P1F3TUlLhk6nDwJjvFpJa0MkHZxtDakGJOUZ22yAv6vhJzUcWcEKiieUsAXti3LlXwHDJbIXJ0NWvSFq7kjrK/L+BlkdYcsCpp9j4ypsPHp7aoKrfuwtYbA6kxZO1MIqzgjSAe6up26VPmD6xb9gWOFeF1pE7FUXBMkALyZCssXKX0nJb1hVaAsiJFsWsaf5iKi6IWrvyLo7YlIcpgedq1RHDV4zwqSHR678uCUBhKjR+Rr82LBcClTEHfyoh80E5QiZn7Ryd9dBUAxMHtCac+e6Z2jL3znl1O0AocapgPa4kW5IZ/6y+rA8E2rbwR7p8QPF+I5kf9EKI7adHEh5gyCeLM5NVofyIORJb1uI9DTdMxqWrVFRHKVe843gYc3n/yBUcMIW2/yKkMIPSZksRnicI6nShLJZqJttrhI6rIYmbs737wvLYrX4XlP4CfNXWO3Qmqw/AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/ed095be1d95fcd05c5c3476152d8e7b6/f04b0/vscode.webp 148w,
+/static/ed095be1d95fcd05c5c3476152d8e7b6/30287/vscode.webp 295w,
+/static/ed095be1d95fcd05c5c3476152d8e7b6/cb54b/vscode.webp 590w,
+/static/ed095be1d95fcd05c5c3476152d8e7b6/d0733/vscode.webp 885w,
+/static/ed095be1d95fcd05c5c3476152d8e7b6/3bc83/vscode.webp 1180w,
+/static/ed095be1d95fcd05c5c3476152d8e7b6/77897/vscode.webp 1770w,
+/static/ed095be1d95fcd05c5c3476152d8e7b6/11767/vscode.webp 1840w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/ed095be1d95fcd05c5c3476152d8e7b6/ce5e3/vscode.png 148w,
+/static/ed095be1d95fcd05c5c3476152d8e7b6/0df5d/vscode.png 295w,
+/static/ed095be1d95fcd05c5c3476152d8e7b6/03198/vscode.png 590w,
+/static/ed095be1d95fcd05c5c3476152d8e7b6/37596/vscode.png 885w,
+/static/ed095be1d95fcd05c5c3476152d8e7b6/e107c/vscode.png 1180w,
+/static/ed095be1d95fcd05c5c3476152d8e7b6/ecc95/vscode.png 1770w,
+/static/ed095be1d95fcd05c5c3476152d8e7b6/f22b1/vscode.png 1840w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/ed095be1d95fcd05c5c3476152d8e7b6/03198/vscode.png&quot;
+          alt=&quot;vscode&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I have been using &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt; as my code editor for over a two years now and have been very happy with it. Probably my favorite electron app by far. My favorite color themes are &lt;a href=&quot;https://github.com/wesbos/cobalt2-vscode&quot;&gt;Cobalt2&lt;/a&gt;, &lt;a href=&quot;https://draculatheme.com/visual-studio-code/&quot;&gt;Dracula&lt;/a&gt;, &lt;a href=&quot;https://github.com/rmarganti/vsc-material-facebook-theme&quot;&gt;Material Facebook&lt;/a&gt;. My favorite font is [Dank Mono][dank mono].&lt;/p&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAABjElEQVQoz32SaW+CQBiE+UGtVkWkHtWk3sqhIhU8kaMeeNTGNP31091FKZLaD5N3l8CTmXnhhtYGPdOBaiyhvllQhnP0DBuKvmCiz2TdQmVg47llIPOiIFNWwRPl6jpSz2085ZqhOGO5g2Y4ULTZjeRBMKX+FG11jJo8Q6E6hFhWIFZU5F8H5K4hW+iCj4jz/E/YqyPmto+Fuwvk+Jgttxgv1hjPV+gRp5W2CaEkgy92kS5IEIhTkTolkEy+E07O9HwYro/R1INOog9NO6LgTt3yBJYUmnjk60hkG+zjq6JQbr07w/IOmFhrqKQ/eTC9RJ6GZ6k/YS+nSV9RyFXRO7c/fcPbnFhMGo0CKDgq6lAoSf+CQqB//IJDOqSdRYHX5dCzRJxmixJzmBJbTPGoIXB7uA9UtWB2SeRsoYNUrkE6rJEO6zfAm6XQyO76AzP7L4fBbCsGgyX4Kh4yVQaNOwyXstmfYb8HS7kXudMbs5hJocHc0XnXoUF+F6rRxP2NGgPKlw7pB+kYIA78AavkoYFbENT0AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/653513a24361793af81959a9b613a765/f04b0/iterm.webp 148w,
+/static/653513a24361793af81959a9b613a765/30287/iterm.webp 295w,
+/static/653513a24361793af81959a9b613a765/cb54b/iterm.webp 590w,
+/static/653513a24361793af81959a9b613a765/d0733/iterm.webp 885w,
+/static/653513a24361793af81959a9b613a765/3bc83/iterm.webp 1180w,
+/static/653513a24361793af81959a9b613a765/91b72/iterm.webp 1440w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/653513a24361793af81959a9b613a765/ce5e3/iterm.png 148w,
+/static/653513a24361793af81959a9b613a765/0df5d/iterm.png 295w,
+/static/653513a24361793af81959a9b613a765/03198/iterm.png 590w,
+/static/653513a24361793af81959a9b613a765/37596/iterm.png 885w,
+/static/653513a24361793af81959a9b613a765/e107c/iterm.png 1180w,
+/static/653513a24361793af81959a9b613a765/b79e3/iterm.png 1440w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/653513a24361793af81959a9b613a765/03198/iterm.png&quot;
+          alt=&quot;iterm&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;For my terminal, I have stuck with &lt;a href=&quot;https://www.iterm2.com/&quot;&gt;iTerm2&lt;/a&gt;. It is reliable, customizable, and just works. I go fullscreen with a slight transparency. I also use &lt;a href=&quot;https://github.com/robbyrussell/oh-my-zsh&quot;&gt;oh-my-zshell&lt;/a&gt;, &lt;a href=&quot;https://github.com/sindresorhus/pure&quot;&gt;pure-prompt&lt;/a&gt;, with the &lt;a href=&quot;https://github.com/slwen/facebook-iterm-theme&quot;&gt;facebook theme&lt;/a&gt;. I played around with Hyper but had some issues so I switched back.&lt;/p&gt;
+&lt;h2 id=&quot;hardware&quot;&gt;&lt;a href=&quot;#hardware&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Hardware&lt;/h2&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.92857142857143%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAaoGJGY0T//EABoQAAMAAwEAAAAAAAAAAAAAAAABAgMRExL/2gAIAQEAAQUC7R5z3DNlwqLxJrlo/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAQQDAAAAAAAAAAAAAAAAAQACEYESIDH/2gAIAQEABj8CEhtoRjWnV//EABoQAAIDAQEAAAAAAAAAAAAAAAABESExcUH/2gAIAQEAAT8hpMNh4kXEEH6OrrgjK1Akw5//2gAMAwEAAgADAAAAEPDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAwEBPxAwOFt//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAgEBPxDW7SH/xAAbEAEBAQEBAAMAAAAAAAAAAAABEQAhMUFhof/aAAgBAQABPxAmZAIX8m4oi16sdgE+nVAVJeLqS+AmoHpvhv/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/93833e9272a7653d7e57ce30703762e3/e87b9/setup.webp 148w,
+/static/93833e9272a7653d7e57ce30703762e3/404d7/setup.webp 295w,
+/static/93833e9272a7653d7e57ce30703762e3/6c5da/setup.webp 590w,
+/static/93833e9272a7653d7e57ce30703762e3/8fbeb/setup.webp 885w,
+/static/93833e9272a7653d7e57ce30703762e3/ef0b4/setup.webp 1180w,
+/static/93833e9272a7653d7e57ce30703762e3/34ea1/setup.webp 1400w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/93833e9272a7653d7e57ce30703762e3/fc706/setup.jpg 148w,
+/static/93833e9272a7653d7e57ce30703762e3/754cc/setup.jpg 295w,
+/static/93833e9272a7653d7e57ce30703762e3/8e0ad/setup.jpg 590w,
+/static/93833e9272a7653d7e57ce30703762e3/66519/setup.jpg 885w,
+/static/93833e9272a7653d7e57ce30703762e3/c57d2/setup.jpg 1180w,
+/static/93833e9272a7653d7e57ce30703762e3/04170/setup.jpg 1400w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/93833e9272a7653d7e57ce30703762e3/8e0ad/setup.jpg&quot;
+          alt=&quot;setup&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Bought my first macintosh due to it being a requirement for my &lt;a href=&quot;http://codeup.com&quot;&gt;coding bootcamp&lt;/a&gt;. It is a &lt;a href=&quot;https://support.apple.com/kb/sp653?locale=en_US&quot;&gt;2012 15” retina macbook pro&lt;/a&gt; sitting ontop of a &lt;a href=&quot;http://a.co/e4cHHEA&quot;&gt;Rain Laptop Stand&lt;/a&gt;. This has been my workhorse ever since I started coding and really enjoy working on mac. It is the closest we can get to linux but still having access to apps like Adobe’s Creative Cloud.&lt;/p&gt;
+&lt;p&gt;I recently sold my dual monitor setup and replaced it with a single &lt;a href=&quot;https://www.amazon.com/dp/B00SPWPF1O/_encoding=UTF8?coliid=I2CTU0GMXJ7G9U&amp;#x26;colid=1SW4HY14FLX9F&amp;#x26;psc=0&quot;&gt;Dell UltraSharp U2515H 25-Inch Monitor&lt;/a&gt; after reading &lt;a href=&quot;https://hackernoon.com/why-i-stopped-using-multiple-monitors-bfd87efa2e5b&quot;&gt;A Single Monitor Manifesto&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/housecor&quot;&gt;Cory House&lt;/a&gt;. It made a lot sense to me and am happy with the new setup. This new setup helps me stay focused on the task at hand and avoid distractions.&lt;/p&gt;
+&lt;p&gt;I own a &lt;a href=&quot;http://a.co/1F7pfgq&quot;&gt;Logitech HD Laptop Webcam C615&lt;/a&gt; for webchats and music recordings.&lt;/p&gt;
+&lt;h2 id=&quot;other&quot;&gt;&lt;a href=&quot;#other&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Other&lt;/h2&gt;
+&lt;p&gt;I use &lt;a href=&quot;https://keep.google.com/&quot;&gt;Google Keep&lt;/a&gt; for my daily todos and started journaling in a private repo in Github.&lt;/p&gt;
+&lt;p&gt;I use &lt;a href=&quot;https://trello.com/&quot;&gt;Trello&lt;/a&gt; for project management tasks for any given project.&lt;/p&gt;
+&lt;p&gt;My team uses &lt;a href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt; for office communications. The goal being that email is for external customers.&lt;/p&gt;
+&lt;p&gt;I use &lt;a href=&quot;https://www.opendns.com&quot;&gt;OpenDNS&lt;/a&gt; to filter content and improve network speeds.&lt;/p&gt;
+&lt;p&gt;I built a &lt;a href=&quot;https://www.raspberrypi.org/&quot;&gt;Raspberry Pi&lt;/a&gt; using &lt;a href=&quot;https://pi-hole.net/&quot;&gt;pi-hole&lt;/a&gt; to filter ads and have also setup &lt;a href=&quot;https://openvpn.net/&quot;&gt;openvpn&lt;/a&gt; to secure traffic when I’m out in the wild.&lt;/p&gt;
+&lt;p&gt;I also setup a &lt;a href=&quot;http://a.co/cbymmBu&quot;&gt;Disney’s Circle&lt;/a&gt; which is an amazing device that helps keep time limits on our children’s internet time.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Top 3 Gartner Application Conference Takeaways]]></title><description><![CDATA[2018 Gartner Application Strategies and Solutions Summit This Fall I got to go to the Gartner Application Summit held in Las Vegas. This was…]]></description><link>https://frankpigeon.com/2018-12-10-Gartner-takeaways/</link><guid isPermaLink="false">https://frankpigeon.com/2018-12-10-Gartner-takeaways/</guid><pubDate>Mon, 10 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;2018-gartner-application-strategies-and-solutions-summit&quot;&gt;&lt;a href=&quot;#2018-gartner-application-strategies-and-solutions-summit&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2018 Gartner Application Strategies and Solutions Summit&lt;/h2&gt;
 &lt;p&gt;This Fall I got to go to the Gartner Application Summit held in Las Vegas.&lt;/p&gt;
 &lt;p&gt;This was my first Gartner conference and my first time in Las Vegas.&lt;/p&gt;
 &lt;p&gt;While the experience of being on the strip was overwhelming and over-stimulating, I did learn a lot of exciting new concepts and methodoligies at the conference.&lt;/p&gt;
