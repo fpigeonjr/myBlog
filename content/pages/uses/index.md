@@ -2,7 +2,7 @@
 title: "Some of the things I use"
 slug: uses
 cover: ./resume.jpg
-language: en
+date: 2018-12-11
 disqus: false
 type: page
 ---
@@ -11,7 +11,7 @@ type: page
 
 ![vscode](./vscode.png)
 
-I have been using [Visual Studio Code][visual studio code] as my code editor for over a year now and have been very happy with it. Probably my favorite electron app by far. My favorite color themes are [Monokia Pro][monokaipro], [Dracula][dracula], [Material Facebook][material facebook], and [Cobalt2][cobalt2]. My favorite font is [Operator Mono][operator mono].
+I have been using [Visual Studio Code][visual studio code] as my code editor for over a two years now and have been very happy with it. Probably my favorite electron app by far. My favorite color themes are [Cobalt2][cobalt2], [Dracula][dracula], [Material Facebook][material facebook]. My favorite font is [Dank Mono][dank mono].
 
 ![iterm](./iterm.png)
 
@@ -27,11 +27,9 @@ I recently sold my dual monitor setup and replaced it with a single [Dell UltraS
 
 I own a [Logitech HD Laptop Webcam C615][webcam] for webchats and music recordings.
 
-We also recently bought [Disney's Circle][circle] which is an amazing device that helps keep time limits on our children's internet time.
-
 ## Other
 
-I use [Google Keep][keep] for my daily todos.
+I use [Google Keep][keep] for my daily todos and started journaling in a private repo in Github.
 
 I use [Trello][trello] for project management tasks for any given project.
 
@@ -39,7 +37,9 @@ My team uses [Slack][slack] for office communications. The goal being that email
 
 I use [OpenDNS][opendns] to filter content and improve network speeds.
 
-I setup a [Raspberry Pi][rpi] using [pi-hole][pihole] to filter ads and have also setup [openvpn][openvpn] to secure traffic when I'm out in the wild.
+I built a [Raspberry Pi][rpi] using [pi-hole][pihole] to filter ads and have also setup [openvpn][openvpn] to secure traffic when I'm out in the wild.
+
+I also setup a [Disney's Circle][circle] which is an amazing device that helps keep time limits on our children's internet time.
 
 [visual studio code]: https://code.visualstudio.com/
 [codeup]: http://codeup.com
@@ -51,7 +51,7 @@ I setup a [Raspberry Pi][rpi] using [pi-hole][pihole] to filter ads and have als
 [pure]: https://github.com/sindresorhus/pure
 [facebook-iterm]: https://github.com/slwen/facebook-iterm-theme
 [oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh
-[operator mono]: https://www.typography.com/fonts/operator/webfonts/operatormono-medium/
+[operator mono]: https://dank.sh/
 [dell-monitor]: https://www.amazon.com/dp/B00SPWPF1O/_encoding=UTF8?coliid=I2CTU0GMXJ7G9U&colid=1SW4HY14FLX9F&psc=0
 [cory-house]: https://twitter.com/housecor
 [manifesto]: https://hackernoon.com/why-i-stopped-using-multiple-monitors-bfd87efa2e5b

@@ -2,72 +2,61 @@
 title: "Resume"
 slug: resume
 cover: ./resume.jpg
-language: en
+date: 2018-12-11
 disqus: false
 type: page
 ---
 
-<div class="summary-box">
-    <h3 class="summary-h3 text-center">Summary</h3>
-    <p class="summary-p">
-        With over 15 years of IT experience, I'm broadening my horizons into web and mobile development. I'm a U.S. Army veteran, hold a SECRET clearance, and have a Bachelor's Degree in Management, Computer Information Systems. I am fluent in English and Spanish, a focused team player, a lifetime learner, and am excited to take on new challenges that combine my creativity and business sense.
-    </p>
-</div>
+## Summary
 
-<h2 class="section-h2"><i class="fa fa-briefcase"></i> Work Experience</h2>
+With over 15 years of IT experience, I'm broadening my horizons into web and mobile development. I'm a U.S. Army veteran, hold a SECRET clearance, and have a Bachelor's Degree in Management, Computer Information Systems. I am fluent in English and Spanish, a focused team player, a lifetime learner, and am excited to take on new challenges that combine my creativity and business sense.
 
-#### AUG 2015 - Present
+## Work Experience
 
-<p class="position">Web Developer, Dept. of Army - San Antonio, TX</p>
+### AUG 2015 - Present
+
+**Frontend Web Developer and Designer, Dept. of Army - San Antonio, TX**
 
 * Frontend web design and development for public facing websites and applications
 * Led adoption of version control, design guidelines, and modern web practices
 * Frontend design and development using HTML, CSS, JavaScript, React, and the Adobe CC Suite
 
-#### NOV 2014 - AUG 2015
+### NOV 2014 - AUG 2015
 
-<p class="position">Web Developer, AM Digital - Ft. Worth, TX</p>
+**Web Developer, AM Digital - Ft. Worth, TX**
 
 * Full stack web development using Linux, Apache, MySQL, and PHP
 * Part of the web development team for the [AM Digital Agency][amwebsite]
 
-#### MAY 2014 - Present
+### MAY 2014 - Present
 
-<p class="position">Freelance Web Developer, Self - San Antonio, TX</p>
+**Freelance Web Developer, Self - San Antonio, TX**
 
 * Owner of [Pigeontec][pigeontec], a single person Digital Agency
 * Full stack web design and development
 
-#### Previous Experience
+### Previous Experience
 
 * IT Project Manager and IT Customer Support for Dept.of Army
 * Served as a 74B Computer Operator/Analyst in the U.S. Army
 
-<h2 class="section-h2"><i class="fa fa-graduation-cap"></i> Education</h2>
+## Education
 
-#### Codeup
+### Codeup
 
-<p class="project-p">
-    Full stack web development bootcamp using the LAMP stack
-</p>
+Full stack web development bootcamp using the LAMP stack
 
-#### Regis University
+### Regis University
 
-<p class="project-p">
-    4 Computer Science Leveling Courses
-</p>
+4 Computer Science Leveling Courses
 
-#### Park University
+### Park University
 
-<p class="project-p">
-    B.S., Management, Computer Information Systems
-</p>
+B.S., Management, Computer Information Systems
 
-#### Kansas City Kansas Community College
+### Kansas City Kansas Community College
 
-<p class="project-p">
-    A.A.S., Computer Information Systems
-</p>
+A.A.S., Computer Information Systems
 
 [pigeontec]: http://pigeontec.com
 [community-helpers]: http://community-helpers.com/

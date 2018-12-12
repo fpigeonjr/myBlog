@@ -2,7 +2,7 @@
 title: "Portfolio"
 slug: portfolio
 cover: ./portfolio.jpg
-language: en
+date: 2018-12-11
 disqus: false
 type: page
 ---
@@ -13,7 +13,6 @@ type: page
 
 Real-time web application for a fictional trendy seafood market where price and quantity available can change at a moment's notice. Includes a build a menu, an order form, and an inventory management area where authorized users can immediately update product details. Built with React, ES6, React Router 4, and Firebase.
 
-[View Live][cotd] <br>
 [View Github][cotd-gh]
 
 ## David Portillo Tenor
@@ -41,7 +40,6 @@ Client work for graphic artist and designer Sean Dorr's portfolio website. Web D
 Web application that connects seniors that need work done around their home and the youth that want to earn some extra money. Built using Laravel, PHP, MySQL, JavaScript, jQuery, and Twitter Bootstrap. Development done in a Vagrant environment. Version control using Git and GitHub. Features a helper/giver dashboard, a job listing for helpers to apply to, and giving the power to the giver to select a helper based on their jobs completed and reviews.
 
 [View Github][community-helpers-gh] <br>
-[View Live][community-helpers-live]
 
 ## Todo List
 
