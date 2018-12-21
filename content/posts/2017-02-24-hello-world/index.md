@@ -2,7 +2,10 @@
 title: Hello World
 slug: hello-world
 date: 2017-02-24
+language: en
 cover: ./code.jpg
+imageTw: ./code.jpg
+imageFb: ./code.jpg
 generate-card: false
 tags:
     - beginning
