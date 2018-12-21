@@ -2,8 +2,11 @@
 title: World of Vue.js
 slug: vue
 date: 2017-03-12
+language: en
+imageTw: ./vue.jpg
+imageFb: ./vue.jpg
 cover: ./vue.jpg
-generate-card: false
+generate-card: true
 tags:
     - javaScript
     - vue

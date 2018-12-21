@@ -2,10 +2,14 @@
 title: Goals for 2018
 slug: goals-for-2018
 date: 2018-02-21
+language: en
+imageTw: ./books.jpg
+imageFb: ./books.jpg
 cover: ./books.jpg
-generate-card: false
+generate-card: true
 tags:
     - goals
+    - vision
 ---
 
 ## Intro
@@ -42,7 +46,7 @@ I recently bought a used Kindle that I am hoping will help me with this goal. Th
 * **The One Thing** by Gary Keller
 * **Deep Work** by Cal Newport
 * **Anything You Want** by Derek Silvers
-* **12 Rules for Life: An Antidote for Choas** by Jordan Peterson
+* **12 Rules for Life: An Antidote for Chaos** by Jordan Peterson
 * **The Pragmatic Programmer: From Journeyman to Master** by Andy Hunt
 * **Clean Code: A Handbook of Agile Software Craftsmanship** by Robert C. Martin
 * **The Selfish Gene** by Richards Dawkins

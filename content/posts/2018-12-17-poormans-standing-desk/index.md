@@ -2,8 +2,11 @@
 title: Poorman's Standing Desk
 slug: poormans-standing-desk
 date: 2018-12-17
+language: en
+imageTw: ./post-image.jpg
+imageFb: ./post-image.jpg
 cover: ./post-image.jpg
-generate-card: false
+generate-card: true
 tags:
   - budget
   - onthecheap
@@ -11,15 +14,11 @@ tags:
   - diy
 ---
 
-<!-- TODO: Add cover image -->
-
 ## Inspiration
 
 I have been considering building a standing desk on the cheap. [I read an article where you can get all the parts from Ikea like for \$20 bucks](http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html) and just make your own. The [official Veridesk ones](https://www.amazon.com/VARIDESK-Height-Adjustable-Standing-Desk-Pro/dp/B00BBFXBF4) are like a grand and even the one that you put on top of your existing desk runs \$300. So yeah, not in my budget at all. Probably need a stool kinda thing in case I get tired standing as well, the veridesk one is insane.
 
 ## Standing Desk Build
-
-<!-- TODO: Add image -->
 
 I've been wanting a standing desk for some time but was always put off since it was so expensive. I have a regular siting desk for many years but since we got Veridesk at work I've enjoyed the health benefits and been wanting one for my home office as well.
 

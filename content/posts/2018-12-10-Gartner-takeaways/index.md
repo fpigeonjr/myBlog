@@ -3,7 +3,10 @@ title: Top 3 Gartner Application Conference Takeaways
 slug: top3-gartner-takeaways
 date: 2018-12-10
 cover: ./gartner-2018.png
-generate-card: false
+language: en
+imageTw: ./gartner-2018.png
+imageFb: ./gartner-2018.png
+generate-card: true
 tags:
     - vision
     - trends

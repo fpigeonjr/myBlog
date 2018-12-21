@@ -3,7 +3,10 @@ title: Goals for 2017
 slug: goals-for-2017
 date: 2017-02-25
 cover: ./coast.jpg
-generate-card: false
+language: en
+imageTw: ./coast.jpg
+imageFb: ./coast.jpg
+generate-card: true
 tags:
     - goals
     - commitment

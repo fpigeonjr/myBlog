@@ -66,3 +66,4 @@ I also setup a [Disney's Circle][circle] which is an amazing device that helps k
 [rpi]: https://www.raspberrypi.org/
 [openvpn]: https://openvpn.net/
 [pihole]: https://pi-hole.net/
+[dank mono]: https://dank.sh/

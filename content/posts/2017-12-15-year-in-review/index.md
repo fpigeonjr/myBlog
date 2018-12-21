@@ -2,8 +2,11 @@
 title: 2017 Year in Review
 slug: 2017-year-in-review
 date: 2017-12-15
+language: en
+imageTw: ./fireworks.jpeg
+imageFb: ./fireworks.jpeg
 cover: ./fireworks.jpeg
-generate-card: false
+generate-card: true
 tags:
     - review
     - reflection

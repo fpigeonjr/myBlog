@@ -6,7 +6,7 @@ language: en
 cover: ./code.jpg
 imageTw: ./code.jpg
 imageFb: ./code.jpg
-generate-card: false
+generate-card: true
 tags:
     - beginning
     - blogging

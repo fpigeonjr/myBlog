@@ -3,7 +3,10 @@ title: PostCSS
 slug: postcss
 date: 2017-03-01
 cover: ./postcss.jpg
-generate-card: false
+language: en
+imageTw: ./postcss.jpg
+imageFb: ./postcss.jpg
+generate-card: true
 tags:
     - css
     - frontend
