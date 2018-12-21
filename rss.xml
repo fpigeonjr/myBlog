@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[frankpigeon.com]]></title><description><![CDATA[Frank Pigeon's Blog]]></description><link>https://frankpigeon.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 17 Dec 2018 21:01:46 GMT</lastBuildDate><item><title><![CDATA[Poorman's Standing Desk]]></title><description><![CDATA[Inspiration I have been considering building a standing desk on the cheap.  I read an article where you can get all the parts from Ikea like…]]></description><link>https://frankpigeon.com/2018-12-17-poormans-standing-desk/</link><guid isPermaLink="false">https://frankpigeon.com/2018-12-17-poormans-standing-desk/</guid><pubDate>Mon, 17 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;!-- TODO: Add cover image --&gt;
-&lt;h2 id=&quot;inspiration&quot;&gt;&lt;a href=&quot;#inspiration&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Inspiration&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[frankpigeon.com]]></title><description><![CDATA[Frank Pigeon's Blog]]></description><link>https://frankpigeon.com</link><generator>RSS for Node</generator><lastBuildDate>Fri, 21 Dec 2018 13:01:23 GMT</lastBuildDate><item><title><![CDATA[Poorman's Standing Desk]]></title><description><![CDATA[Inspiration I have been considering building a standing desk on the cheap.  I read an article where you can get all the parts from Ikea like…]]></description><link>https://frankpigeon.com/2018-12-17-poormans-standing-desk/</link><guid isPermaLink="false">https://frankpigeon.com/2018-12-17-poormans-standing-desk/</guid><pubDate>Mon, 17 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;inspiration&quot;&gt;&lt;a href=&quot;#inspiration&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Inspiration&lt;/h2&gt;
 &lt;p&gt;I have been considering building a standing desk on the cheap. &lt;a href=&quot;http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html&quot;&gt;I read an article where you can get all the parts from Ikea like for $20 bucks&lt;/a&gt; and just make your own. The &lt;a href=&quot;https://www.amazon.com/VARIDESK-Height-Adjustable-Standing-Desk-Pro/dp/B00BBFXBF4&quot;&gt;official Veridesk ones&lt;/a&gt; are like a grand and even the one that you put on top of your existing desk runs $300. So yeah, not in my budget at all. Probably need a stool kinda thing in case I get tired standing as well, the veridesk one is insane.&lt;/p&gt;
 &lt;h2 id=&quot;standing-desk-build&quot;&gt;&lt;a href=&quot;#standing-desk-build&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Standing Desk Build&lt;/h2&gt;
-&lt;!-- TODO: Add image --&gt;
 &lt;p&gt;I’ve been wanting a standing desk for some time but was always put off since it was so expensive. I have a regular siting desk for many years but since we got Veridesk at work I’ve enjoyed the health benefits and been wanting one for my home office as well.&lt;/p&gt;
 &lt;p&gt;So I looked around and found that there was an Ikea hack where you could build your own for ~$20. I was so happy that I wanted to see if I could pull it off. If it didn’t work out it was just $20 bucks and little bit of my time so no biggie.&lt;/p&gt;
 &lt;p&gt;Another problem I faced was that the pieces were from Ikea but the closest one is in Austin which is ~ 2hrs drive. &lt;em&gt;I didn’t feel like spending 4 hours in the car to I could save a few bucks&lt;/em&gt;.&lt;/p&gt;
@@ -77,41 +75,76 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQBAwL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAGbOVZj0J4Q6g//xAAbEAEAAgIDAAAAAAAAAAAAAAACAAEDEhEiQf/aAAgBAQABBQJqjPIjveCuxV8Zcy12VS2hP//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABoQAAMAAwEAAAAAAAAAAAAAAAABERAhMUH/2gAIAQEABj8CLi2D9hoSURE3vpFw/8QAHBAAAgMAAwEAAAAAAAAAAAAAAREAITFBUWHR/9oACAEBAAE/IdSPAPoQWMhylQVmRDfhH1USYCkHaCcBJBDiOw4+nk//2gAMAwEAAgADAAAAEPAPPP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EAB4QAQEAAgICAwAAAAAAAAAAAAERADEhQVFhccHR/9oACAEBAAE/EHIWejACqpaReLki0UsTWRNK6k0nXdxCeEMny/MtjdFvn1i8IXD2dz6xTbAIbYbOBwIe8//Z&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHIjYSdFeALgf/EABkQAAMAAwAAAAAAAAAAAAAAAAECAwAREv/aAAgBAQABBQKj84p2NMuFO8moFbU09bPwSQVUFf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABkQAAMBAQEAAAAAAAAAAAAAAAABESESMf/aAAgBAQAGPwIprG3cFCHp0nGVn//EABsQAQADAAMBAAAAAAAAAAAAAAEAESExQVFh/9oACAEBAAE/IWWVGFG+S4ndmdS8RW5PIC3e6e59sGwdSm8hVy0j1ICsV52f/9oADAMBAAIAAwAAABBzyAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAcEAEAAwADAQEAAAAAAAAAAAABABEhMUFhUZH/2gAIAQEAAT8QAGnO9ytGzgQAxdW1+I2MgjfBc98iNqFMbH3cqJcRBg7gE+wiQ9SHWDtpm47qVrbP/9k=&apos;); background-size: cover; display: block;&quot;
     &gt;&lt;/span&gt;
     &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/a46fc0c07cc61eecad2279d772348258/e87b9/standing-desk.webp 148w,
-/static/a46fc0c07cc61eecad2279d772348258/404d7/standing-desk.webp 295w,
-/static/a46fc0c07cc61eecad2279d772348258/6c5da/standing-desk.webp 590w,
-/static/a46fc0c07cc61eecad2279d772348258/8fbeb/standing-desk.webp 885w,
-/static/a46fc0c07cc61eecad2279d772348258/ef0b4/standing-desk.webp 1180w,
-/static/a46fc0c07cc61eecad2279d772348258/e88a2/standing-desk.webp 1770w,
-/static/a46fc0c07cc61eecad2279d772348258/a420b/standing-desk.webp 3024w&quot;
+          srcset=&quot;/static/2fcca5e16f063f81ae19cf56074c5939/e87b9/standing-desk.webp 148w,
+/static/2fcca5e16f063f81ae19cf56074c5939/404d7/standing-desk.webp 295w,
+/static/2fcca5e16f063f81ae19cf56074c5939/6c5da/standing-desk.webp 590w,
+/static/2fcca5e16f063f81ae19cf56074c5939/8fbeb/standing-desk.webp 885w,
+/static/2fcca5e16f063f81ae19cf56074c5939/ef0b4/standing-desk.webp 1180w,
+/static/2fcca5e16f063f81ae19cf56074c5939/e88a2/standing-desk.webp 1770w,
+/static/2fcca5e16f063f81ae19cf56074c5939/1e8ee/standing-desk.webp 2626w&quot;
           sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/a46fc0c07cc61eecad2279d772348258/fc706/standing-desk.jpg 148w,
-/static/a46fc0c07cc61eecad2279d772348258/754cc/standing-desk.jpg 295w,
-/static/a46fc0c07cc61eecad2279d772348258/8e0ad/standing-desk.jpg 590w,
-/static/a46fc0c07cc61eecad2279d772348258/66519/standing-desk.jpg 885w,
-/static/a46fc0c07cc61eecad2279d772348258/c57d2/standing-desk.jpg 1180w,
-/static/a46fc0c07cc61eecad2279d772348258/58788/standing-desk.jpg 1770w,
-/static/a46fc0c07cc61eecad2279d772348258/dbaa5/standing-desk.jpg 3024w&quot;
+          srcset=&quot;/static/2fcca5e16f063f81ae19cf56074c5939/fc706/standing-desk.jpg 148w,
+/static/2fcca5e16f063f81ae19cf56074c5939/754cc/standing-desk.jpg 295w,
+/static/2fcca5e16f063f81ae19cf56074c5939/8e0ad/standing-desk.jpg 590w,
+/static/2fcca5e16f063f81ae19cf56074c5939/66519/standing-desk.jpg 885w,
+/static/2fcca5e16f063f81ae19cf56074c5939/c57d2/standing-desk.jpg 1180w,
+/static/2fcca5e16f063f81ae19cf56074c5939/58788/standing-desk.jpg 1770w,
+/static/2fcca5e16f063f81ae19cf56074c5939/9bdef/standing-desk.jpg 2626w&quot;
           sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/a46fc0c07cc61eecad2279d772348258/8e0ad/standing-desk.jpg&quot;
+          src=&quot;/static/2fcca5e16f063f81ae19cf56074c5939/8e0ad/standing-desk.jpg&quot;
           alt=&quot;happy dev&quot;
           title=&quot;&quot;
         /&gt;
       &lt;/picture&gt;
   &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;So far I am very happy with the results, glad I didn’t have to spend a fortune, and also leaned into my hacker tendencies. We’ll see if it holds up but if it doesn’t, I can always build another one #onthecheap.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Portfolio]]></title><description><![CDATA[Catch of the Day Real-time web application for a fictional trendy seafood market where price and quantity available can change at a moment’s…]]></description><link>https://frankpigeon.com/portfolio/</link><guid isPermaLink="false">https://frankpigeon.com/portfolio/</guid><pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;catch-of-the-day&quot;&gt;&lt;a href=&quot;#catch-of-the-day&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Catch of the Day&lt;/h2&gt;
+&lt;p&gt;So far I am very happy with the results, glad I didn’t have to spend a fortune, and also leaned into my hacker tendencies. We’ll see if it holds up but if it doesn’t, I can always build another one #onthecheap.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Resume]]></title><description><![CDATA[Summary With over 15 years of IT experience, I’m broadening my horizons into web and mobile development. I’m a U.S. Army veteran, hold a…]]></description><link>https://frankpigeon.com/resume/</link><guid isPermaLink="false">https://frankpigeon.com/resume/</guid><pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;summary&quot;&gt;&lt;a href=&quot;#summary&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Summary&lt;/h2&gt;
+&lt;p&gt;With over 15 years of IT experience, I’m broadening my horizons into web and mobile development. I’m a U.S. Army veteran, hold a SECRET clearance, and have a Bachelor’s Degree in Management, Computer Information Systems. I am fluent in English and Spanish, a focused team player, a lifetime learner, and am excited to take on new challenges that combine my creativity and business sense.&lt;/p&gt;
+&lt;h2 id=&quot;work-experience&quot;&gt;&lt;a href=&quot;#work-experience&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Work Experience&lt;/h2&gt;
+&lt;h3 id=&quot;aug-2015---present&quot;&gt;&lt;a href=&quot;#aug-2015---present&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;AUG 2015 - Present&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Frontend Web Developer and Designer, Dept. of Army - San Antonio, TX&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Frontend web design and development for public facing websites and applications&lt;/li&gt;
+&lt;li&gt;Led adoption of version control, design guidelines, and modern web practices&lt;/li&gt;
+&lt;li&gt;Frontend design and development using HTML, CSS, JavaScript, React, and the Adobe CC Suite&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;nov-2014---aug-2015&quot;&gt;&lt;a href=&quot;#nov-2014---aug-2015&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;NOV 2014 - AUG 2015&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Web Developer, AM Digital - Ft. Worth, TX&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Full stack web development using Linux, Apache, MySQL, and PHP&lt;/li&gt;
+&lt;li&gt;Part of the web development team for the &lt;a href=&quot;http://am.digital/&quot;&gt;AM Digital Agency&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;may-2014---present&quot;&gt;&lt;a href=&quot;#may-2014---present&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;MAY 2014 - Present&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Freelance Web Developer, Self - San Antonio, TX&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Owner of &lt;a href=&quot;http://pigeontec.com&quot;&gt;Pigeontec&lt;/a&gt;, a single person Digital Agency&lt;/li&gt;
+&lt;li&gt;Full stack web design and development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;previous-experience&quot;&gt;&lt;a href=&quot;#previous-experience&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Previous Experience&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;IT Project Manager and IT Customer Support for Dept.of Army&lt;/li&gt;
+&lt;li&gt;Served as a 74B Computer Operator/Analyst in the U.S. Army&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;education&quot;&gt;&lt;a href=&quot;#education&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Education&lt;/h2&gt;
+&lt;h3 id=&quot;codeup&quot;&gt;&lt;a href=&quot;#codeup&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Codeup&lt;/h3&gt;
+&lt;p&gt;Full stack web development bootcamp using the LAMP stack&lt;/p&gt;
+&lt;h3 id=&quot;regis-university&quot;&gt;&lt;a href=&quot;#regis-university&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Regis University&lt;/h3&gt;
+&lt;p&gt;4 Computer Science Leveling Courses&lt;/p&gt;
+&lt;h3 id=&quot;park-university&quot;&gt;&lt;a href=&quot;#park-university&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Park University&lt;/h3&gt;
+&lt;p&gt;B.S., Management, Computer Information Systems&lt;/p&gt;
+&lt;h3 id=&quot;kansas-city-kansas-community-college&quot;&gt;&lt;a href=&quot;#kansas-city-kansas-community-college&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Kansas City Kansas Community College&lt;/h3&gt;
+&lt;p&gt;A.A.S., Computer Information Systems&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Portfolio]]></title><description><![CDATA[Catch of the Day Real-time web application for a fictional trendy seafood market where price and quantity available can change at a moment’s…]]></description><link>https://frankpigeon.com/portfolio/</link><guid isPermaLink="false">https://frankpigeon.com/portfolio/</guid><pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;catch-of-the-day&quot;&gt;&lt;a href=&quot;#catch-of-the-day&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Catch of the Day&lt;/h2&gt;
 &lt;p&gt;&lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
     style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
@@ -487,42 +520,7 @@
 &lt;p&gt;I was born in San Antonio, Texas and grew up in the 🌴 beautiful tropical country of Panama.&lt;/p&gt;
 &lt;p&gt;I am a U.S. Army veteran and am still serving my country as a Department of Army Civilian.&lt;/p&gt;
 &lt;p&gt;My passions including 👨‍💻coding, 🎵music, and all-things 🐧open-source.&lt;/p&gt;
-&lt;p&gt;I am the owner of &lt;a href=&quot;http://pigeontec.com&quot;&gt;pigeontec&lt;/a&gt;, a single person Digital Agency,  and also am co-founder of &lt;a href=&quot;https://sacodersunited.com&quot;&gt;sacodersunited&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Resume]]></title><description><![CDATA[Summary With over 15 years of IT experience, I’m broadening my horizons into web and mobile development. I’m a U.S. Army veteran, hold a…]]></description><link>https://frankpigeon.com/resume/</link><guid isPermaLink="false">https://frankpigeon.com/resume/</guid><pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;summary&quot;&gt;&lt;a href=&quot;#summary&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Summary&lt;/h2&gt;
-&lt;p&gt;With over 15 years of IT experience, I’m broadening my horizons into web and mobile development. I’m a U.S. Army veteran, hold a SECRET clearance, and have a Bachelor’s Degree in Management, Computer Information Systems. I am fluent in English and Spanish, a focused team player, a lifetime learner, and am excited to take on new challenges that combine my creativity and business sense.&lt;/p&gt;
-&lt;h2 id=&quot;work-experience&quot;&gt;&lt;a href=&quot;#work-experience&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Work Experience&lt;/h2&gt;
-&lt;h3 id=&quot;aug-2015---present&quot;&gt;&lt;a href=&quot;#aug-2015---present&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;AUG 2015 - Present&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Frontend Web Developer and Designer, Dept. of Army - San Antonio, TX&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Frontend web design and development for public facing websites and applications&lt;/li&gt;
-&lt;li&gt;Led adoption of version control, design guidelines, and modern web practices&lt;/li&gt;
-&lt;li&gt;Frontend design and development using HTML, CSS, JavaScript, React, and the Adobe CC Suite&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;nov-2014---aug-2015&quot;&gt;&lt;a href=&quot;#nov-2014---aug-2015&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;NOV 2014 - AUG 2015&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Web Developer, AM Digital - Ft. Worth, TX&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Full stack web development using Linux, Apache, MySQL, and PHP&lt;/li&gt;
-&lt;li&gt;Part of the web development team for the &lt;a href=&quot;http://am.digital/&quot;&gt;AM Digital Agency&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;may-2014---present&quot;&gt;&lt;a href=&quot;#may-2014---present&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;MAY 2014 - Present&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Freelance Web Developer, Self - San Antonio, TX&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Owner of &lt;a href=&quot;http://pigeontec.com&quot;&gt;Pigeontec&lt;/a&gt;, a single person Digital Agency&lt;/li&gt;
-&lt;li&gt;Full stack web design and development&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;previous-experience&quot;&gt;&lt;a href=&quot;#previous-experience&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Previous Experience&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;IT Project Manager and IT Customer Support for Dept.of Army&lt;/li&gt;
-&lt;li&gt;Served as a 74B Computer Operator/Analyst in the U.S. Army&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;education&quot;&gt;&lt;a href=&quot;#education&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Education&lt;/h2&gt;
-&lt;h3 id=&quot;codeup&quot;&gt;&lt;a href=&quot;#codeup&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Codeup&lt;/h3&gt;
-&lt;p&gt;Full stack web development bootcamp using the LAMP stack&lt;/p&gt;
-&lt;h3 id=&quot;regis-university&quot;&gt;&lt;a href=&quot;#regis-university&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Regis University&lt;/h3&gt;
-&lt;p&gt;4 Computer Science Leveling Courses&lt;/p&gt;
-&lt;h3 id=&quot;park-university&quot;&gt;&lt;a href=&quot;#park-university&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Park University&lt;/h3&gt;
-&lt;p&gt;B.S., Management, Computer Information Systems&lt;/p&gt;
-&lt;h3 id=&quot;kansas-city-kansas-community-college&quot;&gt;&lt;a href=&quot;#kansas-city-kansas-community-college&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Kansas City Kansas Community College&lt;/h3&gt;
-&lt;p&gt;A.A.S., Computer Information Systems&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Some of the things I use]]></title><description><![CDATA[Editor + Terminal I have been using  Visual Studio Code  as my code editor for over a two years now and have been very happy with it…]]></description><link>https://frankpigeon.com/uses/</link><guid isPermaLink="false">https://frankpigeon.com/uses/</guid><pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;editor--terminal&quot;&gt;&lt;a href=&quot;#editor--terminal&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Editor + Terminal&lt;/h2&gt;
+&lt;p&gt;I am the owner of &lt;a href=&quot;http://pigeontec.com&quot;&gt;pigeontec&lt;/a&gt;, a single person Digital Agency,  and also am co-founder of &lt;a href=&quot;https://sacodersunited.com&quot;&gt;sacodersunited&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Some of the things I use]]></title><description><![CDATA[Editor + Terminal I have been using  Visual Studio Code  as my code editor for over a two years now and have been very happy with it…]]></description><link>https://frankpigeon.com/uses/</link><guid isPermaLink="false">https://frankpigeon.com/uses/</guid><pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;editor--terminal&quot;&gt;&lt;a href=&quot;#editor--terminal&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Editor + Terminal&lt;/h2&gt;
 &lt;p&gt;&lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
     style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
@@ -563,7 +561,7 @@
         /&gt;
       &lt;/picture&gt;
   &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;I have been using &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt; as my code editor for over a two years now and have been very happy with it. Probably my favorite electron app by far. My favorite color themes are &lt;a href=&quot;https://github.com/wesbos/cobalt2-vscode&quot;&gt;Cobalt2&lt;/a&gt;, &lt;a href=&quot;https://draculatheme.com/visual-studio-code/&quot;&gt;Dracula&lt;/a&gt;, &lt;a href=&quot;https://github.com/rmarganti/vsc-material-facebook-theme&quot;&gt;Material Facebook&lt;/a&gt;. My favorite font is [Dank Mono][dank mono].&lt;/p&gt;
+&lt;p&gt;I have been using &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt; as my code editor for over a two years now and have been very happy with it. Probably my favorite electron app by far. My favorite color themes are &lt;a href=&quot;https://github.com/wesbos/cobalt2-vscode&quot;&gt;Cobalt2&lt;/a&gt;, &lt;a href=&quot;https://draculatheme.com/visual-studio-code/&quot;&gt;Dracula&lt;/a&gt;, &lt;a href=&quot;https://github.com/rmarganti/vsc-material-facebook-theme&quot;&gt;Material Facebook&lt;/a&gt;. My favorite font is &lt;a href=&quot;https://dank.sh/&quot;&gt;Dank Mono&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
     style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
@@ -905,159 +903,7 @@
 &lt;h2 id=&quot;conclusion&quot;&gt;&lt;a href=&quot;#conclusion&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;After attending this conference, your heart is set on fire and you want to implement all these new trends.&lt;/p&gt;
 &lt;p&gt;While I am not in a leadership position, I feel that I can implement change at my level.&lt;/p&gt;
-&lt;p&gt;I am so glad that I was able to attend the conference. My heart is fire to disrupt our current rhythm and implement change.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What's new in gatsby-starter-morning-dew v1.1?]]></title><description><![CDATA[TLDR;  Metatags generation, CSS-in-JS ( styled-components ) and pagination are now in gatsby-starter-morning-dew 🎉 🏷 Social media card…]]></description><link>https://frankpigeon.com/2018-11-13-v1-1-is-out/</link><guid isPermaLink="false">https://frankpigeon.com/2018-11-13-v1-1-is-out/</guid><pubDate>Tue, 13 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;TLDR;&lt;/strong&gt; Metatags generation, CSS-in-JS (&lt;a href=&quot;https://www.styled-components.com&quot;&gt;styled-components&lt;/a&gt;) and pagination are now in gatsby-starter-morning-dew 🎉&lt;/p&gt;
-&lt;h2 id=&quot;-social-media-card-generator&quot;&gt;&lt;a href=&quot;#-social-media-card-generator&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🏷 Social media card generator&lt;/h2&gt;
-&lt;p&gt;It’s now posible to generate preview images for social networks (&lt;a href=&quot;https://cards-dev.twitter.com/validator&quot;&gt;Twitter&lt;/a&gt; and Facebook).&lt;/p&gt;
-&lt;p&gt;&lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 73.98190045248867%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAD8UlEQVQ4y42Rj0/UZRzHv0CWOm0uNLd+zMJaZZNlWxA4hhpbDjdRC5mAIIS4QEhAfntwsQOCE1QEGYrhj8ZCfpQrI+AAxdPOBRw/jjvhDpCBXLhB/PAQxOPVw+kf0Hd7fZ/P+3lv7+f97JG2ypuwD6hkVWgNKw9V21gdWo1DUDWBil+pPHyZk7u/ISAtnJjwNBKzI4k6UUR+5AkufhpIUcQOKrx9CNvyBcEufkgbYm4gHbiGdLDqOYGVSP5C+1XgdKSKvK9SSfaKI+l4PLF5J0koPcfRjEL2HYgneFc02/aEcHbT54R5+rPVJQBpY2IdkmgjBdew+cSfRJW14HemEZ9TKjxktZzO/JHrPxRzVlHF1UtKbhbncO1CBad/z+PqLyXIQ2Skb/di/5e+eLqEIjmlNiKFXUcK/43V0Tdwy27APaser1wVG1Nr2aFU8cex4xyUlZF7qoDLJy+QJ8/ndMFlKvMuEqHIYFtsDls+24OH61Kg/BbSt7VIEbU4JtRzpEzN10U3CS1Vs/9cCx45TWQryylLzCU/KoWLV0qpSc/gUnEFP52v4bu4Ytx3JOG2eR8f+xeIwEw1UnQ9drENgnpeiqtjWVw9DrF12MfUsS5FxZbcZsJTrnI4KI1Iv6McjTlEeFA6cSGFZPpksHN3OO/4HmZVsijnlPsXUnwjdkni6okqwYt1SYt9R4Ua1/ybOBdoeCOribeCSvDcdUQQSXZKEaWKct4PzkFKaGBFuii3UXlXCBGY0oyU3ITdC6SURlakqnBNKOE9hYpP8u/gduYuHynvsEb466Mv8GH8z3hHnkcWHcreY1msTRAP/G6uCIwT6YlNLBe8nNTMKwIH0XR5kopN8eV8oGhiW6EG72IN7vlqlsU3YJ/QjH2Smq0+UShDPfH1dMMjRIHkfErDqvQWXpfftuEob2Ht92LOULNO6DUZGl4TV1kpu8UKWQuvpj3316ff4k3FPULkV/DdvpMNbzuzK1KJZDRPcLuzl1bjMG2mEbQDD2k1DXNHZ6JjYJR7Pf20C08rvNbeB7T1DtHWN0z3gzF0g2a0fUNoNH/TrdMzPj2HND9rQdepZdDUx6Cxl6EBE/29BvRdHTbd33efoX4jw4P9Nm0S3tL6yDzC2OgIel03Or0Bs9nMonUB6bFlFr1ej8Fwn/Z2LVqtFl1Pjzixh65uHUajScw69AaDTfcZjXR0dtr2Orq6MXR3YDZqscxMsghIT57MYf5njJGHozbMY48Yn/iX6elpLBYLExMTjI+PMzU1ZZtnZmZsLM2Tk5PMPp6CBQvWZ09ZXFxEWnhmxfJkntm5p4J5Mc8x93SB//sttXomflYRZrVa+Q8QzD++ZMi+ogAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/70269f3d785258249cc01b36e0eb8bf3/f04b0/twitter-cards.webp 148w,
-/static/70269f3d785258249cc01b36e0eb8bf3/30287/twitter-cards.webp 295w,
-/static/70269f3d785258249cc01b36e0eb8bf3/cb54b/twitter-cards.webp 590w,
-/static/70269f3d785258249cc01b36e0eb8bf3/a0c6e/twitter-cards.webp 884w&quot;
-          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/70269f3d785258249cc01b36e0eb8bf3/ce5e3/twitter-cards.png 148w,
-/static/70269f3d785258249cc01b36e0eb8bf3/0df5d/twitter-cards.png 295w,
-/static/70269f3d785258249cc01b36e0eb8bf3/03198/twitter-cards.png 590w,
-/static/70269f3d785258249cc01b36e0eb8bf3/df462/twitter-cards.png 884w&quot;
-          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-          type=&quot;image/png&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/70269f3d785258249cc01b36e0eb8bf3/03198/twitter-cards.png&quot;
-          alt=&quot;twitter cards&quot;
-          title=&quot;&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;This great idea come from a &lt;a href=&quot;https://twitter.com/_maxpou/status/1054106299213012992&quot;&gt;conversation&lt;/a&gt; I had with Luciano Mammino (aka &lt;a href=&quot;https://twitter.com/loige&quot;&gt;@Loige&lt;/a&gt;). I basically took 85% of his code. Thanks Luciano 😊&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;How to do it?&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;In a terminal, run &lt;code class=&quot;language-text&quot;&gt;npm run dev&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;In a second terminal, run: &lt;code class=&quot;language-text&quot;&gt;npm run generatePostPreviewImages&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;In the post’s header, add the generated images:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;yaml&quot;&gt;&lt;pre class=&quot;language-yaml&quot;&gt;&lt;code class=&quot;language-yaml&quot;&gt;&lt;span class=&quot;token key atrule&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; My blog post
-&lt;span class=&quot;token comment&quot;&gt;# ...&lt;/span&gt;
-&lt;span class=&quot;token key atrule&quot;&gt;imageTw&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; ./gatsby&lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;starter&lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;morning&lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;dew&lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;v1&lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;1&lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;tw.png
-&lt;span class=&quot;token key atrule&quot;&gt;imageFb&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; ./gatsby&lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;starter&lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;morning&lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;dew&lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;v1&lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;1&lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;fb.png&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Gatsby will first create extra url suffixed by &lt;code class=&quot;language-text&quot;&gt;/image_tw&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;/image_fb&lt;/code&gt; (i.e. &lt;em&gt;&lt;a href=&quot;http://localhost:8000/gatsby-starter-morning-dew-v1-1/image_tw&quot;&gt;http://localhost:8000/gatsby-starter-morning-dew-v1-1/image_tw&lt;/a&gt;&lt;/em&gt;). Then, Pupetter will take a snapshot and add it to your post folder.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Quick tip:&lt;/strong&gt; If you want to recreate this pictures&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# delete Facebook images&lt;/span&gt;
-&lt;span class=&quot;token function&quot;&gt;find&lt;/span&gt; ./content -name &lt;span class=&quot;token string&quot;&gt;&quot;*-fb.png&quot;&lt;/span&gt; -type f -delete
-&lt;span class=&quot;token comment&quot;&gt;# delete Twitter images&lt;/span&gt;
-&lt;span class=&quot;token function&quot;&gt;find&lt;/span&gt; ./content -name &lt;span class=&quot;token string&quot;&gt;&quot;*-tw.png&quot;&lt;/span&gt; -type f -delete&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;If you don’t to skip the file generation for some posts, add &lt;code class=&quot;language-text&quot;&gt;generate-card: false&lt;/code&gt; to the post’s header.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;yaml&quot;&gt;&lt;pre class=&quot;language-yaml&quot;&gt;&lt;code class=&quot;language-yaml&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;---&lt;/span&gt;
-&lt;span class=&quot;token key atrule&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; My blog post
-&lt;span class=&quot;token comment&quot;&gt;# ...&lt;/span&gt;
-&lt;span class=&quot;token key atrule&quot;&gt;generate-card&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token boolean important&quot;&gt;false&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;---&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&quot;-css-in-js-styled-components&quot;&gt;&lt;a href=&quot;#-css-in-js-styled-components&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;💅 CSS-in-JS (styled-components)&lt;/h2&gt;
-&lt;p&gt;I added a library called &lt;a href=&quot;https://www.styled-components.com&quot;&gt;styled-components&lt;/a&gt; which allow me to create components like this:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;jsx&quot;&gt;&lt;pre class=&quot;language-jsx&quot;&gt;&lt;code class=&quot;language-jsx&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; Title &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; styled&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;h1&lt;span class=&quot;token template-string&quot;&gt;&lt;span class=&quot;token string&quot;&gt;`
-  font-size: 1.5em;
-  text-align: center;
-  color: palevioletred;
-`&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Title&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token plain-text&quot;&gt;
-  Hello World!
-&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Title&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Main motivations were:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Avoid name collision&lt;/strong&gt;. During the development I face a problem where component’s CSS had collision with other components. Now this problem is fixed. Styled component assing uniq class identifer (example &lt;code class=&quot;language-text&quot;&gt;class=&amp;quot;Article__ArticleWrapper-dSJTpe loVbTg&amp;quot;&lt;/code&gt;).&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Automatic critical CSS&lt;/strong&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Cleaner file architecture&lt;/strong&gt;. I previously had a redundant file organisation. For 1 component, I end up with 1 folder and 2 files with the same name (but a different extension).&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# Before&lt;/span&gt;
-├── components/
-│   ├── Article
-│   │   ├── Article.css
-│   │   └── Article.js
-│   ├── Content
-│   │   ├── Content.css
-│   │   └── Content.js
-│   └── &lt;span class=&quot;token punctuation&quot;&gt;..&lt;/span&gt;.
-
-&lt;span class=&quot;token comment&quot;&gt;# Now&lt;/span&gt;
-├── components/
-│   ├── Article.js
-│   ├── Content.js&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Biggest cons: files are now larger!&lt;/p&gt;
-&lt;h2 id=&quot;pagination&quot;&gt;&lt;a href=&quot;#pagination&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Pagination&lt;/h2&gt;
-&lt;p&gt;&lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 13.778409090909092%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAYAAACTWi8uAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAk0lEQVQI122MzQqDMBCEfb/SU3+lUSnSpzVVmwgWwUs0JgHfYZpd8FDawzDL7HyTVJWElE9UUU3TYp7nH1lr/2bGGGaIJ9V1g2S3P0DkJY5ngbx4cDmEAOcc+zRNGIYB4zjyyPZb1xV9/4bISqS3O06XDNe0QNK+FHTXQSnNTmXvPfsmGlqW5SujDuVaR1Zr5lW8P2Iiy85fWiGLAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/7987ca3669f44f64e0e14950053fbec8/f04b0/pagination.webp 148w,
-/static/7987ca3669f44f64e0e14950053fbec8/30287/pagination.webp 295w,
-/static/7987ca3669f44f64e0e14950053fbec8/cb54b/pagination.webp 590w,
-/static/7987ca3669f44f64e0e14950053fbec8/d0733/pagination.webp 885w,
-/static/7987ca3669f44f64e0e14950053fbec8/3bc83/pagination.webp 1180w,
-/static/7987ca3669f44f64e0e14950053fbec8/6e7f8/pagination.webp 1408w&quot;
-          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/7987ca3669f44f64e0e14950053fbec8/ce5e3/pagination.png 148w,
-/static/7987ca3669f44f64e0e14950053fbec8/0df5d/pagination.png 295w,
-/static/7987ca3669f44f64e0e14950053fbec8/03198/pagination.png 590w,
-/static/7987ca3669f44f64e0e14950053fbec8/37596/pagination.png 885w,
-/static/7987ca3669f44f64e0e14950053fbec8/e107c/pagination.png 1180w,
-/static/7987ca3669f44f64e0e14950053fbec8/ba67b/pagination.png 1408w&quot;
-          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-          type=&quot;image/png&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/7987ca3669f44f64e0e14950053fbec8/03198/pagination.png&quot;
-          alt=&quot;pagination&quot;
-          title=&quot;&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Pagination is now available. By default, there’s 6 posts per page. You can change this value in &lt;code class=&quot;language-text&quot;&gt;siteConfig.js&lt;/code&gt;:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;exports &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token comment&quot;&gt;// ...&lt;/span&gt;
-  postsPerPage&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;token comment&quot;&gt;// ...&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&quot;other&quot;&gt;&lt;a href=&quot;#other&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Other&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Few CSS improvements. Example:
-&lt;code style=&quot;background: #2d2d2d; border-radius: .3em; padding: .1em; color: #ccc;&quot;&gt;previous code tag&lt;/code&gt; … &lt;code class=&quot;language-text&quot;&gt;new code tag&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Generate WebP images (withWebp option in &lt;a href=&quot;https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-remark-images#options&quot;&gt;gatsby-remark-images&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Disqus support on pages (previously only supported on blog posts)&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Goals for 2018]]></title><description><![CDATA[Intro I have started reading books in 2018 and found a lost love I once had from high school. I saw a video from Dain Miller entitled  “How…]]></description><link>https://frankpigeon.com/2018-02-21-2018-goals-for-2018/</link><guid isPermaLink="false">https://frankpigeon.com/2018-02-21-2018-goals-for-2018/</guid><pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;intro&quot;&gt;&lt;a href=&quot;#intro&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Intro&lt;/h2&gt;
+&lt;p&gt;I am so glad that I was able to attend the conference. My heart is fire to disrupt our current rhythm and implement change.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Goals for 2018]]></title><description><![CDATA[Intro I have started reading books in 2018 and found a lost love I once had from high school. I saw a video from Dain Miller entitled  “How…]]></description><link>https://frankpigeon.com/2018-02-21-2018-goals-for-2018/</link><guid isPermaLink="false">https://frankpigeon.com/2018-02-21-2018-goals-for-2018/</guid><pubDate>Wed, 21 Feb 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;intro&quot;&gt;&lt;a href=&quot;#intro&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Intro&lt;/h2&gt;
 &lt;p&gt;I have started reading books in 2018 and found a lost love I once had from high school. I saw a video from Dain Miller entitled &lt;strong&gt;“How to Improve as a Programmer - DON’T WRITE MORE CODE, READ MORE”&lt;/strong&gt;.&lt;/p&gt;
 &lt;div&gt;
           &lt;div
@@ -1130,7 +976,7 @@
 &lt;li&gt;&lt;strong&gt;The One Thing&lt;/strong&gt; by Gary Keller&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Deep Work&lt;/strong&gt; by Cal Newport&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Anything You Want&lt;/strong&gt; by Derek Silvers&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;12 Rules for Life: An Antidote for Choas&lt;/strong&gt; by Jordan Peterson&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;12 Rules for Life: An Antidote for Chaos&lt;/strong&gt; by Jordan Peterson&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;The Pragmatic Programmer: From Journeyman to Master&lt;/strong&gt; by Andy Hunt&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Clean Code: A Handbook of Agile Software Craftsmanship&lt;/strong&gt; by Robert C. Martin&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;The Selfish Gene&lt;/strong&gt; by Richards Dawkins&lt;/li&gt;
