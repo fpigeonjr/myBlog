@@ -11,7 +11,7 @@ class SEO extends React.Component {
       : siteConfig.siteTitle
     const formatedSiteUrl = siteConfig.siteUrl.substring(
       0,
-      siteConfig.siteUrl.length - 1
+      siteConfig.siteUrl.length
     )
     const imagePath =
       this.props.imageFb || this.props.cover || withPrefix(siteConfig.siteCover)
