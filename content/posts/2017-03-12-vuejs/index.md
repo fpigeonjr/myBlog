@@ -3,13 +3,13 @@ title: World of Vue.js
 slug: vue
 date: 2017-03-12
 language: en
-imageTw: ./vue.jpg
-imageFb: ./vue.jpg
+imageTw: ./vue-tw.png
+imageFb: ./vue-fb.png
 cover: ./vue.jpg
 generate-card: true
 tags:
-    - javaScript
-    - vue
+  - javaScript
+  - vue
 ---
 
 ## Learning Javascript in 2017
@@ -35,7 +35,7 @@ Right away I fell in love.
 There is no complicated setup. All you do is drop in one javascript tag and you are ready to go. No fancy setup required.
 
 ```js
-<script src="https://unpkg.com/vue"></script>
+<script src="https://unpkg.com/vue" />
 ```
 
 Next, you'll want to setup your template.
@@ -43,24 +43,18 @@ Next, you'll want to setup your template.
 #### html
 
 ```html
-
-<div id="app">
-    {{ message }}
-</div>
-
+<div id="app">{{ message }}</div>
 ```
 
 #### javascript
 
 ```javascript
-
 var app = new Vue({
-    el: '#app',
-    data: {
-        message: 'Hello World'
-    }
+  el: '#app',
+  data: {
+    message: 'Hello World',
+  },
 })
-
 ```
 
 Congrats you have just setup your first Vue app. We are telling Vue to connect to the id `app` and then we are passing in the data `message` using the mustache syntax `{{ message }}`.
@@ -68,7 +62,6 @@ Congrats you have just setup your first Vue app. We are telling Vue to connect t
 Vue.js is simple to work with and just makes sense. There is a clear separation from your markup, your logic, and styling. Contrasting React's JSX, everything was jumbled up in there.
 
 Bonus: It doesn't hurt that you have one of the best teacher's with Jeffrey Way. I really recommend his free Vue.js 2 course entitled [Learn Vue 2: Step By Step][laracast-vue].
-
 
 After completing the course I was so excited to learn more about Vue that I started reading a book named [Learning Vue.js 2][book] by Olga Filipova.
 

@@ -4,28 +4,27 @@ slug: goals-for-2017
 date: 2017-02-25
 cover: ./coast.jpg
 language: en
-imageTw: ./coast.jpg
-imageFb: ./coast.jpg
+imageTw: ./goals-for-2017-tw.png
+imageFb: ./goals-for-2017-fb.png
 generate-card: true
 tags:
-    - goals
-    - commitment
-    - resources
-    - roadmaps
+  - goals
+  - commitment
+  - resources
+  - roadmaps
 ---
 
 ## Everyone has goals
 
-As we started  a new year, it seems like everyone was talking about setting new years' resolutions. A few months into the year many lose focus on what they wanted to achieve.
+As we started a new year, it seems like everyone was talking about setting new years' resolutions. A few months into the year many lose focus on what they wanted to achieve.
 
-So I am going to write them down here on my blog so I can stay commited to them and look back __in case I get lost along the way__.
+So I am going to write them down here on my blog so I can stay commited to them and look back **in case I get lost along the way**.
 
 ### Spiritual
 
 Start with putting God first. I want to attend church weekly and attend a bible study.
 
-> Seek the Kingdom of God above all else, and live righteously, and he will give you everything you need. <br>
-> **Matthew 6:33**
+> Seek the Kingdom of God above all else, and live righteously, and he will give you everything you need. <br> > **Matthew 6:33**
 
 ### Family
 
@@ -37,30 +36,29 @@ Attend the local bootcamp at least twice a week.
 
 ### Professional
 
-* Learn ~~React~~ Vue and full stack Javascript
-* Learn to deploy apps on Dokku
+- Learn ~~React~~ Vue and full stack Javascript
+- Learn to deploy apps on Dokku
 
 ```js
-
 // TODO: code every day
-
 ```
 
 #### Learning Resources
-* [Official Facebook Tutorial][fb-tut]
-* [Laracast React Course][laracast]
-* [Lynda React Essentails][lynda-react]
-* [Lynda Learning Redux][lynda-redux]
-* [React Fundamentals][react-fundamentals]
-* [React for Beginners by Wes Bos][wesbos-react]
-* [Learn Redux by Wes Bos][wesbos-redux]
-* [React Intro from Front End Masters][frontend-masters]
-* [React Native Todo MVC on egghead][react-native-egghead]
-* [Getting Started with Redux on egghead][redux-egghead]
-* [Road to learn React ebook][react-ebook]
-* [Github Repo Full of Resources][awesome-react]
-* [Javascript Frameworks To Learn on medium][js-medium]
-* [Study plan to cure Javascript Fatigue on medium][js-fatigue]
+
+- [Official Facebook Tutorial][fb-tut]
+- [Laracast React Course][laracast]
+- [Lynda React Essentails][lynda-react]
+- [Lynda Learning Redux][lynda-redux]
+- [React Fundamentals][react-fundamentals]
+- [React for Beginners by Wes Bos][wesbos-react]
+- [Learn Redux by Wes Bos][wesbos-redux]
+- [React Intro from Front End Masters][frontend-masters]
+- [React Native Todo MVC on egghead][react-native-egghead]
+- [Getting Started with Redux on egghead][redux-egghead]
+- [Road to learn React ebook][react-ebook]
+- [Github Repo Full of Resources][awesome-react]
+- [Javascript Frameworks To Learn on medium][js-medium]
+- [Study plan to cure Javascript Fatigue on medium][js-fatigue]
 
 [fb-tut]: https://facebook.github.io/react/tutorial/tutorial.html
 [laracast]: https://laracasts.com/series/do-you-react

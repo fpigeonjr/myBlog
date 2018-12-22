@@ -4,22 +4,22 @@ slug: postcss
 date: 2017-03-01
 cover: ./postcss.jpg
 language: en
-imageTw: ./postcss.jpg
-imageFb: ./postcss.jpg
+imageTw: ./postcss-tw.png
+imageFb: ./postcss-fb.png
 generate-card: true
 tags:
-    - css
-    - frontend
-    - tools
+  - css
+  - frontend
+  - tools
 ---
 
 ## Working with PostCSS
 
 I've been using `SASS` for quite some time now as my go to CSS pre-processor. It felt very familiar coming from vanilla CSS, or **Cascading Style Sheets** but gives you conveniances like:
 
-* variables for colors, fonts, etc
-* nesting!
-* mixins
+- variables for colors, fonts, etc
+- nesting!
+- mixins
 
 I remember on my first project that I was introduced to SASS, I was impressed on how quickly I adopted it and became a fan.
 
@@ -58,18 +58,18 @@ We'll configure our `webpack.config.js` like so:
 
 ```js
 module.exports = {
-    module: {
+  module: {
+    loaders: [
+      {
+        test: /\.css$/,
         loaders: [
-            {
-                test: /\.css$/,
-                loaders: [
-                    'style-loader',
-                    'css-loader?importLoaders=1',
-                    'postcss-loader'
-                ]
-            }
-        ]
-    }
+          'style-loader',
+          'css-loader?importLoaders=1',
+          'postcss-loader',
+        ],
+      },
+    ],
+  },
 }
 ```
 
@@ -77,10 +77,7 @@ Then create a `postcss.config.js` file which contains your plugins. In the code 
 
 ```js
 module.exports = {
-    plugins: [
-        require('precss'),
-        require('autoprefixer')
-    ]
+  plugins: [require('precss'), require('autoprefixer')],
 }
 ```
 
@@ -90,12 +87,11 @@ If you're curiuos to which plugins exists, you can checkout [PostCSS.parts][post
 
 Some popular PostCSS plugins are:
 
-* [cssnano][cssnano]: compresses your css
-* [autoprefixer][autoprefixer]: parse css and add vendor prefixes
-* [cssnext](http://cssnext.io/ ): use tomorrow's css syntax, today
-* [preCSS][preCSS]: Sass-like markup in your CSS files
-* [lostGrid][lostgrid]: powerful grid system
-
+- [cssnano][cssnano]: compresses your css
+- [autoprefixer][autoprefixer]: parse css and add vendor prefixes
+- [cssnext](http://cssnext.io/): use tomorrow's css syntax, today
+- [preCSS][precss]: Sass-like markup in your CSS files
+- [lostGrid][lostgrid]: powerful grid system
 
 ## Closing
 
@@ -111,6 +107,6 @@ Ray Villalobos at Lynda has a great course on getting started with PostCSS named
 [webpack-postcss]: https://github.com/postcss/postcss-loader
 [cssnano]: http://cssnano.co/
 [autoprefixer]: https://github.com/postcss/autoprefixer
-[preCSS]: https://github.com/jonathantneal/precss
+[precss]: https://github.com/jonathantneal/precss
 [lostgrid]: https://github.com/peterramsing/lost
 [lynda]: https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html

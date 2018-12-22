@@ -4,12 +4,12 @@ slug: hello-world
 date: 2017-02-24
 language: en
 cover: ./code.jpg
-imageTw: ./code.jpg
-imageFb: ./code.jpg
+imageTw: ./hello-world-tw.png
+imageFb: ./hello-world-fb.png
 generate-card: true
 tags:
-    - beginning
-    - blogging
+  - beginning
+  - blogging
 ---
 
 ## My First Post

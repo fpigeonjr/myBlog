@@ -3,8 +3,8 @@ title: Poorman's Standing Desk
 slug: poormans-standing-desk
 date: 2018-12-17
 language: en
-imageTw: ./post-image.jpg
-imageFb: ./post-image.jpg
+imageTw: ./poormans-standing-desk-tw.png
+imageFb: ./poormans-standing-desk-fb.png
 cover: ./post-image.jpg
 generate-card: true
 tags:

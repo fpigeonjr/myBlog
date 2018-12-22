@@ -4,13 +4,13 @@ slug: top3-gartner-takeaways
 date: 2018-12-10
 cover: ./gartner-2018.png
 language: en
-imageTw: ./gartner-2018.png
-imageFb: ./gartner-2018.png
+imageTw: ./top3-gartner-takeaways-tw.png
+imageFb: ./top3-gartner-takeaways-fb.png
 generate-card: true
 tags:
-    - vision
-    - trends
-    - conference
+  - vision
+  - trends
+  - conference
 ---
 
 ## 2018 Gartner Application Strategies and Solutions Summit
