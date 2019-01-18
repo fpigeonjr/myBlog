@@ -18,23 +18,23 @@ tags:
 
 ❤️ Another year has come and gone...
 
-and now I am focusing on 2019. [While 2018 was a great year](https://frankpigeon.com/2018-year-in-review), I want to take the momentum I've built into the new year.
+and now I am looking forward to 2019. [While 2018 was a great year](https://frankpigeon.com/2018-year-in-review), I want to take the momentum I've built into the new year.
 
-There is **nothing special about January 1st** but many take this date to _signify a new start_, _a new beginning_. I think I started my New Years resolution in October 2018 and found that I was starting all these new habits and I want to continue them in 2019.
+There is **nothing special about January 1st**, but many take this date to _signify a new start_, _a new beginning_. I started my New Years resolutions in November 2018 and found that I was starting all these new positive habits and I want to continue them in 2019.
 
 ## Habits, Not Goals
 
 ![habits](./habits.jpg)
 
-[If you haven't read Atomic Habits by James Clear, go check it out!](https://jamesclear.com/book/atomic-habits) It is definitely one of the greatest books of 2018.
+[If you haven't read Atomic Habits by James Clear, go check it out!](https://jamesclear.com/book/atomic-habits) It is definitely one of the greatest books of 2018 in my opinion.
 
 > Goals are about the results you want to achieve. Systems are about the processes that lead to those results.
 
-In one of the early chapters James says to forget about goals and focus rather on the systems that will get you to reach your goals.
+In the early chapters, James says to _forget about goals_ and **focus rather on the systems** that will get you to reach your goals.
 
 > Goals are good for setting a direction, but systems are best for making progress.
 
-I have set goals before and while I have reached many of them, I probably have failed to reach many more of them. So instead of goals, I am going to focus on **habits**( aka systems) instead of goals.
+I have set goals before and while I have reached many of them, I probably have failed to reach many more of them. Another problem is, what do you do _once you reach a goal_? Many just move onto the next thing. So instead of goals, I am going to focus on **habits**( aka systems) instead.
 
 > 🔥You do not rise to the level of your goals. You fall to the level of your systems.
 
@@ -42,19 +42,19 @@ I have set goals before and while I have reached many of them, I probably have f
 
 ![bible](/bible-open.jpg)
 
-🕊️Putting God first is important. He has given me life so I will start the day in His Word.
+🕊️Putting God first is important. He has given me eternal life so I will start the day in His Word.
 
-One of my daily morning habits is to **_read one Bible chapter everyday_** and also journal about it. God speaks though his Word and the more time you spend Him, the more you get to know God and can meditate on it throughout the day.
+One of my daily morning habits is to **_read one Bible chapter everyday_** and also journal about it. God speaks though His Word and the more time you spend Him, the more you get to know God and can meditate on it throughout the day.
 
-I started in Proverbs and then Ecclesiastes. Now I have gone back and started reading Proverbs.
+I started in Proverbs and then read Ecclesiastes. Now I have started reading Psalms.
 
 ### 2. Read More Books
 
 ![kindle](./kindle.jpg)
 
-I have read a bunch of books last year. I find that it makes me happy and helps me wind down and get to sleep. This is something new for me since I had not read much in the past. I am finding that I would rather read than watch a movie.
+I have read a bunch of books last year. I find that it exposes me to new ideas, makes me happy, and helps me wind down and get to sleep. This is something new for me since I had not read much in my thirties. I am finding that I would rather read than watch a movie.
 
-❤️I love my minimalist Kindle reader since that is all it does. It allows you to consume books with no distractions. 😂Twitter is not a tab away.
+❤️I love my [minimalist Kindle](http://www.rodrigofranco.com/MinimalKindle.html) reader since that is all it does. It allows you to consume books with no distractions. 😂Twitter is not a tab away.
 
 Here are some books I have queued up on my Kindle.
 
@@ -78,9 +78,11 @@ I have invested in an Apple Watch and find that its **Activities app** is great!
 
 **My habit is to close my rings daily**.
 
-I can usually get my 10K steps a day without too much effort but the hard won is to get the 30 minutes of exercise.
+I can usually get my 10K steps a day without too much effort but the hard one is to get the 30 minutes of exercise.
 
-I am subscribed to [Daily Burn](https://dailyburn.com) so it removes all friction of getting to the gym. I just fire up the tv and I have a trainer and a program to do. Bonus, my wife can join me and be my accountability partner.
+I am subscribed to [Daily Burn](https://dailyburn.com) so it removes all friction of getting to the gym. I just fire up the app, cast it to the tv, and I have a trainer and a program to do.
+
+💪Bonus, my wife can join me and be my accountability partner.
 
 ### 4. Family Life
 
@@ -114,19 +116,19 @@ As a Dave Ramsey fan, we are on Baby Step 2 of **The Total Money Makeover**. We 
 
 ![code](./code.jpg)
 
-👨‍💻JavaScript is where it is for me.
+👨‍💻JavaScript is where it's at for me.
 
-I will continue to explore this language and all its ecosystem. Work has been getting really exciting with more React projects, Gatsby for public facing websites, and GraphQL to interface with the data.
+I will continue to explore this language and its ecosystem. Work has been getting really exciting with more React projects, Gatsby for public facing websites, and GraphQL to interface with the data.
 
-**The habit is to spend 10 minutes on a personal project, tutorial, or code challenge a day**. Practice, repetition, and going deep on the fundamentals is where I will be applying myself.
+**The habit is to spend 10 minutes on a personal project, tutorial, or code challenge a day**. Practice, repetition, going deep on the fundamentals, and challenging myself is the way to hone my craft.
 
-I can check my commit log to see if I am on track. Should be lots of green!
+[I can check my commit log](https://github.com/fpigeonjr) to see if I am on track. Should be lots of green!
 
 ## Conclusion
 
 🎉I am so excited to see what God has planned for 2019!
 
-I am expecting that it is going to be a year full of miracles, blessings, and overflow. I am asking God for direction, that he be my roadmap in 2019. _Where do you want me to go Lord?_
+I am expecting that it is going to be a year full of miracles, blessings, and overflow. I am asking God for direction, that He be my roadmap in 2019. _Where do you want me to go Lord?_
 
 > Even though I walk through the valley of the shadow of death,
 > I will fear no evil,
