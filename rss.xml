@@ -1,4 +1,368 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[frankpigeon.com]]></title><description><![CDATA[Frank Pigeon's Blog]]></description><link>https://frankpigeon.com</link><generator>RSS for Node</generator><lastBuildDate>Fri, 18 Jan 2019 16:21:35 GMT</lastBuildDate><item><title><![CDATA[Habits for 2019]]></title><description><![CDATA[Intro ❤️ Another year has come and gone… and now I am looking forward to 2019.  While 2018 was a great year , I want to take the momentum I…]]></description><link>https://frankpigeon.com/2019-01-14-habits-for-2019/</link><guid isPermaLink="false">https://frankpigeon.com/2019-01-14-habits-for-2019/</guid><pubDate>Mon, 14 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;intro&quot;&gt;&lt;a href=&quot;#intro&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Intro&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[frankpigeon.com]]></title><description><![CDATA[Frank Pigeon's Blog]]></description><link>https://frankpigeon.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 28 Jan 2019 23:39:24 GMT</lastBuildDate><item><title><![CDATA[Habits to be a Better Developer]]></title><description><![CDATA[Intro I’ve been doing quite a bit of reading lately and came across the  80/20 rule  or the  Pareto’s principle . It can be seen everywhere…]]></description><link>https://frankpigeon.com/2019-01-28-habits-to-be-a-better-developer/</link><guid isPermaLink="false">https://frankpigeon.com/2019-01-28-habits-to-be-a-better-developer/</guid><pubDate>Mon, 28 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;intro&quot;&gt;&lt;a href=&quot;#intro&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Intro&lt;/h2&gt;
+&lt;p&gt;I’ve been doing quite a bit of reading lately and came across the &lt;strong&gt;80/20 rule&lt;/strong&gt; or the &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Pareto_principle&quot;&gt;&lt;strong&gt;&lt;em&gt;Pareto’s principle&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;. It can be seen everywhere like in wealth distribution, books, song writers, etc. i.e. &lt;em&gt;80% of the land was owned by 20% of the people.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The Pareto principle (also known as the 80/20 rule, the law of the vital few, or the principle of factor sparsity) states that, for many events, roughly 80% of the effects come from 20% of the causes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wikipedia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A specific example in the book &lt;strong&gt;“The One Thing”&lt;/strong&gt;, the author wanted to be a better guitar player, so he asked his guitar teacher, “If I can only practice 20 minutes a day, what is the one thing I should practice?” &lt;strong&gt;He chose the minor blues scale.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 94.93087557603687%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAYAAACQjC21AAAACXBIWXMAAAsSAAALEgHS3X78AAACt0lEQVQ4y41TaU/bQBDN//8NbSkp5QoSNISqEhJI3BJ8giKaxI4dOz5yO3GciySv8wac5kNbZaXxnPv27cw6M5/P0Y36iKIY3W4P8WCITidCR+xeLxZbYnGCSOxI6mgzniRjtNsR+uLH8VD8IRaLBTKz2QxO9QW+V4LnFlEPDPi1IlyJtVtVBBJvhKbESgjfc4FfRihCzZzrSG2zgvl8igw/dnEb9q9NeJVtWC+izW04pS344jPmlrfgiFgvWanLwjW+IrB2tK5GMbKouycCOCPDiRQciOwitA+kYE9A9lVoO+VdtX1rX23GXGNvWetbOZFdBNXvAvgqgK8TKdyR0z8JEzLYQPnnR/E3hMEXjZEBhbZb3kS1+Flz1E4pK7Uf4FnfpIdk+DrSk+vOsdL2rDx8+82mDp0CGmLXnRNh8e7XTjRfF7sT/ECzdoyWfyGA87ceDnolDAaxyOBdxzLJHobDoUwwxmg0WtrU9OO4r3aSDHQftU55Pl+gXm/CcVxYlg3TrIjtwDBM1ZVKBeWygWq1KnlLtW3bqpmv1WpSY8F13T/Pxvc9eJ6HMAzRbDZVWq03SWONRkN1EATy/tqSa8k+X/cxxvwS0DRNZUIGFMMw9HQWkQlPJyvmisWi+sxzX7qXPn+SDFE7nY5Kv88/JlL78fERNzc3eHp6UgZpnJr97Xa7KvS5j2BcGawsgnOx4OrqSvtTKBSU2Wr+X0uvzE8q6SnsG6/Fq/D6ZMjF/Gr93ySTnpqCEejw8BD5fF795+dnbX7K4H+yvHLqsCcPDw/K7OzsTAdxf3+vU13nygq42rejoyPkcjkFvru7U9YczGQyWR8wLeQ1r6+vlSGHQWbT6VRjaTvWBkySBKenp7i9vcXFxYUO4vz8XPtJ4NX+rQU4Ho9xeXmpwiHwvfHa/HdTkHXAuH4DG8yGoS6ZnXQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/0f0a68b5907c8d66cd895be799d43b66/f04b0/oneThing.webp 148w,
+/static/0f0a68b5907c8d66cd895be799d43b66/30287/oneThing.webp 295w,
+/static/0f0a68b5907c8d66cd895be799d43b66/cb54b/oneThing.webp 590w,
+/static/0f0a68b5907c8d66cd895be799d43b66/752b8/oneThing.webp 651w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/0f0a68b5907c8d66cd895be799d43b66/ce5e3/oneThing.png 148w,
+/static/0f0a68b5907c8d66cd895be799d43b66/0df5d/oneThing.png 295w,
+/static/0f0a68b5907c8d66cd895be799d43b66/03198/oneThing.png 590w,
+/static/0f0a68b5907c8d66cd895be799d43b66/98a17/oneThing.png 651w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/0f0a68b5907c8d66cd895be799d43b66/03198/oneThing.png&quot;
+          alt=&quot;one thing&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;So it got me thinking what would be the equivalent for web development? I asked our most productive developer in our office and this is what he said.&lt;/p&gt;
+&lt;h2 id=&quot;habits-to-be-a-better-developer&quot;&gt;&lt;a href=&quot;#habits-to-be-a-better-developer&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Habits to be a Better Developer&lt;/h2&gt;
+&lt;h3 id=&quot;1-consistency&quot;&gt;&lt;a href=&quot;#1-consistency&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. Consistency&lt;/h3&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAFZkmC5iYHUwW6iv//EABsQAQEAAgMBAAAAAAAAAAAAAAIBAxEAECES/9oACAEBAAEFAiGqcPKfcd2fZcuvsumJW9f/xAAWEQADAAAAAAAAAAAAAAAAAAABESD/2gAIAQMBAT8BZj//xAAVEQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAgEBPwEj/8QAGBAAAwEBAAAAAAAAAAAAAAAAAAEhEDH/2gAIAQEABj8CnCvewjIV5//EABsQAQACAwEBAAAAAAAAAAAAAAEAIRExcUFR/9oACAEBAAE/IQOGt9ivlyYEPkxdtVUNkK+zIkbiwW5tl7Ms/9oADAMBAAIAAwAAABBc/wCC/8QAGBEBAQEBAQAAAAAAAAAAAAAAAREAEDH/2gAIAQMBAT8QSYYaXQ95/8QAGREBAAIDAAAAAAAAAAAAAAAAAQARECEx/9oACAECAQE/EAu4lMt5j//EABwQAQEBAQEAAwEAAAAAAAAAAAERACExUWGBof/aAAgBAQABPxCRzU4617cDR+gv9zPwUmEcH0USZcSFoifpzJzQFje4sRR1LNDfi68zb13/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/93ee5ceb4e5c7f16ee48cbd076cc6ffe/e87b9/consistant.webp 148w,
+/static/93ee5ceb4e5c7f16ee48cbd076cc6ffe/404d7/consistant.webp 295w,
+/static/93ee5ceb4e5c7f16ee48cbd076cc6ffe/6c5da/consistant.webp 590w,
+/static/93ee5ceb4e5c7f16ee48cbd076cc6ffe/8fbeb/consistant.webp 885w,
+/static/93ee5ceb4e5c7f16ee48cbd076cc6ffe/ef0b4/consistant.webp 1180w,
+/static/93ee5ceb4e5c7f16ee48cbd076cc6ffe/34ea1/consistant.webp 1400w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/93ee5ceb4e5c7f16ee48cbd076cc6ffe/fc706/consistant.jpg 148w,
+/static/93ee5ceb4e5c7f16ee48cbd076cc6ffe/754cc/consistant.jpg 295w,
+/static/93ee5ceb4e5c7f16ee48cbd076cc6ffe/8e0ad/consistant.jpg 590w,
+/static/93ee5ceb4e5c7f16ee48cbd076cc6ffe/66519/consistant.jpg 885w,
+/static/93ee5ceb4e5c7f16ee48cbd076cc6ffe/c57d2/consistant.jpg 1180w,
+/static/93ee5ceb4e5c7f16ee48cbd076cc6ffe/04170/consistant.jpg 1400w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/93ee5ceb4e5c7f16ee48cbd076cc6ffe/8e0ad/consistant.jpg&quot;
+          alt=&quot;pencil and coffee&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Consistency resonates with me a lot since reading &lt;strong&gt;“Atomic Habits”&lt;/strong&gt; which is about making small habits to increase 1% every day to reach your goal. So being consistent could look like coding 10 minutes a day. Start easy but be consistent.&lt;/p&gt;
+&lt;h3 id=&quot;2-create-more&quot;&gt;&lt;a href=&quot;#2-create-more&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. Create More&lt;/h3&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.76923076923077%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAZXo3Ex0If/EABoQAQACAwEAAAAAAAAAAAAAAAIBEQMSIjH/2gAIAQEAAQUCO1+zBUwbB6Txiz//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwFH/8QAFREBAQAAAAAAAAAAAAAAAAAAABL/2gAIAQIBAT8BW//EABwQAAICAgMAAAAAAAAAAAAAAAABAhESITJBof/aAAgBAQAGPwJVG0OMk1I1EVdnLwvI/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARIUFR/9oACAEBAAE/IdJi8lvgGDkKK1GUwv5Gpg51G2NZ/9oADAMBAAIAAwAAABCz/wD/xAAYEQEBAAMAAAAAAAAAAAAAAAABABEhUf/aAAgBAwEBPxByupHb/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBIVH/2gAIAQIBAT8QeiRR/8QAHRABAAICAgMAAAAAAAAAAAAAAREhADFxgUFRkf/aAAgBAQABPxCVbF9p1goIsmMvMdY3GCLQfi4RGAYXrnJaLhtVWyWt4lQskHBn/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/ac71d07bc6ddd0bfb135274619d25a93/e87b9/create.webp 148w,
+/static/ac71d07bc6ddd0bfb135274619d25a93/404d7/create.webp 295w,
+/static/ac71d07bc6ddd0bfb135274619d25a93/6c5da/create.webp 590w,
+/static/ac71d07bc6ddd0bfb135274619d25a93/8fbeb/create.webp 885w,
+/static/ac71d07bc6ddd0bfb135274619d25a93/ef0b4/create.webp 1180w,
+/static/ac71d07bc6ddd0bfb135274619d25a93/e88a2/create.webp 1770w,
+/static/ac71d07bc6ddd0bfb135274619d25a93/2d4b0/create.webp 1950w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/ac71d07bc6ddd0bfb135274619d25a93/fc706/create.jpg 148w,
+/static/ac71d07bc6ddd0bfb135274619d25a93/754cc/create.jpg 295w,
+/static/ac71d07bc6ddd0bfb135274619d25a93/8e0ad/create.jpg 590w,
+/static/ac71d07bc6ddd0bfb135274619d25a93/66519/create.jpg 885w,
+/static/ac71d07bc6ddd0bfb135274619d25a93/c57d2/create.jpg 1180w,
+/static/ac71d07bc6ddd0bfb135274619d25a93/58788/create.jpg 1770w,
+/static/ac71d07bc6ddd0bfb135274619d25a93/aa029/create.jpg 1950w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/ac71d07bc6ddd0bfb135274619d25a93/8e0ad/create.jpg&quot;
+          alt=&quot;paint&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;It is easy (&lt;em&gt;and default behavior&lt;/em&gt;) to unwind and consume content on endless streams of data on the internet. Having a creator mindset helps in application of concepts and ideas. I love to watch coding tutorials but not applying what I’ve learned can lead to becoming rusty and losing what you have just learned. Countless mentors have always told me to always have a side project.&lt;/p&gt;
+&lt;h3 id=&quot;3-passion&quot;&gt;&lt;a href=&quot;#3-passion&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3. Passion&lt;/h3&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 92.08472686733558%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQDBQH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAeVR5RjXPVKn0ExCf//EABsQAAMAAgMAAAAAAAAAAAAAAAABAgMREBMh/9oACAEBAAEFApjZWNqWQ2js8dLcl8f/xAAXEQEAAwAAAAAAAAAAAAAAAAABABAR/9oACAEDAQE/AQJl/wD/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREQ/9oACAECAQE/AXS7/8QAGRAAAgMBAAAAAAAAAAAAAAAAARAAIDEy/9oACAEBAAY/AoCtXFP/xAAcEAACAgMBAQAAAAAAAAAAAAAAARExIUFhcaH/2gAIAQEAAT8hmbY4iv4LDFPGhTdt2oy6LpH0uvTCiWf/2gAMAwEAAgADAAAAEEfvvf/EABoRAAICAwAAAAAAAAAAAAAAAAARARAhMVH/2gAIAQMBAT8QUyL0jVf/xAAZEQABBQAAAAAAAAAAAAAAAAARAAEQIVH/2gAIAQIBAT8QcVIsn//EABwQAQEAAwEAAwAAAAAAAAAAAAERACExUWGBkf/aAAgBAQABPxBgQh0nMX9bUSxiT0fFxQwRQYDc6BR2uvTBoRPVuN6ue3F7PvDZt/c//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/81e2a77bde93300a2c6989c2241eebfc/e87b9/campfire.webp 148w,
+/static/81e2a77bde93300a2c6989c2241eebfc/404d7/campfire.webp 295w,
+/static/81e2a77bde93300a2c6989c2241eebfc/6c5da/campfire.webp 590w,
+/static/81e2a77bde93300a2c6989c2241eebfc/8fbeb/campfire.webp 885w,
+/static/81e2a77bde93300a2c6989c2241eebfc/97519/campfire.webp 897w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/81e2a77bde93300a2c6989c2241eebfc/fc706/campfire.jpg 148w,
+/static/81e2a77bde93300a2c6989c2241eebfc/754cc/campfire.jpg 295w,
+/static/81e2a77bde93300a2c6989c2241eebfc/8e0ad/campfire.jpg 590w,
+/static/81e2a77bde93300a2c6989c2241eebfc/66519/campfire.jpg 885w,
+/static/81e2a77bde93300a2c6989c2241eebfc/2ea1c/campfire.jpg 897w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/81e2a77bde93300a2c6989c2241eebfc/8e0ad/campfire.jpg&quot;
+          alt=&quot;fire&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This is a hard one to describe but an import one. Having a passion for coding can be different for eveyone. Some things I find to keep my passion are keeping up with trends, reading blogs, listening to podcasts, and watching tutorials. This industry moves so fast. Trying out new libraries or frameworks can bring new life to your projects.&lt;/p&gt;
+&lt;h3 id=&quot;4-release&quot;&gt;&lt;a href=&quot;#4-release&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;4. Release&lt;/h3&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAECAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB51ZpGQTf/8QAGBAAAwEBAAAAAAAAAAAAAAAAAAERAjH/2gAIAQEAAQUCzLMlgutun//EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMRQf/aAAgBAwEBPwHRWSXT/8QAFhEBAQEAAAAAAAAAAAAAAAAAABFB/9oACAECAQE/AcR//8QAGRAAAgMBAAAAAAAAAAAAAAAAABEBECEi/9oACAEBAAY/AkmdQYK//8QAGxABAAEFAQAAAAAAAAAAAAAAAQARITFBYfD/2gAIAQEAAT8hPgEAtszWIVMeka9GId4z/9oADAMBAAIAAwAAABAfP//EABkRAAIDAQAAAAAAAAAAAAAAAAABESFh8P/aAAgBAwEBPxDSEUKnYf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAIAQIBAT8QwepF/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARITFBcf/aAAgBAQABPxCxSxrdQuJBCm6HuEcaHjowg2wxfsM11aVeTrJ//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/eb9b855b009183a2e3499c5212380a61/e87b9/drums.webp 148w,
+/static/eb9b855b009183a2e3499c5212380a61/404d7/drums.webp 295w,
+/static/eb9b855b009183a2e3499c5212380a61/6c5da/drums.webp 590w,
+/static/eb9b855b009183a2e3499c5212380a61/8fbeb/drums.webp 885w,
+/static/eb9b855b009183a2e3499c5212380a61/ef0b4/drums.webp 1180w,
+/static/eb9b855b009183a2e3499c5212380a61/e88a2/drums.webp 1770w,
+/static/eb9b855b009183a2e3499c5212380a61/2d4b0/drums.webp 1950w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/eb9b855b009183a2e3499c5212380a61/fc706/drums.jpg 148w,
+/static/eb9b855b009183a2e3499c5212380a61/754cc/drums.jpg 295w,
+/static/eb9b855b009183a2e3499c5212380a61/8e0ad/drums.jpg 590w,
+/static/eb9b855b009183a2e3499c5212380a61/66519/drums.jpg 885w,
+/static/eb9b855b009183a2e3499c5212380a61/c57d2/drums.jpg 1180w,
+/static/eb9b855b009183a2e3499c5212380a61/58788/drums.jpg 1770w,
+/static/eb9b855b009183a2e3499c5212380a61/aa029/drums.jpg 1950w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/eb9b855b009183a2e3499c5212380a61/8e0ad/drums.jpg&quot;
+          alt=&quot;high hat&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;After doing web development for years, it could lead to a path of burnout. Having a hobby outside of coding can bring help bring balance to your dev life. Hobbies that include things like music, exercise, and the arts can take your mind of the problems you’re dealing with and can bring an escape.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I think doing something with your hands helps. I play drums and I forget everything in the world and concentrate on playing songs. I really think that is part of it.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;5-fearless-approach&quot;&gt;&lt;a href=&quot;#5-fearless-approach&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;5. Fearless Approach&lt;/h3&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABq+W0bkTT/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQMAAhESE//aAAgBAQABBQKiq85k8hAwgLdbbMO//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BGf/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAAMBAAAAAAAAAAAAAAAAAAABEBH/2gAIAQEABj8CrZk//8QAGhABAAMAAwAAAAAAAAAAAAAAAQARMVFhgf/aAAgBAQABPyEtDYG2PsecJrx7irgm6T//2gAMAwEAAgADAAAAEDzv/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERIf/aAAgBAwEBPxCCmP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAITH/2gAIAQIBAT8QR7bf/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARITFB0f/aAAgBAQABPxDDji1dJgNcNIdh0KNcndtS267OzCtL8T7Lmla8an//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/217d8419752f1f788fc5323c070ae747/e87b9/bridge.webp 148w,
+/static/217d8419752f1f788fc5323c070ae747/404d7/bridge.webp 295w,
+/static/217d8419752f1f788fc5323c070ae747/6c5da/bridge.webp 590w,
+/static/217d8419752f1f788fc5323c070ae747/8fbeb/bridge.webp 885w,
+/static/217d8419752f1f788fc5323c070ae747/ef0b4/bridge.webp 1180w,
+/static/217d8419752f1f788fc5323c070ae747/e88a2/bridge.webp 1770w,
+/static/217d8419752f1f788fc5323c070ae747/2d4b0/bridge.webp 1950w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/217d8419752f1f788fc5323c070ae747/fc706/bridge.jpg 148w,
+/static/217d8419752f1f788fc5323c070ae747/754cc/bridge.jpg 295w,
+/static/217d8419752f1f788fc5323c070ae747/8e0ad/bridge.jpg 590w,
+/static/217d8419752f1f788fc5323c070ae747/66519/bridge.jpg 885w,
+/static/217d8419752f1f788fc5323c070ae747/c57d2/bridge.jpg 1180w,
+/static/217d8419752f1f788fc5323c070ae747/58788/bridge.jpg 1770w,
+/static/217d8419752f1f788fc5323c070ae747/aa029/bridge.jpg 1950w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/217d8419752f1f788fc5323c070ae747/8e0ad/bridge.jpg&quot;
+          alt=&quot;bridge&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I fall into the trap of overthinking all the time.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Is this the best approach&lt;/li&gt;
+&lt;li&gt;am I going to have to rewrite this from scratch&lt;/li&gt;
+&lt;li&gt;I am wasting too much time&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But my co-worker says to be &lt;em&gt;fearless&lt;/em&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Sometimes its a fearless approach, i’m not worried about what I am coding I just utilize my skills and just do it.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;You have to just start. Even if its just psuedo-code. Start. You can always refactor and refine later. Get your fingers moving on the keyboard.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If there is something I need to code I don’t necessarily worry about how hard it could be. I just try to break it down to smaller and smaller problems to solve. Then its not hard anymore.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;🔥This is pure fire here. The ability to break down a big problem into smaller more manageable tasks is crucial. With smaller chunks to tackle, it seems not so overwhelming!&lt;/p&gt;
+&lt;h3 id=&quot;6-dont-give-up&quot;&gt;&lt;a href=&quot;#6-dont-give-up&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;6. Don’t Give Up&lt;/h3&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 72.2134178552562%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFFsDGdYUUf/8QAGRAAAwEBAQAAAAAAAAAAAAAAAQIDABES/9oACAEBAAEFApqcJhT6OWhXToVyv1f/xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8BNX//xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8BEX//xAAZEAACAwEAAAAAAAAAAAAAAAAAEQECIRD/2gAIAQEABj8CwcRvFUs9ZB//xAAZEAEAAwEBAAAAAAAAAAAAAAABABExQSH/2gAIAQEAAT8hXeq2e9A6twqxgXgdzYqh0lorSf/aAAwDAQACAAMAAAAQdw//xAAYEQACAwAAAAAAAAAAAAAAAAAAARExYf/aAAgBAwEBPxB2dk6f/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAFRIf/aAAgBAgEBPxBYMh//xAAdEAEBAAEEAwAAAAAAAAAAAAABEQAhQVFhMYGx/9oACAEBAAE/EELkZPe13cAWzgPXjJWt2BhtktP1yxEtdmuAyhBTjP/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/a7097c8bb991f4d5434a0fa7f58e35e4/e87b9/climber.webp 148w,
+/static/a7097c8bb991f4d5434a0fa7f58e35e4/404d7/climber.webp 295w,
+/static/a7097c8bb991f4d5434a0fa7f58e35e4/6c5da/climber.webp 590w,
+/static/a7097c8bb991f4d5434a0fa7f58e35e4/8fbeb/climber.webp 885w,
+/static/a7097c8bb991f4d5434a0fa7f58e35e4/ef0b4/climber.webp 1180w,
+/static/a7097c8bb991f4d5434a0fa7f58e35e4/e88a2/climber.webp 1770w,
+/static/a7097c8bb991f4d5434a0fa7f58e35e4/6c9a9/climber.webp 1893w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/a7097c8bb991f4d5434a0fa7f58e35e4/fc706/climber.jpg 148w,
+/static/a7097c8bb991f4d5434a0fa7f58e35e4/754cc/climber.jpg 295w,
+/static/a7097c8bb991f4d5434a0fa7f58e35e4/8e0ad/climber.jpg 590w,
+/static/a7097c8bb991f4d5434a0fa7f58e35e4/66519/climber.jpg 885w,
+/static/a7097c8bb991f4d5434a0fa7f58e35e4/c57d2/climber.jpg 1180w,
+/static/a7097c8bb991f4d5434a0fa7f58e35e4/58788/climber.jpg 1770w,
+/static/a7097c8bb991f4d5434a0fa7f58e35e4/b8830/climber.jpg 1893w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/a7097c8bb991f4d5434a0fa7f58e35e4/8e0ad/climber.jpg&quot;
+          alt=&quot;climbing&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Inevitably you will run into a challenge in your code. Sometimes when I get stuck, I like to start another task and then return to the original challenge after not thinking about it for a while. Sleep is another great resource for getting unstuck. Surprisingly, your brain continues to work on the problem at a much faster rate than your conscious mind. I am always surprised on how easy I find a solution after getting some rest the next day.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;…I don’t ever give up on something I am trying to do. I might stop but I always come back.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;7-focus-on-finishing&quot;&gt;&lt;a href=&quot;#7-focus-on-finishing&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;7. Focus on Finishing&lt;/h3&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 65.4786150712831%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEAf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAEkkeNGE//EABkQAQEAAwEAAAAAAAAAAAAAAAECAxESIv/aAAgBAQABBQKkV83kHrqtzPeW1q//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGH/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BR//EABcQAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQEABj8CmaSmi0aoz//EABoQAQEBAAMBAAAAAAAAAAAAAAERACExUUH/2gAIAQEAAT8hGGetOZkOqBiTzdBjPuWpyJMrLryuYLAYHhv/2gAMAwEAAgADAAAAEBg//8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAB/9oACAEDAQE/EATl/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAFB/9oACAECAQE/ENSn/8QAGhABAQEBAQEBAAAAAAAAAAAAAREAITFBkf/aAAgBAQABPxCnnQACSX93l4KLFPcQXieDp8cpUWkBO81wYUlVuI18coHA3//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c43ed3bcfbfffa576bfca75b81fbfdc2/e87b9/kanban.webp 148w,
+/static/c43ed3bcfbfffa576bfca75b81fbfdc2/404d7/kanban.webp 295w,
+/static/c43ed3bcfbfffa576bfca75b81fbfdc2/6c5da/kanban.webp 590w,
+/static/c43ed3bcfbfffa576bfca75b81fbfdc2/8fbeb/kanban.webp 885w,
+/static/c43ed3bcfbfffa576bfca75b81fbfdc2/ef0b4/kanban.webp 1180w,
+/static/c43ed3bcfbfffa576bfca75b81fbfdc2/e88a2/kanban.webp 1770w,
+/static/c43ed3bcfbfffa576bfca75b81fbfdc2/bfd5a/kanban.webp 1964w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c43ed3bcfbfffa576bfca75b81fbfdc2/fc706/kanban.jpg 148w,
+/static/c43ed3bcfbfffa576bfca75b81fbfdc2/754cc/kanban.jpg 295w,
+/static/c43ed3bcfbfffa576bfca75b81fbfdc2/8e0ad/kanban.jpg 590w,
+/static/c43ed3bcfbfffa576bfca75b81fbfdc2/66519/kanban.jpg 885w,
+/static/c43ed3bcfbfffa576bfca75b81fbfdc2/c57d2/kanban.jpg 1180w,
+/static/c43ed3bcfbfffa576bfca75b81fbfdc2/58788/kanban.jpg 1770w,
+/static/c43ed3bcfbfffa576bfca75b81fbfdc2/ff345/kanban.jpg 1964w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/c43ed3bcfbfffa576bfca75b81fbfdc2/8e0ad/kanban.jpg&quot;
+          alt=&quot;kanban board&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Focus on finishing is a big one.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;On big projects working on a team it’s easy to get disorganized and lost.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;who is working on what&lt;/li&gt;
+&lt;li&gt;what are the priorities&lt;/li&gt;
+&lt;li&gt;what should we be focusing on&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Staying organized with a kanban board (like trello) and assigning who is working on which tasks is extremely helpful to keep the product flowing smoothly.&lt;/p&gt;
+&lt;p&gt;Being able to visualize the flow, you can keep your eyes on the goal.&lt;/p&gt;
+&lt;h2 id=&quot;summary&quot;&gt;&lt;a href=&quot;#summary&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Unpacking these ideas was very helpful for me, and I hope that you were able to gain some habits you could try out on your road to be a better developer.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Habits for 2019]]></title><description><![CDATA[Intro ❤️ Another year has come and gone… and now I am looking forward to 2019.  While 2018 was a great year , I want to take the momentum I…]]></description><link>https://frankpigeon.com/2019-01-14-habits-for-2019/</link><guid isPermaLink="false">https://frankpigeon.com/2019-01-14-habits-for-2019/</guid><pubDate>Mon, 14 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;intro&quot;&gt;&lt;a href=&quot;#intro&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Intro&lt;/h2&gt;
 &lt;p&gt;❤️ Another year has come and gone…&lt;/p&gt;
 &lt;p&gt;and now I am looking forward to 2019. &lt;a href=&quot;https://frankpigeon.com/2018-year-in-review&quot;&gt;While 2018 was a great year&lt;/a&gt;, I want to take the momentum I’ve built into the new year.&lt;/p&gt;
 &lt;p&gt;There is &lt;strong&gt;nothing special about January 1st&lt;/strong&gt;, but many take this date to &lt;em&gt;signify a new start&lt;/em&gt;, &lt;em&gt;a new beginning&lt;/em&gt;. I started my New Years resolutions in November 2018 and found that I was starting all these new positive habits and I want to continue them in 2019.&lt;/p&gt;
@@ -62,35 +426,29 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAFVsbhgSJ//xAAaEAACAwEBAAAAAAAAAAAAAAAAAQISEwMR/9oACAEBAAEFAoxqNWKkepuvNT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAAQIxECEy/9oACAEBAAY/AtvFHUi2yz//xAAcEAADAAIDAQAAAAAAAAAAAAAAAREhcTFBUZH/2gAIAQEAAT8hYlRWZFyQuxLlWkhonK9hu+H/2gAMAwEAAgADAAAAEN8f/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QAn//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxBWf//EABsQAQACAwEBAAAAAAAAAAAAAAEAESExQZFR/9oACAEBAAE/EM1g1UFYxoQ1FSKI1Z2XcZ2xfsUOgwkV4RAtAfI//9k=&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGmdeiXGmrDIKwn/8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEgMR/9oACAEBAAEFAqDLGpkh0GHnmiF7Eelptn//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAVEQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAgEBPwFj/8QAGxAAAAcBAAAAAAAAAAAAAAAAAAECEBExgSH/2gAIAQEABj8Cl6VgM4VrcMW3/8QAHBABAAICAwEAAAAAAAAAAAAAAQAhEVEQQXGB/9oACAEBAAE/ISiiWMnk2NytfkiRA8RyuS51hwDtn//aAAwDAQACAAMAAAAQLwAB/8QAFREBAQAAAAAAAAAAAAAAAAAAASD/2gAIAQMBAT8QCP/EABURAQEAAAAAAAAAAAAAAAAAAAEg/9oACAECAQE/EGH/xAAbEAEAAwEBAQEAAAAAAAAAAAABABEhMUFR0f/aAAgBAQABPxDCO8OMtEhzHkpygYwq1LstyvsWhGrWM64trU31R6RoKlT3ZZ/M/9k=&apos;); background-size: cover; display: block;&quot;
     &gt;&lt;/span&gt;
     &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/77b1c309a1097dcfac699b2792d1c861/e87b9/bible-open.webp 148w,
-/static/77b1c309a1097dcfac699b2792d1c861/404d7/bible-open.webp 295w,
-/static/77b1c309a1097dcfac699b2792d1c861/6c5da/bible-open.webp 590w,
-/static/77b1c309a1097dcfac699b2792d1c861/8fbeb/bible-open.webp 885w,
-/static/77b1c309a1097dcfac699b2792d1c861/ef0b4/bible-open.webp 1180w,
-/static/77b1c309a1097dcfac699b2792d1c861/e88a2/bible-open.webp 1770w,
-/static/77b1c309a1097dcfac699b2792d1c861/d094c/bible-open.webp 5184w&quot;
+          srcset=&quot;/static/9a8f3134d6094b8acead653f439f375a/e87b9/bible.webp 148w,
+/static/9a8f3134d6094b8acead653f439f375a/404d7/bible.webp 295w,
+/static/9a8f3134d6094b8acead653f439f375a/6c5da/bible.webp 590w,
+/static/9a8f3134d6094b8acead653f439f375a/cd84f/bible.webp 600w&quot;
           sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/77b1c309a1097dcfac699b2792d1c861/fc706/bible-open.jpg 148w,
-/static/77b1c309a1097dcfac699b2792d1c861/754cc/bible-open.jpg 295w,
-/static/77b1c309a1097dcfac699b2792d1c861/8e0ad/bible-open.jpg 590w,
-/static/77b1c309a1097dcfac699b2792d1c861/66519/bible-open.jpg 885w,
-/static/77b1c309a1097dcfac699b2792d1c861/c57d2/bible-open.jpg 1180w,
-/static/77b1c309a1097dcfac699b2792d1c861/58788/bible-open.jpg 1770w,
-/static/77b1c309a1097dcfac699b2792d1c861/9640a/bible-open.jpg 5184w&quot;
+          srcset=&quot;/static/9a8f3134d6094b8acead653f439f375a/fc706/bible.jpg 148w,
+/static/9a8f3134d6094b8acead653f439f375a/754cc/bible.jpg 295w,
+/static/9a8f3134d6094b8acead653f439f375a/8e0ad/bible.jpg 590w,
+/static/9a8f3134d6094b8acead653f439f375a/51d68/bible.jpg 600w&quot;
           sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/77b1c309a1097dcfac699b2792d1c861/8e0ad/bible-open.jpg&quot;
+          src=&quot;/static/9a8f3134d6094b8acead653f439f375a/8e0ad/bible.jpg&quot;
           alt=&quot;bible&quot;
           title=&quot;&quot;
         /&gt;
@@ -822,7 +1180,7 @@ forever. - &lt;strong&gt;Psalm 23:5&lt;/strong&gt;&lt;/p&gt;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQBAwL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAGbOVZj0J4Q6g//xAAbEAEAAgIDAAAAAAAAAAAAAAACAAEDEhEiQf/aAAgBAQABBQJqjPIjveCuxV8Zcy12VS2hP//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABoQAAMAAwEAAAAAAAAAAAAAAAABERAhMUH/2gAIAQEABj8CLi2D9hoSURE3vpFw/8QAHBAAAgMAAwEAAAAAAAAAAAAAAREAITFBUWHR/9oACAEBAAE/IdSPAPoQWMhylQVmRDfhH1USYCkHaCcBJBDiOw4+nk//2gAMAwEAAgADAAAAEPAPPP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EAB4QAQEAAgICAwAAAAAAAAAAAAERADEhQVFhccHR/9oACAEBAAE/EHIWejACqpaReLki0UsTWRNK6k0nXdxCeEMny/MtjdFvn1i8IXD2dz6xTbAIbYbOBwIe8//Z&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHIjYSdFeALgf/EABkQAAMAAwAAAAAAAAAAAAAAAAECAwAREv/aAAgBAQABBQKj84p2NMuFO8moFbU09bPwSQVUFf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABkQAAMBAQEAAAAAAAAAAAAAAAABESESMf/aAAgBAQAGPwIprG3cFCHp0nGVn//EABsQAQADAAMBAAAAAAAAAAAAAAEAESExQVFh/9oACAEBAAE/IWWVGFG+S4ndmdS8RW5PIC3e6e59sGwdSm8hVy0j1ICsV52f/9oADAMBAAIAAwAAABBzyAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAcEAEAAwADAQEAAAAAAAAAAAABABEhMUFhUZH/2gAIAQEAAT8QAGnO9ytGzgQAxdW1+I2MgjfBc98iNqFMbH3cqJcRBg7gE+wiQ9SHWDtpm47qVrbP/9k=&apos;); background-size: cover; display: block;&quot;
     &gt;&lt;/span&gt;
     &lt;picture&gt;
         &lt;source
@@ -856,7 +1214,42 @@ forever. - &lt;strong&gt;Psalm 23:5&lt;/strong&gt;&lt;/p&gt;
         /&gt;
       &lt;/picture&gt;
   &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;So far I am very happy with the results, glad I didn’t have to spend a fortune, and also leaned into my hacker tendencies. We’ll see if it holds up but if it doesn’t, I can always build another one #onthecheap.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Portfolio]]></title><description><![CDATA[Catch of the Day Real-time web application for a fictional trendy seafood market where price and quantity available can change at a moment’s…]]></description><link>https://frankpigeon.com/portfolio/</link><guid isPermaLink="false">https://frankpigeon.com/portfolio/</guid><pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;catch-of-the-day&quot;&gt;&lt;a href=&quot;#catch-of-the-day&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Catch of the Day&lt;/h2&gt;
+&lt;p&gt;So far I am very happy with the results, glad I didn’t have to spend a fortune, and also leaned into my hacker tendencies. We’ll see if it holds up but if it doesn’t, I can always build another one #onthecheap.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Resume]]></title><description><![CDATA[Summary With over 15 years of IT experience, I’m broadening my horizons into web and mobile development. I’m a U.S. Army veteran, hold a…]]></description><link>https://frankpigeon.com/resume/</link><guid isPermaLink="false">https://frankpigeon.com/resume/</guid><pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;summary&quot;&gt;&lt;a href=&quot;#summary&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Summary&lt;/h2&gt;
+&lt;p&gt;With over 15 years of IT experience, I’m broadening my horizons into web and mobile development. I’m a U.S. Army veteran, hold a SECRET clearance, and have a Bachelor’s Degree in Management, Computer Information Systems. I am fluent in English and Spanish, a focused team player, a lifetime learner, and am excited to take on new challenges that combine my creativity and business sense.&lt;/p&gt;
+&lt;h2 id=&quot;work-experience&quot;&gt;&lt;a href=&quot;#work-experience&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Work Experience&lt;/h2&gt;
+&lt;h3 id=&quot;aug-2015---present&quot;&gt;&lt;a href=&quot;#aug-2015---present&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;AUG 2015 - Present&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Frontend Web Developer and Designer, Dept. of Army - San Antonio, TX&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Frontend web design and development for public facing websites and applications&lt;/li&gt;
+&lt;li&gt;Led adoption of version control, design guidelines, and modern web practices&lt;/li&gt;
+&lt;li&gt;Frontend design and development using HTML, CSS, JavaScript, React, and the Adobe CC Suite&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;nov-2014---aug-2015&quot;&gt;&lt;a href=&quot;#nov-2014---aug-2015&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;NOV 2014 - AUG 2015&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Web Developer, AM Digital - Ft. Worth, TX&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Full stack web development using Linux, Apache, MySQL, and PHP&lt;/li&gt;
+&lt;li&gt;Part of the web development team for the &lt;a href=&quot;http://am.digital/&quot;&gt;AM Digital Agency&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;may-2014---present&quot;&gt;&lt;a href=&quot;#may-2014---present&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;MAY 2014 - Present&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Freelance Web Developer, Self - San Antonio, TX&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Owner of &lt;a href=&quot;http://pigeontec.com&quot;&gt;Pigeontec&lt;/a&gt;, a single person Digital Agency&lt;/li&gt;
+&lt;li&gt;Full stack web design and development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;previous-experience&quot;&gt;&lt;a href=&quot;#previous-experience&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Previous Experience&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;IT Project Manager and IT Customer Support for Dept.of Army&lt;/li&gt;
+&lt;li&gt;Served as a 74B Computer Operator/Analyst in the U.S. Army&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;education&quot;&gt;&lt;a href=&quot;#education&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Education&lt;/h2&gt;
+&lt;h3 id=&quot;codeup&quot;&gt;&lt;a href=&quot;#codeup&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Codeup&lt;/h3&gt;
+&lt;p&gt;Full stack web development bootcamp using the LAMP stack&lt;/p&gt;
+&lt;h3 id=&quot;regis-university&quot;&gt;&lt;a href=&quot;#regis-university&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Regis University&lt;/h3&gt;
+&lt;p&gt;4 Computer Science Leveling Courses&lt;/p&gt;
+&lt;h3 id=&quot;park-university&quot;&gt;&lt;a href=&quot;#park-university&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Park University&lt;/h3&gt;
+&lt;p&gt;B.S., Management, Computer Information Systems&lt;/p&gt;
+&lt;h3 id=&quot;kansas-city-kansas-community-college&quot;&gt;&lt;a href=&quot;#kansas-city-kansas-community-college&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Kansas City Kansas Community College&lt;/h3&gt;
+&lt;p&gt;A.A.S., Computer Information Systems&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Portfolio]]></title><description><![CDATA[Catch of the Day Real-time web application for a fictional trendy seafood market where price and quantity available can change at a moment’s…]]></description><link>https://frankpigeon.com/portfolio/</link><guid isPermaLink="false">https://frankpigeon.com/portfolio/</guid><pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;catch-of-the-day&quot;&gt;&lt;a href=&quot;#catch-of-the-day&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Catch of the Day&lt;/h2&gt;
 &lt;p&gt;&lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
     style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
@@ -1232,42 +1625,7 @@ forever. - &lt;strong&gt;Psalm 23:5&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I was born in San Antonio, Texas and grew up in the 🌴 beautiful tropical country of Panama.&lt;/p&gt;
 &lt;p&gt;I am a U.S. Army veteran and am still serving my country as a Department of Army Civilian.&lt;/p&gt;
 &lt;p&gt;My passions including 👨‍💻coding, 🎵music, and all-things 🐧open-source.&lt;/p&gt;
-&lt;p&gt;I am the owner of &lt;a href=&quot;http://pigeontec.com&quot;&gt;pigeontec&lt;/a&gt;, a single person Digital Agency,  and also am co-founder of &lt;a href=&quot;https://sacodersunited.com&quot;&gt;sacodersunited&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Resume]]></title><description><![CDATA[Summary With over 15 years of IT experience, I’m broadening my horizons into web and mobile development. I’m a U.S. Army veteran, hold a…]]></description><link>https://frankpigeon.com/resume/</link><guid isPermaLink="false">https://frankpigeon.com/resume/</guid><pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;summary&quot;&gt;&lt;a href=&quot;#summary&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Summary&lt;/h2&gt;
-&lt;p&gt;With over 15 years of IT experience, I’m broadening my horizons into web and mobile development. I’m a U.S. Army veteran, hold a SECRET clearance, and have a Bachelor’s Degree in Management, Computer Information Systems. I am fluent in English and Spanish, a focused team player, a lifetime learner, and am excited to take on new challenges that combine my creativity and business sense.&lt;/p&gt;
-&lt;h2 id=&quot;work-experience&quot;&gt;&lt;a href=&quot;#work-experience&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Work Experience&lt;/h2&gt;
-&lt;h3 id=&quot;aug-2015---present&quot;&gt;&lt;a href=&quot;#aug-2015---present&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;AUG 2015 - Present&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Frontend Web Developer and Designer, Dept. of Army - San Antonio, TX&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Frontend web design and development for public facing websites and applications&lt;/li&gt;
-&lt;li&gt;Led adoption of version control, design guidelines, and modern web practices&lt;/li&gt;
-&lt;li&gt;Frontend design and development using HTML, CSS, JavaScript, React, and the Adobe CC Suite&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;nov-2014---aug-2015&quot;&gt;&lt;a href=&quot;#nov-2014---aug-2015&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;NOV 2014 - AUG 2015&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Web Developer, AM Digital - Ft. Worth, TX&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Full stack web development using Linux, Apache, MySQL, and PHP&lt;/li&gt;
-&lt;li&gt;Part of the web development team for the &lt;a href=&quot;http://am.digital/&quot;&gt;AM Digital Agency&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;may-2014---present&quot;&gt;&lt;a href=&quot;#may-2014---present&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;MAY 2014 - Present&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Freelance Web Developer, Self - San Antonio, TX&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Owner of &lt;a href=&quot;http://pigeontec.com&quot;&gt;Pigeontec&lt;/a&gt;, a single person Digital Agency&lt;/li&gt;
-&lt;li&gt;Full stack web design and development&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;previous-experience&quot;&gt;&lt;a href=&quot;#previous-experience&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Previous Experience&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;IT Project Manager and IT Customer Support for Dept.of Army&lt;/li&gt;
-&lt;li&gt;Served as a 74B Computer Operator/Analyst in the U.S. Army&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;education&quot;&gt;&lt;a href=&quot;#education&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Education&lt;/h2&gt;
-&lt;h3 id=&quot;codeup&quot;&gt;&lt;a href=&quot;#codeup&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Codeup&lt;/h3&gt;
-&lt;p&gt;Full stack web development bootcamp using the LAMP stack&lt;/p&gt;
-&lt;h3 id=&quot;regis-university&quot;&gt;&lt;a href=&quot;#regis-university&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Regis University&lt;/h3&gt;
-&lt;p&gt;4 Computer Science Leveling Courses&lt;/p&gt;
-&lt;h3 id=&quot;park-university&quot;&gt;&lt;a href=&quot;#park-university&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Park University&lt;/h3&gt;
-&lt;p&gt;B.S., Management, Computer Information Systems&lt;/p&gt;
-&lt;h3 id=&quot;kansas-city-kansas-community-college&quot;&gt;&lt;a href=&quot;#kansas-city-kansas-community-college&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Kansas City Kansas Community College&lt;/h3&gt;
-&lt;p&gt;A.A.S., Computer Information Systems&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Some of the things I use]]></title><description><![CDATA[Editor + Terminal I have been using  Visual Studio Code  as my code editor for over a two years now and have been very happy with it…]]></description><link>https://frankpigeon.com/uses/</link><guid isPermaLink="false">https://frankpigeon.com/uses/</guid><pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;editor--terminal&quot;&gt;&lt;a href=&quot;#editor--terminal&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Editor + Terminal&lt;/h2&gt;
+&lt;p&gt;I am the owner of &lt;a href=&quot;http://pigeontec.com&quot;&gt;pigeontec&lt;/a&gt;, a single person Digital Agency,  and also am co-founder of &lt;a href=&quot;https://sacodersunited.com&quot;&gt;sacodersunited&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Some of the things I use]]></title><description><![CDATA[Editor + Terminal I have been using  Visual Studio Code  as my code editor for over a two years now and have been very happy with it…]]></description><link>https://frankpigeon.com/uses/</link><guid isPermaLink="false">https://frankpigeon.com/uses/</guid><pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;editor--terminal&quot;&gt;&lt;a href=&quot;#editor--terminal&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Editor + Terminal&lt;/h2&gt;
 &lt;p&gt;&lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
     style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
