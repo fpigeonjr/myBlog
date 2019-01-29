@@ -44,7 +44,7 @@ It is easy (_and default behavior_) to unwind and consume content on endless str
 
 ![fire](./campfire.jpg)
 
-This is a hard one to describe but an import one. Having a passion for coding can be different for eveyone. Some things I find to keep my passion are keeping up with trends, reading blogs, listening to podcasts, and watching tutorials. This industry moves so fast. Trying out new libraries or frameworks can bring new life to your projects.
+This is a hard one to describe but an important one. Finding a passion for coding can be different for everyone. Some things I find to keep my passion are keeping up with trends, reading blogs, listening to podcasts, and watching tutorials. This industry moves so fast. Trying out new libraries or frameworks can bring new life to your projects.
 
 ### 4. Release
 

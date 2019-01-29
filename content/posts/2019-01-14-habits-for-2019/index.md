@@ -40,7 +40,7 @@ I have set goals before and while I have reached many of them, I probably have f
 
 ### 1. Spiritual Life
 
-![bible](/bible-open.jpg)
+![bible](/bible.jpg)
 
 🕊️Putting God first is important. He has given me eternal life so I will start the day in His Word.
 
