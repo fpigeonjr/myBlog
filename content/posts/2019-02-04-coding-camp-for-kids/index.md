@@ -1,15 +1,15 @@
 ---
 title: DIY Coding Camp for Kids
-slug: dyi-coding-camp-for-kids
+slug: coding-camp-for-kids
 date: 2019-02-04
 language: en
-imageTw: ./dyi-coding-camp-for-kids-tw.png
-imageFb: ./dyi-coding-camp-for-kids-fb.png
+imageTw: ./coding-camp-for-kids-tw.png
+imageFb: ./coding-camp-for-kids-fb.png
 cover: ./blog-bg.jpg
 generate-card: true
 tags:
   - linux
-  - programming
+  - coding
   - familytime
 ---
 
