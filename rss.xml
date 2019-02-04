@@ -1,4 +1,183 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[frankpigeon.com]]></title><description><![CDATA[Frank Pigeon's Blog]]></description><link>https://frankpigeon.com</link><generator>RSS for Node</generator><lastBuildDate>Tue, 29 Jan 2019 00:33:22 GMT</lastBuildDate><item><title><![CDATA[Habits to be a Better Developer]]></title><description><![CDATA[Intro I’ve been doing quite a bit of reading lately and came across the  80/20 rule  or the  Pareto’s principle . It can be seen everywhere…]]></description><link>https://frankpigeon.com/2019-01-28-habits-to-be-a-better-developer/</link><guid isPermaLink="false">https://frankpigeon.com/2019-01-28-habits-to-be-a-better-developer/</guid><pubDate>Mon, 28 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;intro&quot;&gt;&lt;a href=&quot;#intro&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Intro&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[frankpigeon.com]]></title><description><![CDATA[Frank Pigeon's Blog]]></description><link>https://frankpigeon.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 04 Feb 2019 21:55:39 GMT</lastBuildDate><item><title><![CDATA[DIY Coding Camp for Kids]]></title><description><![CDATA[Intro I was reflecting on the coding camp we put together for the boys last summer. ❤️they had a blast learning, building, and  coding It…]]></description><link>https://frankpigeon.com/2019-02-04-diy-coding-camp-for-kids/</link><guid isPermaLink="false">https://frankpigeon.com/2019-02-04-diy-coding-camp-for-kids/</guid><pubDate>Mon, 04 Feb 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;intro&quot;&gt;&lt;a href=&quot;#intro&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Intro&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/WJF_za6S0mb_UNInxSscc9HXGQGSMPOiFC7r-rjEbbD15u8Ffnc9r8-ydTO8uIi4t44bVAPrCtubalMuc592EgJHdpY2qlZSsFBTSJ7okgPXtYyBcHnzRUElN2zRk8rEnxerdKKcTnrxp8WAcZnKVvXHkPYH8CoXZP5jx8A52hbC1FGZW_XVyogQ8h_6_BBZ2ON1O50qquW4eUjalsQoFmERzbxnInAPPP_AZ4F_QbCJoqshqaFpn39uf9gPX4mLdZBBePORAA2RXYNC7gDcgzFHdj9KD2BXr5grB4lsIvp2eWwZAb69p6zFbqBB7uq1ELsyz9tLXkvfzcPjglRTV7I4X6Chb-zTxHaddGmwQRTdM0oJXy10OOBBTObohLEkkJCQtiPIekS9lvbGL4VBZdbs4gH9VqHIcGB1OahJEv6M7Xx9yqQ1KV62m6sWiTH5u-L0e87MbovhCaODE8giC_1RO-8NUd3svLH-CuIY8ynd2LyYu7ddw04M0DRJtlUDw8yTvBSle1h3gFuQoxOkHtsM1rzydBG1Oa_D-aFjssJ75ww1TN3MZ76C8Hx66NBdgcYZXo4qTBX3dg_I-VN5agqEasW00aO4B8fMVatmO35H95CqTwM1gRxhm816YiSNUmAoiakUbV_HVOnBRK5KNmALAw=s1337-no&quot; alt=&quot;carlos on the pi&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I was reflecting on the coding camp we put together for the boys last summer.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;❤️they had a blast learning, building, and &lt;strong&gt;coding&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It was cool to find that my boys share a passion for creating, &lt;em&gt;just like their dad&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;hardware&quot;&gt;&lt;a href=&quot;#hardware&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Hardware&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/QXLvM0kkg9FGJin4aXnuJdhr5S4C-8VSfoFv4Njgc9ZlXEtQXK2hcikmQVosrjheEiwhIlF7PpVaz6UCUkvdtlwnGcFqg13JljGhNHor56rZdk9imTJdet7hoAUnLuarh5kXAsULEPvr82175AzK1IhPpsVW3m8btR_7_pm5EN2bxOayE3pS3HHigasPmH1Ln1cRoonJIMwg10R8HnAitd9P5nTrmgsjIKTWWe75pq9u7Us1mqLu3CcotDeZTeRfQILmgMPNwG9leTSRD8nZtjZ2VDY9GbMtR5U1tPIfp68_DoJckk5gixeyVpynUmleOm5ZQg1WykAMXRrb5vOKAWnrkFM60wUKWkTtSmeTQ1ljYDNlYPCcvqms7yDaT5YMgj7PsGe-xH-O9CT7BQLEBaRMR1Bir3DYJKpaEXAUEf8YCKdaKmrFrUNMVoMlqKO8AZ3TIzS9BBxymTNTvb5KmZm0IdOQXnqs2R7Slc7Ac5uHfFkYIkK4r3Ncz1SeFUwt6ZywBJI7ojT0RtP-jpSvibOrt64SOqLC6M_IWLXgr2F_9wZgcwhTP0CScf0MYz1jIGpPf7WzJM2QuqdEw7YI6Q6_TGPvBd1kLhO9jVrzT5BFEq9OtaVve89oXCV0y-K-LAM8exLvNo84H5tX9vWl-8-gxQ=s1337-no&quot; alt=&quot;hw&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I needed cheap hardware since at this point I didn’t know if this would just be a phase.&lt;/p&gt;
+&lt;p&gt;💰I didn’t want to spend more than $100.&lt;/p&gt;
+&lt;p&gt;I had already put together a Raspberry Pi(rpi) for my home network (&lt;em&gt;which is a blog post on its own&lt;/em&gt;). So I thought that this would be an excellent solution for my boys linux rig as well.&lt;/p&gt;
+&lt;p&gt;I found a BOGO offer on Pis from &lt;a href=&quot;https://www.arrow.com/&quot;&gt;Arrow Electronics&lt;/a&gt;. While you can just &lt;a href=&quot;https://www.amazon.com/gp/product/B01C6EQNNK/ref=oh_aui_search_asin_title?ie=UTF8&amp;#x26;psc=1&quot;&gt;buy the entire kit from Amazon&lt;/a&gt;, these did not include the fans, case, or power adapter. So if your just looking for a case kit, &lt;a href=&quot;https://www.amazon.com/gp/product/B07BTHNW9W/ref=oh_aui_search_asin_title?ie=UTF8&amp;#x26;psc=1&quot;&gt;Amazon has those too&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So at the end of the day, you will need:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Raspberry Pi&lt;/li&gt;
+&lt;li&gt;Case&lt;/li&gt;
+&lt;li&gt;Fan and Heatsinks(optional)&lt;/li&gt;
+&lt;li&gt;Power Adapter&lt;/li&gt;
+&lt;li&gt;SD Memory Card (8GB Minimum)&lt;/li&gt;
+&lt;li&gt;Monitor&lt;/li&gt;
+&lt;li&gt;Keyboard and mouse&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;software&quot;&gt;&lt;a href=&quot;#software&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Software&lt;/h2&gt;
+&lt;p&gt;In order to get an operating system on the Raspberry Pi, you will need an SD Memory card.&lt;/p&gt;
+&lt;p&gt;The os is over 4GB so they recommend a minimum of 8GB. However, &lt;a href=&quot;https://www.amazon.com/gp/product/B06XWN9Q99/ref=oh_aui_search_asin_title?ie=UTF8&amp;#x26;psc=1&quot;&gt;Amazon has 32GB memory card for under $10&lt;/a&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The first step is to &lt;a href=&quot;https://www.raspberrypi.org/downloads/raspbian/&quot;&gt;download the os from the official raspberry website&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 90.59304703476482%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAAsSAAALEgHS3X78AAACxklEQVQ4y4VUy27TQBTND7BGiB9gCQjxB0gs+AHEJyGxgSJooUBRkahUxB/Qqklpnnb8jMfjt2M3oArUBSwPZ8ZJWtRGXRzfmfGd4/s4163St2E8fALzwWMM7j9C+/pttG/cJe5cQOfmPRxcuwW5/Rn1SYVpIlDl0X9oTeMA6e5XJDtfEG/vQL7dIj7OcbYONxuIV5vIBz1U0xTTTF5CyEPbNSFCF3ERIVpCIiqbdZxLJLRJGSOf5SvJNGHJF4E5QDTqQzgmAttYQjiGPgvNIcSwB2mNkIc+Kt6Z8vLKCANvjMC3ELKeeu2OIWiFPrO0TaMJMpYnJ6oVZEtCSSJFEE7sOYnaW5DcqzNlo8DR61T6VxO6TMVh2rbZx3jUhTsewjZ6sIw+nBEtzyxal1DkVxKGgy78YVcT+/YCBjzagOS+NdR7yXqej/AyaMKUhU6EiyINcVwmmLGLC9Tc10V8RkIftVZnx/N3ej33aalHqZzK5mDCzh519tA/OiDaGPUPmX4fSeixs013MzbIGHzHqHcIc3CkYdBP8egIyyTE3/wHZmWqCbudfQ3lpGobM/o8CfA7K3Fa1Oy4D5/ajfgRn810WJKIPsuUi1jgVzmlviJI4UDwZZaF2qb8qoqqSAV+ZhlOpiWlM8GENU9sEzmREbWSE9NuLWqjLlRqKlh4f/8bMo5XdNjWY1ZzZlU6qfSQsCkJJTVZfw/32Rq8Fxvwnj5HsLOLgmVrIuSFIgoYlUS8vwfx8g2C9XcINj7AX9tArMiZppKMEnY2F3nGe9rOod5pwgnrEYpGtCEF7LgGXI+RUuQqdeVczrurO3xOd/U5LHWonE+rY8qgaYrJ7tkU86jbQcD9wnmV9i7oUHX5Tz6jlhI2xUXAP09VpXqdKakUZ5OxakKWk6IeuoaMsuDFtN2G/3oT4fttyK1PkLSFZfKXlVxJpvAPopjo2lavEBIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/b48ea860ba75ce7e6eb76d3b1b9f15ab/f04b0/os.webp 148w,
+/static/b48ea860ba75ce7e6eb76d3b1b9f15ab/30287/os.webp 295w,
+/static/b48ea860ba75ce7e6eb76d3b1b9f15ab/cb54b/os.webp 590w,
+/static/b48ea860ba75ce7e6eb76d3b1b9f15ab/d0733/os.webp 885w,
+/static/b48ea860ba75ce7e6eb76d3b1b9f15ab/59764/os.webp 978w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/b48ea860ba75ce7e6eb76d3b1b9f15ab/ce5e3/os.png 148w,
+/static/b48ea860ba75ce7e6eb76d3b1b9f15ab/0df5d/os.png 295w,
+/static/b48ea860ba75ce7e6eb76d3b1b9f15ab/03198/os.png 590w,
+/static/b48ea860ba75ce7e6eb76d3b1b9f15ab/37596/os.png 885w,
+/static/b48ea860ba75ce7e6eb76d3b1b9f15ab/5453e/os.png 978w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/b48ea860ba75ce7e6eb76d3b1b9f15ab/03198/os.png&quot;
+          alt=&quot;os&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;Then you want to create the bootable os using &lt;a href=&quot;https://www.balena.io/etcher/&quot;&gt;Etcher&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 72.63071895424837%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAACw0lEQVQ4y32RWU9TURSF7//Q+OBQSoFCxWIwJJpCa0vv3OlSLNowBTtTptQ0PKGBSAQiIfFZHxgKCvig/wefHYJEKV3uc25vI6Ke5Mu6++ScddbeV+h5VEBPooR7yQK6Ezm4jSLatCzsUgrN/8Ahp9GiZNCqWmS5elNDEEJP0vCOLaB3fAY9o+NwhvNwqIwcWjRTrW+L9nARrugUbhkz6DSm4R4w9Wa0BMEmZnFDTBEZ2MQ8mpUsxyalcTUwwZXV1/of43owxZVhlzMXodSCg+K2NFLk0EQGt+NzSJZfYnBuBZ7heeiFJcRnX3BNlNYgpp+iVTMftzqw4IYOlqq+wQ45QwW6tABjepkb3k2WESk+h5x5htDkErTcIrU9iWZKZRqxrkwVTJNcw9QmU00zbI9M0TyL6KBZuWIzcNZrC3bGTvcYlhlTgceum7E/1xWilqN5Tlck91861BRcepr/5UZCy9BOL3aIYzAiBpRQHP1yBIo+QBgcWYtB0YxztazGEI4Mwi2PoOlvhk5xBEEykoMKMhMp6LIOSYlAUg2EY0NkYtB3jKtKj7J9ic53BpPUev6iYTsZinTBk5xFfH4DfaNlBPVBBEQyVqOkIW7IaoY/aD7YKSb5LLlhq54Ho0WfhEsa5YZ30svoKr5Cd34N/XoCPr+EXp8Ir1+GSAZMWd13X6aEYbilYTi0AtrIR7jiGwPjsnccNu9DmlMMmqQRCqFSgmh9liasTaasZUWPQ9VjaPMlcInuMx9h9c17rLw+xPrmB5SWNuDxUpKAhl6/Cr8Yhh55wFtje36abTSqIiCFeTpfQIWnL4h8eRHrWx+xSj4Cfltfv3zG9s4ediomu3vvsH9wiEq9ruzu4WCf6Vtsb1fo7C42t3bw6eio4SEcnxzj2/EJ8R1ntRrfrNZ+onpWw2n1DOfXD+LPPXOdVquo0vlf2kmTs9yLEA0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/72bd1dd1910e49f470da6173e9f30121/f04b0/etcher.webp 148w,
+/static/72bd1dd1910e49f470da6173e9f30121/30287/etcher.webp 295w,
+/static/72bd1dd1910e49f470da6173e9f30121/cb54b/etcher.webp 590w,
+/static/72bd1dd1910e49f470da6173e9f30121/d0733/etcher.webp 885w,
+/static/72bd1dd1910e49f470da6173e9f30121/3bc83/etcher.webp 1180w,
+/static/72bd1dd1910e49f470da6173e9f30121/b6a5b/etcher.webp 1224w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/72bd1dd1910e49f470da6173e9f30121/ce5e3/etcher.png 148w,
+/static/72bd1dd1910e49f470da6173e9f30121/0df5d/etcher.png 295w,
+/static/72bd1dd1910e49f470da6173e9f30121/03198/etcher.png 590w,
+/static/72bd1dd1910e49f470da6173e9f30121/37596/etcher.png 885w,
+/static/72bd1dd1910e49f470da6173e9f30121/e107c/etcher.png 1180w,
+/static/72bd1dd1910e49f470da6173e9f30121/c270c/etcher.png 1224w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/72bd1dd1910e49f470da6173e9f30121/03198/etcher.png&quot;
+          alt=&quot;etcher&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;🔥Once its done, insert into your SD card into your rpi and fire it up!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/LTAj-PbCmDSPLLYvV1itZn8nh-rCEakkNhCeJEN_CtgM1kmzWctERY2jIfgmaJQZYyPfGdxQ1jKdtbF_6qGnIrqmbh46RPRN072kc56uxWUFRC8orzbnoo8qK8l7TMZhzSC34-0EgMxHYvGW9ttH--OjwXZDnDxuScfwS2oGJEk6n7MnA_wcnfzl-hUMCjG-IPrTMmIJAmPn25nOqegbi9Wc9SfwdzWuojvf8L8RxOkvkqqY-s15DLeomijyGueQ50IqFig_0cUOsgQ3xr52UoOQ3gZmRtAqOXGyh0_ksR1tH9VSGDMWOpHOc9CzgB3lL5U7S3Dp0ifsM1lqpRTiH8veCvC3Wt_GYUGXPKNJgDpuOVM-jyvwCGwtA1cE9Q5ndcmPaEfvgCg0DcsvWsCH9LcXFDe5tTgjbiZuQjOsNTivlC2xcpHJ6cGkuK5DkyjEl2xwKGubIb1-iC1T0JZEM4Nno94NddNHetjA5JumiNCOU80rTsjTKjb-o8OYd95IbB_BKI9J3fHQG_1FJV4GoGN53fDGhPW5gbmo4A56AO8BTp-qJYDdpKij2ex_vUtNHxTp9_M3_VMWX4xClMKXaDDWwlDHnGnBT_6ZsbW39UF_Vkq2fwbLGdb6XkShYFnvLit3seI1q58B_f0BJwJvJFcFZA=s1337-no&quot; alt=&quot;bootup&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;coding&quot;&gt;&lt;a href=&quot;#coding&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Coding&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/4c8fDRZaDrqOQV6_YeAixG7HG8Aqlm4GIczrXIM8cM92B3ZJMzXgFdTNShzuZK6vpItvj4gxTjYOOej5QGHUlcgctHWj4yxVeCOADzNWvOSA5PZTi027by0RYMtHK0bPdtbRhux5xSLDi4Qcd3IXHsFKuhHGAmWXKc-Ba7ljMwSUoniezMLmK7WOeeABMMIwy6jMpvN31FjWZC-1-V_cyjLXNjYsNrduAwtgFBuqzZMkz0lSUK_ZMhl-85TVRDfJW3tJnW0VnwjfVU0OsHIhftaknpS7G0RejtbXAboogRThvPa5j18CVv19a1OX2wwjRQyQkFpdGX_78ShstQPpSAtZRYzjvqP7Fm-x0OALIly2-rDbND74-5zglplkp8NUZ0WTpMb1WwMA4V7B1wzCxKOfn2aBf-hu8CgBGNOq2se3XcQAhSj8qwR76V_TqM2gdF_kzDNgBnJchdayyT74PrJzlWHB4M3gP-K-ahlLYMCl9Fkh96fL8aucKgFOpp3Gikgx-RalYNGBHLYUpbeyinCaU1UPvGKTJfdMRSPD4crtMwSKdy3ht_FQkT2TrRvIg22PhRQRSf6E8Xr12SO4tDYfjqVSFqYmrrIXuR_LoguUfyITC_wm275hui0JgBCtZov5EhohwHs4W71ORqDtvysDDQ=w600-h600-no&quot; alt=&quot;scatch&quot;&gt;&lt;/p&gt;
+&lt;p&gt;With the hardware and software working, we now come to what really matters. Why did we put all this stuff together?&lt;/p&gt;
+&lt;p&gt;🐙to learn to code&lt;/p&gt;
+&lt;p&gt;There is no better way to teach young children to code than &lt;a href=&quot;https://scratch.mit.edu/&quot;&gt;Scratch&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;With Scratch, you can program your own interactive stories, games, and animations — and share your creations with others in the online community.&lt;/p&gt;
+&lt;p&gt;Scratch is a project of the Lifelong Kindergarten Group at the MIT Media Lab. It is provided free of charge.&lt;/p&gt;
+&lt;p&gt;— Scratch About Page&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.lynda.com/Scratch-tutorials/Scratch-Programming-Language-Basics/476623-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3ascratch%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2&quot;&gt;Lynda has a great intro to Scratch course&lt;/a&gt; that the boys and I went through. It was a lot of fun. Some things we learned:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;patience&lt;/li&gt;
+&lt;li&gt;backdrops and sprites&lt;/li&gt;
+&lt;li&gt;animating objects&lt;/li&gt;
+&lt;li&gt;reacting to events&lt;/li&gt;
+&lt;li&gt;changing sprite costumes&lt;/li&gt;
+&lt;li&gt;build a game&lt;/li&gt;
+&lt;li&gt;share your game with other Scratch coders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 87.48251748251748%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsSAAALEgHS3X78AAAD2klEQVQ4y32Te0yVdRjHfwJircuUTeaWzXX7o9Ufafd/MqYpFCqacJAQYhYHuQUlECbIHTwXOCQIgcal1picQhkQFWvligiFWvW3G1uO6zmH2zkHEPz0vO8JYnPr3T57fu/vfZ7v77n8XtVhb+a3/iv0XvseU/cwxfaffHzVL/xCkdgisee6h/i47y+qv/2D6u/+pLL3dyw9w1gFzZq6hrB2DqDeDN9FZ1M66aX5qPBS1OFyVIQQega1J1vIQu3O9K3356HeKBa/EtTB0nXI++EK1L4cVHz0q3R/ls2HljI2xFSxKa6aTUeLCA5LYWtoCpv3GnkqsYwHQ9PY+noa247msuVwLhtjzAQetxEYWyVUEihxgRKnC/Z8nkOORU6KtuIfayMgIp+HD6Sz41AGW/ansiMmj/tfS+bRiAyejvqAhw5moCLLxbcK/xirD4nzO1KAijqwC3u9UQTLUMcqBQvBJ2t5+fQn7Myo5jGjlBKWK22Q0w8VSrn5OhvEz/+tSvxEzG+9YGT4TtovvOvLUBM0mHk8q4mcrkESG+wcyS7lCUMyQYazbI48Q3BcBdvTGrk33iYtsq6JrgnGGXZLydk+wRgRjDSzr6CZL7t7Kaky0Xi+nNgkI5kFZlqbLhF+Mo+EglrCi1ulPDMBdwu+IkM5RZap2Jeh9PHZzFqq6i7R2mbHVHOe5JIasqpaqGm5THRhA8eLGgjJa5ZqLHcLakPpuJiKMTdNMrTpjfaLOMuThmxeSsiXab+Hej4e9Vws6oV4/KIqCJCJqmO+cnXWCybE7KGjMYXEnGT8Yqt945cp3xf+PkFJNoLjS3km08YjqTYeMMqVSqrTBbTM1qPFbdSujSHiRRnKCeIyTsgtN+s9VHtPoUJS2VbYTlBeG2/X2QmxtrO92M49mZ/qg1PRlv+IMkmsEHYa1Vhvor+vhYtfNPHOhS4S6wXbZTJr2ij7+jofXZXfr3uQst4bnPvmBibB3DO4hqX3OqVX+0lv6iOlvhPl9S7g9iyyIJaVRW67Z8HjYcntgQXZm5+HuTlYXuZ/n9tL4F1EOZ1OiZkTDQ93ZN8tm5O3Rvn5SjuLS0s4XdNMTjlwOF24ZmZwTk/jEjSrfZtzu/HKwTdHRpifnEG5XOIoaMJer1dYxDE6xs3hIZZEcHZ2FofDoTM1NaVbzXf1fV4q0OIHfh3A+fc4SvswPj7OtJy4LGXNzXuYdc3oVdxZWdED5qRkTdgt2SxINqtoCWgxmsYP135kYuQWSnNckcDlf3vk9XhFcFpfa/taFmNjY/qhExMT+nqV0dFRPRGtkknHFF7nLP8A7u+PQsXQkDYAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/d83b5843561471f0e937f3991ee4df7c/f04b0/scratch.webp 148w,
+/static/d83b5843561471f0e937f3991ee4df7c/30287/scratch.webp 295w,
+/static/d83b5843561471f0e937f3991ee4df7c/cb54b/scratch.webp 590w,
+/static/d83b5843561471f0e937f3991ee4df7c/d0733/scratch.webp 885w,
+/static/d83b5843561471f0e937f3991ee4df7c/3bc83/scratch.webp 1180w,
+/static/d83b5843561471f0e937f3991ee4df7c/92520/scratch.webp 1430w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/d83b5843561471f0e937f3991ee4df7c/ce5e3/scratch.png 148w,
+/static/d83b5843561471f0e937f3991ee4df7c/0df5d/scratch.png 295w,
+/static/d83b5843561471f0e937f3991ee4df7c/03198/scratch.png 590w,
+/static/d83b5843561471f0e937f3991ee4df7c/37596/scratch.png 885w,
+/static/d83b5843561471f0e937f3991ee4df7c/e107c/scratch.png 1180w,
+/static/d83b5843561471f0e937f3991ee4df7c/c402b/scratch.png 1430w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/d83b5843561471f0e937f3991ee4df7c/03198/scratch.png&quot;
+          alt=&quot;lynda&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;&lt;a href=&quot;#conclusion&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;My boys enjoyed the Raspberry Pi boot camp, we lovingly called &lt;strong&gt;&lt;em&gt;Daddy Camp&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Pro-tip: Anytime you do an activity with your children in the summer just add camp to the end of it. You’ll feel like your saving money.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We did a lot during Daddy Camp:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;build a raspberry pi&lt;/li&gt;
+&lt;li&gt;hook up the peripherals&lt;/li&gt;
+&lt;li&gt;install an operating system&lt;/li&gt;
+&lt;li&gt;learn to code in Scratch&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It was a success and I could clearly see that my boys enjoyed building stuff. I want to instill a creator’s heart in them.&lt;/p&gt;
+&lt;p&gt;Best of all, we spend quality time together.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Habits to be a Better Developer]]></title><description><![CDATA[Intro I’ve been doing quite a bit of reading lately and came across the  80/20 rule  or the  Pareto’s principle . It can be seen everywhere…]]></description><link>https://frankpigeon.com/2019-01-28-habits-to-be-a-better-developer/</link><guid isPermaLink="false">https://frankpigeon.com/2019-01-28-habits-to-be-a-better-developer/</guid><pubDate>Mon, 28 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;intro&quot;&gt;&lt;a href=&quot;#intro&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Intro&lt;/h2&gt;
 &lt;p&gt;I’ve been doing quite a bit of reading lately and came across the &lt;strong&gt;80/20 rule&lt;/strong&gt; or the &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Pareto_principle&quot;&gt;&lt;strong&gt;&lt;em&gt;Pareto’s principle&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;. It can be seen everywhere like in wealth distribution, books, song writers, etc. i.e. &lt;em&gt;80% of the land was owned by 20% of the people.&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The Pareto principle (also known as the 80/20 rule, the law of the vital few, or the principle of factor sparsity) states that, for many events, roughly 80% of the effects come from 20% of the causes.&lt;/p&gt;
