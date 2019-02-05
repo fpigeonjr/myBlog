@@ -1,12 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[frankpigeon.com]]></title><description><![CDATA[Frank Pigeon's Blog]]></description><link>https://frankpigeon.com</link><generator>RSS for Node</generator><lastBuildDate>Tue, 05 Feb 2019 00:03:36 GMT</lastBuildDate><item><title><![CDATA[DIY Coding Camp for Kids]]></title><description><![CDATA[Intro I was reflecting on the coding camp we put together for the boys last summer. ❤️they had a blast learning, building, and  coding It…]]></description><link>https://frankpigeon.com/2019-02-04-coding-camp-for-kids/</link><guid isPermaLink="false">https://frankpigeon.com/2019-02-04-coding-camp-for-kids/</guid><pubDate>Mon, 04 Feb 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;intro&quot;&gt;&lt;a href=&quot;#intro&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Intro&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/WJF_za6S0mb_UNInxSscc9HXGQGSMPOiFC7r-rjEbbD15u8Ffnc9r8-ydTO8uIi4t44bVAPrCtubalMuc592EgJHdpY2qlZSsFBTSJ7okgPXtYyBcHnzRUElN2zRk8rEnxerdKKcTnrxp8WAcZnKVvXHkPYH8CoXZP5jx8A52hbC1FGZW_XVyogQ8h_6_BBZ2ON1O50qquW4eUjalsQoFmERzbxnInAPPP_AZ4F_QbCJoqshqaFpn39uf9gPX4mLdZBBePORAA2RXYNC7gDcgzFHdj9KD2BXr5grB4lsIvp2eWwZAb69p6zFbqBB7uq1ELsyz9tLXkvfzcPjglRTV7I4X6Chb-zTxHaddGmwQRTdM0oJXy10OOBBTObohLEkkJCQtiPIekS9lvbGL4VBZdbs4gH9VqHIcGB1OahJEv6M7Xx9yqQ1KV62m6sWiTH5u-L0e87MbovhCaODE8giC_1RO-8NUd3svLH-CuIY8ynd2LyYu7ddw04M0DRJtlUDw8yTvBSle1h3gFuQoxOkHtsM1rzydBG1Oa_D-aFjssJ75ww1TN3MZ76C8Hx66NBdgcYZXo4qTBX3dg_I-VN5agqEasW00aO4B8fMVatmO35H95CqTwM1gRxhm816YiSNUmAoiakUbV_HVOnBRK5KNmALAw=s1337-no&quot; alt=&quot;carlos on the pi&quot;&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[frankpigeon.com]]></title><description><![CDATA[Frank Pigeon's Blog]]></description><link>https://frankpigeon.com</link><generator>RSS for Node</generator><lastBuildDate>Tue, 05 Feb 2019 01:35:42 GMT</lastBuildDate><item><title><![CDATA[DIY Coding Camp for Kids]]></title><description><![CDATA[Intro I was reflecting on the coding camp we put together for the boys last summer. ❤️they had a blast learning, building, and  coding It…]]></description><link>https://frankpigeon.com/2019-02-04-coding-camp-for-kids/</link><guid isPermaLink="false">https://frankpigeon.com/2019-02-04-coding-camp-for-kids/</guid><pubDate>Mon, 04 Feb 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;intro&quot;&gt;&lt;a href=&quot;#intro&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Intro&lt;/h2&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQD/2gAMAwEAAhADEAAAAbM9GU3gKlnFJg7/xAAdEAACAgEFAAAAAAAAAAAAAAABAgQRAwAQEiEy/9oACAEBAAEFAo2NSsisbv6aQxPJmJN6vosTt//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/ASM//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPwFmin//xAAcEAADAAEFAAAAAAAAAAAAAAABAhEAEBIgIpH/2gAIAQEABj8CYOo3A4IJdGZKtzsfeP8A/8QAGxABAQEAAwEBAAAAAAAAAAAAAREAITGhQWH/2gAIAQEAAT8h4VRtPzEmIfNb29xTVlBzUb06iwyuW7l03//aAAwDAQACAAMAAAAQJ/gD/8QAFxEBAAMAAAAAAAAAAAAAAAAAEQAQIf/aAAgBAwEBPxBLMt//xAAXEQEAAwAAAAAAAAAAAAAAAAARAAEQ/9oACAECAQE/EAErT//EABwQAAMAAwEBAQAAAAAAAAAAAAABESFBgTGhsf/aAAgBAQABPxBvFiE2sC3olE2n79KbU4FydLlils/CMrabPhRLWZw9nzQ4btMIg//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/1a16d9de6187494d1dbe6f4167463e3a/e87b9/carlos-pi.webp 148w,
+/static/1a16d9de6187494d1dbe6f4167463e3a/404d7/carlos-pi.webp 295w,
+/static/1a16d9de6187494d1dbe6f4167463e3a/6c5da/carlos-pi.webp 590w,
+/static/1a16d9de6187494d1dbe6f4167463e3a/8fbeb/carlos-pi.webp 885w,
+/static/1a16d9de6187494d1dbe6f4167463e3a/ef0b4/carlos-pi.webp 1180w,
+/static/1a16d9de6187494d1dbe6f4167463e3a/2cb8c/carlos-pi.webp 1336w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/1a16d9de6187494d1dbe6f4167463e3a/fc706/carlos-pi.jpg 148w,
+/static/1a16d9de6187494d1dbe6f4167463e3a/754cc/carlos-pi.jpg 295w,
+/static/1a16d9de6187494d1dbe6f4167463e3a/8e0ad/carlos-pi.jpg 590w,
+/static/1a16d9de6187494d1dbe6f4167463e3a/66519/carlos-pi.jpg 885w,
+/static/1a16d9de6187494d1dbe6f4167463e3a/c57d2/carlos-pi.jpg 1180w,
+/static/1a16d9de6187494d1dbe6f4167463e3a/4e1b4/carlos-pi.jpg 1336w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/1a16d9de6187494d1dbe6f4167463e3a/8e0ad/carlos-pi.jpg&quot;
+          alt=&quot;carlos on the pi&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;I was reflecting on the coding camp we put together for the boys last summer.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;❤️they had a blast learning, building, and &lt;strong&gt;coding&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;It was cool to find that my boys share a passion for creating, &lt;em&gt;just like their dad&lt;/em&gt;.&lt;/p&gt;
 &lt;h2 id=&quot;hardware&quot;&gt;&lt;a href=&quot;#hardware&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Hardware&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/QXLvM0kkg9FGJin4aXnuJdhr5S4C-8VSfoFv4Njgc9ZlXEtQXK2hcikmQVosrjheEiwhIlF7PpVaz6UCUkvdtlwnGcFqg13JljGhNHor56rZdk9imTJdet7hoAUnLuarh5kXAsULEPvr82175AzK1IhPpsVW3m8btR_7_pm5EN2bxOayE3pS3HHigasPmH1Ln1cRoonJIMwg10R8HnAitd9P5nTrmgsjIKTWWe75pq9u7Us1mqLu3CcotDeZTeRfQILmgMPNwG9leTSRD8nZtjZ2VDY9GbMtR5U1tPIfp68_DoJckk5gixeyVpynUmleOm5ZQg1WykAMXRrb5vOKAWnrkFM60wUKWkTtSmeTQ1ljYDNlYPCcvqms7yDaT5YMgj7PsGe-xH-O9CT7BQLEBaRMR1Bir3DYJKpaEXAUEf8YCKdaKmrFrUNMVoMlqKO8AZ3TIzS9BBxymTNTvb5KmZm0IdOQXnqs2R7Slc7Ac5uHfFkYIkK4r3Ncz1SeFUwt6ZywBJI7ojT0RtP-jpSvibOrt64SOqLC6M_IWLXgr2F_9wZgcwhTP0CScf0MYz1jIGpPf7WzJM2QuqdEw7YI6Q6_TGPvBd1kLhO9jVrzT5BFEq9OtaVve89oXCV0y-K-LAM8exLvNo84H5tX9vWl-8-gxQ=s1337-no&quot; alt=&quot;hw&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQCAf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAe6TZ1MpVN8YPYR//8QAHBAAAwABBQAAAAAAAAAAAAAAAQIDEwQREjEy/9oACAEBAAEFAgcjuo5HtdyliVtWRLSQCet9wc4//8QAFREBAQAAAAAAAAAAAAAAAAAAEAH/2gAIAQMBAT8BKf/EABURAQEAAAAAAAAAAAAAAAAAAAEg/9oACAECAQE/ASP/xAAdEAABBAIDAAAAAAAAAAAAAAABAAIRIRAxEkFx/9oACAEBAAY/Am8tIAE31ip2gXTSlmimQm+Y/8QAHRAAAgICAwEAAAAAAAAAAAAAAREAMSFBUYHBcf/aAAgBAQABPyFpEJZ6qY1AdohL7uOk0IH2VXAK4mt66gGYY9mMgoh0Z//aAAwDAQACAAMAAAAQ7PBB/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQAQESH/2gAIAQMBAT8QTDZ2hP/EABgRAQEBAQEAAAAAAAAAAAAAAAEAMREh/9oACAECAQE/EOzyEjZ2/8QAHRABAQACAwADAAAAAAAAAAAAAREAITFBUWFxof/aAAgBAQABPxA5oTZYnIfLjjDWASGrODCnU21yy0N0uCboNIifWKBQBdDz8yntWRoL5MlQNIeqcJASqx53m6MQL0Z//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/64cad6aec05a1f5ae4852a126ea15ddd/e87b9/hw.webp 148w,
+/static/64cad6aec05a1f5ae4852a126ea15ddd/404d7/hw.webp 295w,
+/static/64cad6aec05a1f5ae4852a126ea15ddd/6c5da/hw.webp 590w,
+/static/64cad6aec05a1f5ae4852a126ea15ddd/8fbeb/hw.webp 885w,
+/static/64cad6aec05a1f5ae4852a126ea15ddd/ef0b4/hw.webp 1180w,
+/static/64cad6aec05a1f5ae4852a126ea15ddd/2cb8c/hw.webp 1336w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/64cad6aec05a1f5ae4852a126ea15ddd/fc706/hw.jpg 148w,
+/static/64cad6aec05a1f5ae4852a126ea15ddd/754cc/hw.jpg 295w,
+/static/64cad6aec05a1f5ae4852a126ea15ddd/8e0ad/hw.jpg 590w,
+/static/64cad6aec05a1f5ae4852a126ea15ddd/66519/hw.jpg 885w,
+/static/64cad6aec05a1f5ae4852a126ea15ddd/c57d2/hw.jpg 1180w,
+/static/64cad6aec05a1f5ae4852a126ea15ddd/4e1b4/hw.jpg 1336w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/64cad6aec05a1f5ae4852a126ea15ddd/8e0ad/hw.jpg&quot;
+          alt=&quot;hw&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;I needed cheap hardware since at this point I didn’t know if this would just be a phase.&lt;/p&gt;
 &lt;p&gt;💰I didn’t want to spend more than $100.&lt;/p&gt;
 &lt;p&gt;I had already put together a Raspberry Pi(rpi) for my home network (&lt;em&gt;which is a blog post on its own&lt;/em&gt;). So I thought that this would be an excellent solution for my boys linux rig as well.&lt;/p&gt;
@@ -105,9 +179,79 @@
       &lt;/picture&gt;
   &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;🔥Once its done, insert into your SD card into your rpi and fire it up!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/LTAj-PbCmDSPLLYvV1itZn8nh-rCEakkNhCeJEN_CtgM1kmzWctERY2jIfgmaJQZYyPfGdxQ1jKdtbF_6qGnIrqmbh46RPRN072kc56uxWUFRC8orzbnoo8qK8l7TMZhzSC34-0EgMxHYvGW9ttH--OjwXZDnDxuScfwS2oGJEk6n7MnA_wcnfzl-hUMCjG-IPrTMmIJAmPn25nOqegbi9Wc9SfwdzWuojvf8L8RxOkvkqqY-s15DLeomijyGueQ50IqFig_0cUOsgQ3xr52UoOQ3gZmRtAqOXGyh0_ksR1tH9VSGDMWOpHOc9CzgB3lL5U7S3Dp0ifsM1lqpRTiH8veCvC3Wt_GYUGXPKNJgDpuOVM-jyvwCGwtA1cE9Q5ndcmPaEfvgCg0DcsvWsCH9LcXFDe5tTgjbiZuQjOsNTivlC2xcpHJ6cGkuK5DkyjEl2xwKGubIb1-iC1T0JZEM4Nno94NddNHetjA5JumiNCOU80rTsjTKjb-o8OYd95IbB_BKI9J3fHQG_1FJV4GoGN53fDGhPW5gbmo4A56AO8BTp-qJYDdpKij2ex_vUtNHxTp9_M3_VMWX4xClMKXaDDWwlDHnGnBT_6ZsbW39UF_Vkq2fwbLGdb6XkShYFnvLit3seI1q58B_f0BJwJvJFcFZA=s1337-no&quot; alt=&quot;bootup&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 99.925205684368%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQCBQP/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAAB1zLpaZ21lfsB80If/8QAHBAAAgICAwAAAAAAAAAAAAAAAQIDEgAxEBEi/9oACAEBAAEFAgoo28Q9Rtxc1X1G2//EABgRAAIDAAAAAAAAAAAAAAAAAAEQAiEx/9oACAEDAQE/ATajq//EABcRAAMBAAAAAAAAAAAAAAAAAAECEDH/2gAIAQIBAT8BEfJ//8QAGBAAAwEBAAAAAAAAAAAAAAAAARARACH/2gAIAQEABj8CcJjG6v/EABoQAQEBAQEBAQAAAAAAAAAAAAEAESFhMUH/2gAIAQEAAT8h4yZHEDZAOg/rD3fbLIMOF9Il3f/aAAwDAQACAAMAAAAQj9++/8QAGREAAQUAAAAAAAAAAAAAAAAAAAEQITFB/9oACAEDAQE/ENGmFs//xAAZEQEAAgMAAAAAAAAAAAAAAAABABEQITH/2gAIAQIBAT8QsAOFWkOT/8QAHBABAQEBAAIDAAAAAAAAAAAAAREAIRAxQVGh/9oACAEBAAE/EFwuJfcJgGEGU8Zg9QP3N3tvwIOFoeoAKXAgFFnMoZ97/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/5bef99d938a81429bfdfd94ac0bcb21e/e87b9/bootup.webp 148w,
+/static/5bef99d938a81429bfdfd94ac0bcb21e/404d7/bootup.webp 295w,
+/static/5bef99d938a81429bfdfd94ac0bcb21e/6c5da/bootup.webp 590w,
+/static/5bef99d938a81429bfdfd94ac0bcb21e/8fbeb/bootup.webp 885w,
+/static/5bef99d938a81429bfdfd94ac0bcb21e/ef0b4/bootup.webp 1180w,
+/static/5bef99d938a81429bfdfd94ac0bcb21e/0a3b4/bootup.webp 1337w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/5bef99d938a81429bfdfd94ac0bcb21e/fc706/bootup.jpg 148w,
+/static/5bef99d938a81429bfdfd94ac0bcb21e/754cc/bootup.jpg 295w,
+/static/5bef99d938a81429bfdfd94ac0bcb21e/8e0ad/bootup.jpg 590w,
+/static/5bef99d938a81429bfdfd94ac0bcb21e/66519/bootup.jpg 885w,
+/static/5bef99d938a81429bfdfd94ac0bcb21e/c57d2/bootup.jpg 1180w,
+/static/5bef99d938a81429bfdfd94ac0bcb21e/40419/bootup.jpg 1337w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/5bef99d938a81429bfdfd94ac0bcb21e/8e0ad/bootup.jpg&quot;
+          alt=&quot;bootup linux&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&quot;coding&quot;&gt;&lt;a href=&quot;#coding&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Coding&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/4c8fDRZaDrqOQV6_YeAixG7HG8Aqlm4GIczrXIM8cM92B3ZJMzXgFdTNShzuZK6vpItvj4gxTjYOOej5QGHUlcgctHWj4yxVeCOADzNWvOSA5PZTi027by0RYMtHK0bPdtbRhux5xSLDi4Qcd3IXHsFKuhHGAmWXKc-Ba7ljMwSUoniezMLmK7WOeeABMMIwy6jMpvN31FjWZC-1-V_cyjLXNjYsNrduAwtgFBuqzZMkz0lSUK_ZMhl-85TVRDfJW3tJnW0VnwjfVU0OsHIhftaknpS7G0RejtbXAboogRThvPa5j18CVv19a1OX2wwjRQyQkFpdGX_78ShstQPpSAtZRYzjvqP7Fm-x0OALIly2-rDbND74-5zglplkp8NUZ0WTpMb1WwMA4V7B1wzCxKOfn2aBf-hu8CgBGNOq2se3XcQAhSj8qwR76V_TqM2gdF_kzDNgBnJchdayyT74PrJzlWHB4M3gP-K-ahlLYMCl9Fkh96fL8aucKgFOpp3Gikgx-RalYNGBHLYUpbeyinCaU1UPvGKTJfdMRSPD4crtMwSKdy3ht_FQkT2TrRvIg22PhRQRSf6E8Xr12SO4tDYfjqVSFqYmrrIXuR_LoguUfyITC_wm275hui0JgBCtZov5EhohwHs4W71ORqDtvysDDQ=w600-h600-no&quot; alt=&quot;scatch&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQFAQb/xAAVAQEBAAAAAAAAAAAAAAAAAAADAv/aAAwDAQACEAMQAAABkvytI7vCl5ngS2hI/8QAGhAAAQUBAAAAAAAAAAAAAAAAAQACAxESBP/aAAgBAQABBQKPIAlyi5oTDSBtRi23oWWodMmf/8QAFhEBAQEAAAAAAAAAAAAAAAAAEAFB/9oACAEDAQE/AaYf/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBEBL/2gAIAQIBAT8B0oHf/8QAIBAAAgECBwEAAAAAAAAAAAAAAAIBESEQEiMxMkGBof/aAAgBAQAGPwJmZc1CNH6cRq9nm+Fy0kH/xAAbEAEAAwADAQAAAAAAAAAAAAABABEhMUGBkf/aAAgBAQABPyEAmgagHMurqGKb+wQOoJe+KTURdzYLfB+xCGJxP//aAAwDAQACAAMAAAAQwMfA/8QAGBEBAQADAAAAAAAAAAAAAAAAAQARIVH/2gAIAQMBAT8QBtSxdTf/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhQf/aAAgBAgEBPxBtkxUrSbOCw//EAB4QAQACAgIDAQAAAAAAAAAAAAERIQBBUWExgZHh/9oACAEBAAE/EGkRirneUE9BRWKguofeXcOZu4xaFCVIJJ37yMXwgofP3vJQQ2LKwtIw4qjOJk+YCqdW7e8//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/797873ff1a1b5d4c1c2f8af11da829b4/e87b9/scratch-dragon.webp 148w,
+/static/797873ff1a1b5d4c1c2f8af11da829b4/404d7/scratch-dragon.webp 295w,
+/static/797873ff1a1b5d4c1c2f8af11da829b4/6c5da/scratch-dragon.webp 590w,
+/static/797873ff1a1b5d4c1c2f8af11da829b4/cd84f/scratch-dragon.webp 600w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/797873ff1a1b5d4c1c2f8af11da829b4/fc706/scratch-dragon.jpg 148w,
+/static/797873ff1a1b5d4c1c2f8af11da829b4/754cc/scratch-dragon.jpg 295w,
+/static/797873ff1a1b5d4c1c2f8af11da829b4/8e0ad/scratch-dragon.jpg 590w,
+/static/797873ff1a1b5d4c1c2f8af11da829b4/51d68/scratch-dragon.jpg 600w&quot;
+          sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/797873ff1a1b5d4c1c2f8af11da829b4/8e0ad/scratch-dragon.jpg&quot;
+          alt=&quot;scatch&quot;
+          title=&quot;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;With the hardware and software working, we now come to what really matters. Why did we put all this stuff together?&lt;/p&gt;
 &lt;p&gt;🐙to learn to code&lt;/p&gt;
 &lt;p&gt;There is no better way to teach young children to code than &lt;a href=&quot;https://scratch.mit.edu/&quot;&gt;Scratch&lt;/a&gt;.&lt;/p&gt;
