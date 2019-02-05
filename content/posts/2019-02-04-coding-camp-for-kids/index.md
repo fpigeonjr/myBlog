@@ -5,7 +5,7 @@ date: 2019-02-04
 language: en
 imageTw: ./coding-camp-for-kids-tw.png
 imageFb: ./coding-camp-for-kids-fb.png
-cover: ./blog-bg.jpg
+cover: ./bg-new.jpg
 generate-card: true
 tags:
   - linux
