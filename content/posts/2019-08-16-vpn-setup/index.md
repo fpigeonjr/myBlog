@@ -3,7 +3,8 @@ title: NordVPN Setup for Ubuntu
 slug: nordvpn-setup-for-ubuntu
 date: 2019-08-16
 language: en
-imageTw:
+imageTw: ./nordvpn-setup-for-ubuntu-tw.png
+imageFb: ./nordvpn-setup-for-ubuntu-fb.png
 cover: ./vpn-bg.jpg
 generate-card: true
 tags:
