@@ -1,11 +1,11 @@
 ---
 title: NordVPN Setup for Ubuntu
-slug: nordvpn-setup-for-Ubuntu
+slug: nordvpn-setup-for-ubuntu
 date: 2019-08-16
 language: en
 imageTw:
-cover:
-generate-card: false
+cover: ./vpn-bg.jpg
+generate-card: true
 tags:
   - linux
   - network
@@ -35,7 +35,7 @@ Here are some good articles on _why you may need want a VPN_.
 - [Mashable](https://mashable.com/article/why-you-need-vpn/)
 - [How-To-Geek](https://www.howtogeek.com/133680/htg-explains-what-is-a-vpn/)
 
-## VPN Options
+## Lots of VPN Options
 
 I started researching VPN options and found of a few subreddits of people raving about a few VPN providers.
 
@@ -44,6 +44,8 @@ I started researching VPN options and found of a few subreddits of people raving
 [PC Mag](https://www.pcmag.com/roundup/354396/the-best-vpns-for-bittorrent) also did a great article comparing the major VPN.
 
 [BearTunnel](https://thewirecutter.com/reviews/best-vpn-service/) even won best VPN on wirecutter.com for best VPN service.
+
+The ultimate showdown [TunnelBear vs NordVPN](https://pixelprivacy.com/vpn/reviews/nordvpn-vs-tunnelbear/).
 
 After researching several options I ended up choosing **NordVPN**:
 
@@ -54,7 +56,7 @@ After researching several options I ended up choosing **NordVPN**:
 - 💪[wireguard support](https://nordvpn.com/blog/nordlynx-protocol-wireguard/)
 - 🎅has an amazing sale going on
 
-## Setup
+## Install
 
 This guide is for **Ubuntu 18.04** and **NordVPN** but should work for any Debain-based system.
 
@@ -70,7 +72,7 @@ First thing you do is pull down the latest NordVPN file from their site.
 
    ```
 
-1. Pull down the file from NordVPN.
+2. Pull down the file from NordVPN.
 
    ```bash
 
@@ -78,7 +80,7 @@ First thing you do is pull down the latest NordVPN file from their site.
 
    ```
 
-1. More linux magic.
+3. More linux magic.
 
    ```bash
 
@@ -86,7 +88,7 @@ First thing you do is pull down the latest NordVPN file from their site.
 
    ```
 
-1. Next, update your package list.
+4. Next, update your package list.
 
    ```bash
 
@@ -94,7 +96,7 @@ First thing you do is pull down the latest NordVPN file from their site.
 
    ```
 
-1. Now install NordVPN.
+5. Now install NordVPN.
 
    ```bash
 
@@ -102,7 +104,7 @@ First thing you do is pull down the latest NordVPN file from their site.
 
    ```
 
-1. (optional) If this step doesn't work for you*(like in my situation)*, try this:
+6. (optional) If this step doesn't work for you*(like in my situation)*, try this:
 
    ```bash
 
@@ -114,7 +116,7 @@ First thing you do is pull down the latest NordVPN file from their site.
 
 Now you should access to `nordvpn` command!
 
-## Configuration
+## Basic Configuration
 
 Now that you are setup with NordVPN, let's set some good default settings.
 
@@ -164,10 +166,71 @@ Now that you are setup with NordVPN, let's set some good default settings.
 
 ## Advanced Configuration
 
+😢Bummed out that your VPN slows down your connection?
+
+The NordVPN team has a project NordLynx which uses a new protocol that is gong to knock your socks off.
+
+[This PCMag article gives you all the details](https://www.pcmag.com/commentary/369921/the-vpn-industry-is-on-the-cusp-of-a-major-breakthrough).
+
+> 🔥And the numbers don't lie (credit PC Mag)
+
+![speedtest](https://assets.pcmag.com/media/images/657776-nordlynx-wireguard-table.png?thumb=y&width=980&height=254)
+
+To take advantage of NordLynx, follow the following steps from the [NordVPN site](https://nordvpn.com/blog/nordlynx-protocol-wireguard/).
+
+### Install WireGuard
+
+```bash
+
+sudo add-apt-repository ppa:wireguard/wireguard
+sudo apt update
+sudo apt-get install wireguard
+nordvpn set technology nordlynx
+
+```
+
+In my test I went from **80mbps** _(udp)_ to close to **250mbps** using _nordlynx_.
+
+> 🚀Very impressive indeed
+
+Make sure you select a custom server that has the wireguard option.
+
+![wireguard server](./wireguard.png)
+
+### Killswitch
+
+I like this option to prevent me getting back on my ISP if I was to get disconnected.
+
+> Kill switch is a technique that helps you prevent unprotected access to the internet, where your traffic doesn't go through the VPN.
+
+```bash
+
+nordvpn set killswitch on
+
+```
+
+### CyberSec
+
+> [CyberSec](https://support.nordvpn.com/General-info/Features/1047407402/What-is-CyberSec.htm) protects you from ads, unsafe connections and malicious sites.
+
+```bash
+
+nordvpn set cybersec on
+
+```
+
 ## Conclusion
+
+I am happy that I have found a vpn client that is as flexible, secure, and cutting-edge as NordVPN.
+
+I feel more protected and more secure on my journeys into the web.
+
+Hope this guide will help you as it may help me in the future.
+
+> 😃#bekindtoyourfutureself
 
 ## Resources
 
 - [NordVPN Ubuntu Guide](https://support.nordvpn.com/Connectivity/Linux/1325531132/Installing-and-using-NordVPN-on-Debian-Ubuntu-and-Linux-Mint.htm)
 - [NordVPN Server List](https://nordvpn.com/servers/tools/)
-- [What's My IP]()
+- [IP Leak](https://ipleak.net/)
