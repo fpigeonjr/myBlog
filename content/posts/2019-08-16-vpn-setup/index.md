@@ -16,9 +16,9 @@ tags:
 
 ## Motivation
 
-The world wide web is a dark and scary place and if you want to protect your privacy and resist the man than a VPN(Virtual Private Network) may be for you.
+The world wide web is a dark and scary place. If you want to protect your privacy and resist the man, then a VPN(Virtual Private Network) may be for you.
 
-Some Benefits that a VPN provides are:
+Some benefits that a VPN provide are:
 
 - Anonymity
 - Overcoming Geo-Location challenges
@@ -30,7 +30,7 @@ I was not happy when I got a slap on the wrist from my ISP saying that I had mad
 
 ✊ They had my ip address and everything so it was time to fight back.
 
-Here are some good articles on _why you may need want a VPN_.
+Here are some good articles on _why you may need a VPN_.
 
 - [TunnelBear](https://www.tunnelbear.com/blog/always-use-a-vpn/)
 - [Mashable](https://mashable.com/article/why-you-need-vpn/)
@@ -38,17 +38,17 @@ Here are some good articles on _why you may need want a VPN_.
 
 ## Lots of VPN Options
 
-I started researching VPN options and found of a few subreddits of people raving about a few VPN providers.
+I started researching VPN options and found of a few subreddits with people raving about certain VPN providers.
 
-**Nord VPN** had been a stand out from this [sub-reddit](https://www.reddit.com/r/VPNTorrents/comments/as2cgo/whats_the_best_vpn_for_torrenting/).
+**NordVPN** had been a stand out from this [sub-reddit](https://www.reddit.com/r/VPNTorrents/comments/as2cgo/whats_the_best_vpn_for_torrenting/).
 
-[PC Mag](https://www.pcmag.com/roundup/354396/the-best-vpns-for-bittorrent) also did a great article comparing the major VPN.
+[PC Mag](https://www.pcmag.com/roundup/354396/the-best-vpns-for-bittorrent) also did a great article comparing major VPN providers.
 
 [BearTunnel](https://thewirecutter.com/reviews/best-vpn-service/) even won best VPN on wirecutter.com for best VPN service.
 
-The ultimate showdown [TunnelBear vs NordVPN](https://pixelprivacy.com/vpn/reviews/nordvpn-vs-tunnelbear/).
+The ultimate showdown between[TunnelBear vs NordVPN](https://pixelprivacy.com/vpn/reviews/nordvpn-vs-tunnelbear/).
 
-After researching several options I ended up choosing **NordVPN**:
+After researching several options I ended up choosing **NordVPN** because:
 
 - 🇵🇦based in Panama
 - 🌱[tons of servers](https://nordvpn.com/servers/tools/)
@@ -61,11 +61,11 @@ After researching several options I ended up choosing **NordVPN**:
 
 This guide is for **Ubuntu 18.04** and **NordVPN** but should work for any Debain-based system.
 
-After you have signed up for your VPN, make sure you have your credentials handy. You will need them soon.
+After you have signed up with NordVPN, make sure you have your credentials handy. You will need them soon.
 
 First thing you do is pull down the latest NordVPN file from their site.
 
-1. You'll want to be somewhere like your Downloads directory.
+1. You'll want to be somewhere like your **Downloads** directory.
 
    ```bash
 
@@ -105,7 +105,7 @@ First thing you do is pull down the latest NordVPN file from their site.
 
    ```
 
-6. (optional) If this step doesn't work for you*(like in my situation)*, try this:
+6. (optional) If step 5 doesn't work for you _(like in my situation)_, try this:
 
    ```bash
 
@@ -115,11 +115,11 @@ First thing you do is pull down the latest NordVPN file from their site.
 
    ```
 
-Now you should access to `nordvpn` command!
+🎉Now you should have access to the `nordvpn` command!
 
 ## Basic Configuration
 
-Now that you are setup with NordVPN, let's set some good default settings.
+Now that you have NordVPN installed, let's test run thru the basics to get connected to a VPN server.
 
 1. First step is to login with your NordVPN credentials.
 
@@ -129,7 +129,7 @@ Now that you are setup with NordVPN, let's set some good default settings.
 
    ```
 
-1. Once your logged in, connect to a generic server.
+2. Once your logged in, connect to a generic server.
 
    ```bash
 
@@ -137,11 +137,11 @@ Now that you are setup with NordVPN, let's set some good default settings.
 
    ```
 
-   If you want to configure to a specific server, check out there [server list](https://nordvpn.com/servers/tools/).
+   If you want to configure to a specific server, check out their [server list](https://nordvpn.com/servers/tools/).
    <br/><br/>
    ![server list](./server-list.png)
 
-1. In my example, server `us3565` was the server recommended for my location. To connect with this specific server run:
+3. In my example, server `us3565` was the server recommended for my location. To connect with this specific server run:
 
    ```bash
 
@@ -149,7 +149,7 @@ Now that you are setup with NordVPN, let's set some good default settings.
 
    ```
 
-1. To confirm that you are connected
+4. To confirm that you are connected
 
    ```bash
 
@@ -157,7 +157,7 @@ Now that you are setup with NordVPN, let's set some good default settings.
 
    ```
 
-1. When you are ready to disconnect
+5. When you are ready to disconnect
 
    ```bash
 
@@ -169,7 +169,7 @@ Now that you are setup with NordVPN, let's set some good default settings.
 
 😢Bummed out that your VPN slows down your connection?
 
-The NordVPN team has a project NordLynx which uses a new protocol that is gong to knock your socks off.
+The NordVPN team has been working on project NordLynx which uses a new protocol called _wireguard_ that is going to knock your socks off.
 
 [This PCMag article gives you all the details](https://www.pcmag.com/commentary/369921/the-vpn-industry-is-on-the-cusp-of-a-major-breakthrough).
 
@@ -185,12 +185,14 @@ To take advantage of NordLynx, follow the following steps from the [NordVPN site
 
 sudo add-apt-repository ppa:wireguard/wireguard
 sudo apt update
-sudo apt-get install wireguard
+sudo apt install wireguard
 nordvpn set technology nordlynx
 
 ```
 
-In my test I went from **80mbps** _(udp)_ to close to **250mbps** using _nordlynx_.
+In my tests, I went from **80mbps** _(udp)_ to over to **250mbps** using _nordlynx_.
+
+I have a fiber connection and without VPN on, I get around **350mbps up and down**.
 
 > 🚀Very impressive indeed
 
@@ -224,9 +226,9 @@ nordvpn set cybersec on
 
 I am happy that I have found a vpn client that is as flexible, secure, and cutting-edge as NordVPN.
 
-I feel more protected and more secure on my journeys into the web.
+I feel more protected and secure on my all my journeys on the web.
 
-Hope this guide will help you as it may help me in the future.
+Hope this guide will help you as much as it may help me in the future.
 
 > 😃#bekindtoyourfutureself
 
