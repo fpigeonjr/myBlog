@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[frankpigeon.com]]></title><description><![CDATA[Frank Pigeon's Blog]]></description><link>https://frankpigeon.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 21 Aug 2019 21:17:43 GMT</lastBuildDate><item><title><![CDATA[NordVPN Setup for Ubuntu]]></title><description><![CDATA[Motivation The world wide web is a dark and scary place and if you want to protect your privacy and resist the man than a VPN(Virtual…]]></description><link>https://frankpigeon.com/2019-08-16-vpn-setup/</link><guid isPermaLink="false">https://frankpigeon.com/2019-08-16-vpn-setup/</guid><pubDate>Fri, 16 Aug 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;motivation&quot;&gt;&lt;a href=&quot;#motivation&quot; aria-label=&quot;motivation permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Motivation&lt;/h2&gt;
-&lt;p&gt;The world wide web is a dark and scary place and if you want to protect your privacy and resist the man than a VPN(Virtual Private Network) may be for you.&lt;/p&gt;
-&lt;p&gt;Some Benefits that a VPN provides are:&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[frankpigeon.com]]></title><description><![CDATA[Frank Pigeon's Blog]]></description><link>https://frankpigeon.com</link><generator>RSS for Node</generator><lastBuildDate>Thu, 22 Aug 2019 15:20:42 GMT</lastBuildDate><item><title><![CDATA[NordVPN Setup for Ubuntu]]></title><description><![CDATA[Motivation The world wide web is a dark and scary place. If you want to protect your privacy and resist the man, then a VPN(Virtual Private…]]></description><link>https://frankpigeon.com/2019-08-16-vpn-setup/</link><guid isPermaLink="false">https://frankpigeon.com/2019-08-16-vpn-setup/</guid><pubDate>Fri, 16 Aug 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;motivation&quot;&gt;&lt;a href=&quot;#motivation&quot; aria-label=&quot;motivation permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;The world wide web is a dark and scary place. If you want to protect your privacy and resist the man, then a VPN(Virtual Private Network) may be for you.&lt;/p&gt;
+&lt;p&gt;Some benefits that a VPN provide are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Anonymity&lt;/li&gt;
 &lt;li&gt;Overcoming Geo-Location challenges&lt;/li&gt;
@@ -11,19 +11,19 @@
 &lt;p&gt;If you have been copying, sharing, or otherwise using copyrighted content without the copyright owner’s permission using your Internet service, we recommend you stop doing it immediately.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;✊ They had my ip address and everything so it was time to fight back.&lt;/p&gt;
-&lt;p&gt;Here are some good articles on &lt;em&gt;why you may need want a VPN&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Here are some good articles on &lt;em&gt;why you may need a VPN&lt;/em&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.tunnelbear.com/blog/always-use-a-vpn/&quot;&gt;TunnelBear&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://mashable.com/article/why-you-need-vpn/&quot;&gt;Mashable&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.howtogeek.com/133680/htg-explains-what-is-a-vpn/&quot;&gt;How-To-Geek&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;lots-of-vpn-options&quot;&gt;&lt;a href=&quot;#lots-of-vpn-options&quot; aria-label=&quot;lots of vpn options permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Lots of VPN Options&lt;/h2&gt;
-&lt;p&gt;I started researching VPN options and found of a few subreddits of people raving about a few VPN providers.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Nord VPN&lt;/strong&gt; had been a stand out from this &lt;a href=&quot;https://www.reddit.com/r/VPNTorrents/comments/as2cgo/whats_the_best_vpn_for_torrenting/&quot;&gt;sub-reddit&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.pcmag.com/roundup/354396/the-best-vpns-for-bittorrent&quot;&gt;PC Mag&lt;/a&gt; also did a great article comparing the major VPN.&lt;/p&gt;
+&lt;p&gt;I started researching VPN options and found of a few subreddits with people raving about certain VPN providers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NordVPN&lt;/strong&gt; had been a stand out from this &lt;a href=&quot;https://www.reddit.com/r/VPNTorrents/comments/as2cgo/whats_the_best_vpn_for_torrenting/&quot;&gt;sub-reddit&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.pcmag.com/roundup/354396/the-best-vpns-for-bittorrent&quot;&gt;PC Mag&lt;/a&gt; also did a great article comparing major VPN providers.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://thewirecutter.com/reviews/best-vpn-service/&quot;&gt;BearTunnel&lt;/a&gt; even won best VPN on wirecutter.com for best VPN service.&lt;/p&gt;
-&lt;p&gt;The ultimate showdown &lt;a href=&quot;https://pixelprivacy.com/vpn/reviews/nordvpn-vs-tunnelbear/&quot;&gt;TunnelBear vs NordVPN&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;After researching several options I ended up choosing &lt;strong&gt;NordVPN&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;The ultimate showdown between&lt;a href=&quot;https://pixelprivacy.com/vpn/reviews/nordvpn-vs-tunnelbear/&quot;&gt;TunnelBear vs NordVPN&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;After researching several options I ended up choosing &lt;strong&gt;NordVPN&lt;/strong&gt; because:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;🇵🇦based in Panama&lt;/li&gt;
 &lt;li&gt;🌱&lt;a href=&quot;https://nordvpn.com/servers/tools/&quot;&gt;tons of servers&lt;/a&gt;&lt;/li&gt;
@@ -34,11 +34,11 @@
 &lt;/ul&gt;
 &lt;h2 id=&quot;install&quot;&gt;&lt;a href=&quot;#install&quot; aria-label=&quot;install permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Install&lt;/h2&gt;
 &lt;p&gt;This guide is for &lt;strong&gt;Ubuntu 18.04&lt;/strong&gt; and &lt;strong&gt;NordVPN&lt;/strong&gt; but should work for any Debain-based system.&lt;/p&gt;
-&lt;p&gt;After you have signed up for your VPN, make sure you have your credentials handy. You will need them soon.&lt;/p&gt;
+&lt;p&gt;After you have signed up with NordVPN, make sure you have your credentials handy. You will need them soon.&lt;/p&gt;
 &lt;p&gt;First thing you do is pull down the latest NordVPN file from their site.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;You’ll want to be somewhere like your Downloads directory.&lt;/p&gt;
+&lt;p&gt;You’ll want to be somewhere like your &lt;strong&gt;Downloads&lt;/strong&gt; directory.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;cd&lt;/span&gt; ~/Downloads&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -58,15 +58,15 @@
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;apt&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; nordvpn&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;(optional) If this step doesn’t work for you&lt;em&gt;(like in my situation)&lt;/em&gt;, try this:&lt;/p&gt;
+&lt;p&gt;(optional) If step 5 doesn’t work for you &lt;em&gt;(like in my situation)&lt;/em&gt;, try this:&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;wget&lt;/span&gt; https://repo.nordvpn.com/gpg/nordvpn_public.asc -O - &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; apt-key &lt;span class=&quot;token function&quot;&gt;add&lt;/span&gt; -
 
 &lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;apt&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; nordvpn&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Now you should access to &lt;code class=&quot;language-text&quot;&gt;nordvpn&lt;/code&gt; command!&lt;/p&gt;
+&lt;p&gt;🎉Now you should have access to the &lt;code class=&quot;language-text&quot;&gt;nordvpn&lt;/code&gt; command!&lt;/p&gt;
 &lt;h2 id=&quot;basic-configuration&quot;&gt;&lt;a href=&quot;#basic-configuration&quot; aria-label=&quot;basic configuration permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Basic Configuration&lt;/h2&gt;
-&lt;p&gt;Now that you are setup with NordVPN, let’s set some good default settings.&lt;/p&gt;
+&lt;p&gt;Now that you have NordVPN installed, let’s test run thru the basics to get connected to a VPN server.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;First step is to login with your NordVPN credentials.&lt;/p&gt;
@@ -75,7 +75,7 @@
 &lt;li&gt;
 &lt;p&gt;Once your logged in, connect to a generic server.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;nordvpn connect&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;c&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;If you want to configure to a specific server, check out there &lt;a href=&quot;https://nordvpn.com/servers/tools/&quot;&gt;server list&lt;/a&gt;.
+&lt;p&gt;If you want to configure to a specific server, check out their &lt;a href=&quot;https://nordvpn.com/servers/tools/&quot;&gt;server list&lt;/a&gt;.
 &lt;br/&gt;&lt;br/&gt;
 &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
@@ -131,7 +131,7 @@
 &lt;/ol&gt;
 &lt;h2 id=&quot;advanced-configuration&quot;&gt;&lt;a href=&quot;#advanced-configuration&quot; aria-label=&quot;advanced configuration permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Advanced Configuration&lt;/h2&gt;
 &lt;p&gt;😢Bummed out that your VPN slows down your connection?&lt;/p&gt;
-&lt;p&gt;The NordVPN team has a project NordLynx which uses a new protocol that is gong to knock your socks off.&lt;/p&gt;
+&lt;p&gt;The NordVPN team has been working on project NordLynx which uses a new protocol called &lt;em&gt;wireguard&lt;/em&gt; that is going to knock your socks off.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.pcmag.com/commentary/369921/the-vpn-industry-is-on-the-cusp-of-a-major-breakthrough&quot;&gt;This PCMag article gives you all the details&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;🔥And the numbers don’t lie (credit PC Mag)&lt;/p&gt;
@@ -141,9 +141,10 @@
 &lt;h3 id=&quot;install-wireguard&quot;&gt;&lt;a href=&quot;#install-wireguard&quot; aria-label=&quot;install wireguard permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Install WireGuard&lt;/h3&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; add-apt-repository ppa:wireguard/wireguard
 &lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;apt&lt;/span&gt; update
-&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;apt-get&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; wireguard
+&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;apt&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; wireguard
 nordvpn &lt;span class=&quot;token builtin class-name&quot;&gt;set&lt;/span&gt; technology nordlynx&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;In my test I went from &lt;strong&gt;80mbps&lt;/strong&gt; &lt;em&gt;(udp)&lt;/em&gt; to close to &lt;strong&gt;250mbps&lt;/strong&gt; using &lt;em&gt;nordlynx&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In my tests, I went from &lt;strong&gt;80mbps&lt;/strong&gt; &lt;em&gt;(udp)&lt;/em&gt; to over to &lt;strong&gt;250mbps&lt;/strong&gt; using &lt;em&gt;nordlynx&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I have a fiber connection and without VPN on, I get around &lt;strong&gt;350mbps up and down&lt;/strong&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;🚀Very impressive indeed&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -199,8 +200,8 @@ nordvpn &lt;span class=&quot;token builtin class-name&quot;&gt;set&lt;/span&gt; 
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;nordvpn &lt;span class=&quot;token builtin class-name&quot;&gt;set&lt;/span&gt; cybersec on&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2 id=&quot;conclusion&quot;&gt;&lt;a href=&quot;#conclusion&quot; aria-label=&quot;conclusion permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;I am happy that I have found a vpn client that is as flexible, secure, and cutting-edge as NordVPN.&lt;/p&gt;
-&lt;p&gt;I feel more protected and more secure on my journeys into the web.&lt;/p&gt;
-&lt;p&gt;Hope this guide will help you as it may help me in the future.&lt;/p&gt;
+&lt;p&gt;I feel more protected and secure on my all my journeys on the web.&lt;/p&gt;
+&lt;p&gt;Hope this guide will help you as much as it may help me in the future.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;😃#bekindtoyourfutureself&lt;/p&gt;
 &lt;/blockquote&gt;
